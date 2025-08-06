@@ -29,11 +29,11 @@ const flags = {
   '🇺🇸': 'United States',
 }
 const harveyBalls = {
-  '○': ['#e22', 'Non-linear', 'Not at all'],
-  '◔': ['#f92', 'No Latin chars, but linear', 'A little bit'],
+  '○': ['#e22', 'No Latin symbols, non-linear', 'Not at all'],
+  '◔': ['#f92', 'No Latin symbols, but linear', 'A little bit'],
   '◑': ['#fd0', 'Latin alphabet + odd symbols', 'Half'],
   '◕': ['#8c3', 'A few odd symbols', 'Mostly'],
-  '●': ['#0b5', 'No font needed', 'Completely'],
+  '●': ['#0b5', 'Written with Latin symbols', 'Completely'],
 }
 
 const flagRegex = RegExp(

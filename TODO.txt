@@ -4,4 +4,17 @@
   CLOSED: [2025-08-06 Wed 15:03]
   Using the same colors that is used by "Consumer Reports":
   https://www.consumerreports.org/consumer-reports/we-put-ourselves-to-the-test/
+* TODO Bergeron (2006: 6) mentions the following notations
+** TODO le système Papaspyrou;
+** TODO le système Liddell-Johnson;
+** TODO SignFont
+    Melntire, M., D. Newkirk, S. Hutchins et H. Poizner (1987) "Hands and
+      faces: A preliminary inventory for written ASL", in *Sign Language
+      Studies*, no. 56, pp. 197-241.
+* TODO Make table sortable by columns
+* TODO Table should scroll sideways
+* TODO Add data table with basic info for each writing system
+* TODO Resort headlines in year order
+* TODO Add a bunch of PDFs
+* TODO Find Moody (1986) -- referenced by Bergeron (2006)
 * [eof]
