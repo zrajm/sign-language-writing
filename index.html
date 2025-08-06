@@ -1,0 +1,834 @@
+<!DOCTYPE html><meta charset=utf-8><!--*- markdown -*-->
+<link rel=stylesheet href=www/nojs.css><textarea disabled>
+
+Author: Zrajm
+Created: 2025-08-03T11:49+02:00
+Updated: 2025-08-06T15:09+02:00
+License: CC BY-NC-SA (text), GPLv2 (code).
+Favicon: pic/favicon.svg
+
+# Sign Language Writing
+
+> This is an overview of all sign language writing systems I've been able to
+> find in the literature. They range from systems that only use the Latin
+> alphabet, to systems with a completely novel symbol inventory, and from
+> detailed transcription systems for scientific use, to writing systems
+> intended for everyday use.
+
+<toc heading=Contents class=toc upto=1>
+
+-------------------------------------------------------------------------------
+
+<div class=sign-language-table>
+
+| Year  | Name                     | <p>Latin | <p>Language | <p>Country | Creator                          |                  |
+|-------|--------------------------|----------|-------------|------------|----------------------------------|------------------|
+| --    | [Gloss]                  | ●        | any         |            |                                  |                  |
+| 1825  | [Mimography]             | ○        | LSF         | 🇫🇷         | Auguste Bébian                   |                  |
+| 1960  | [Stokoe Notation]        | ◑        | ASL         | 🇺🇸         | William C. Stokoe                |                  |
+| 1960  | [West Notation]          | ◕?       | PISL        | 🇺🇸         | LaMont West                      |                  |
+| 1974  | [Sutton SignWriting]     | ○        | Any         | 🇩🇰? 🇺🇸     | Valerie Sutton                   |                  |
+| 1977  | [Bergman Notation]       | ◑        | STS         | 🇸🇪         | Brita Bergman                    |                  |
+| 1980  | [IVT Notation]           |          | LSF         | 🇫🇷         |                                  |                  |
+| 1984? | [HamNoSys]               | ◔        | Any         | 🇩🇪         |                                  | (FIXME: Year?)   |
+| 1987  | [SignFont]               | ◔        | ASL         | 🇺🇸         | Don E. Newkirk                   |                  |
+| 1990  | [D'Sign]                 | ◔        | LSF         | 🇫🇷         | Paul Jouison                     |                  |
+| 1992  | [ASL-phabet]             | ◔        | ASL         | 🇺🇸         | Samuel Supalla                   |                  |
+| 1993  | [ASCII-Stokoe Notation]  | ●        | ASL         | 🇺🇸         | Mark A. Mandel                   |                  |
+| 1994  | [SBM Notation]           |          | LSF         | 🇫🇷         |                                  |                  |
+| 1995  | [FBL Notation]           | x        | Libras      | 🇫🇷 🇧🇷      |                                  | (1994? 1995?)    |
+| 1995  | [Farnell Labanotation]   | ○        | PISL        | 🇺🇸         | Brenda Farnell                   |                  |
+| 1996  | [Nève Notation]          | ◕        | LSFB        | 🇧🇪         | François-Xavier Nève             |                  |
+| 1997  | [ASL Orthography]        | ●        | ASL         | 🇺🇸         | Travis Low                       |                  |
+| 1997  | [AusWrite] (?)           | ?        | Auslan      | 🇦🇺?        | David Rose                       | (FIXME: Exists?) |
+| 1997  | [ELiS]                   |          | Libras/any  | 🇧🇷?        | Mariângela Estelita Barros       | (1997? 1998?)    |
+| 1997  | [SMYLE]                  |          | LSF/any     | 🇫🇷         | Maryline Pierrat-Frappé          |                  |
+| 2000  | [SLIPA]                  | ●        | any         | 🇦🇺         | David J. Peterson                | (2000? 2006?)    |
+| 2001  | [Visagrafía]             |          | LSC         | 🇨🇴?        | Jaime Hernández Gutiérrez et al. |                  |
+| 2003  | [Early Si5s]             | ○        | ASL         | 🇺🇸         | Robert Arnold Augustus           |                  |
+| 2006  | [ScripSig]               | ?        | Libras?     | 🇧🇷?        | Mariângela Estelita Barros       |                  |
+| 2006? | [Tilkin Notation]        | ●        | LSF         | 🇫🇷?        |                                  |                  |
+| 2009  | [ASLSJ]                  | ●        | ASL         | 🇺🇸         | Thomas Stone                     |                  |
+| 2009  | [SEL]                    |          | Libras      | 🇧🇷         | Adriana S. C. Lessa-de-Oliveira  |                  |
+| 2010  | [SignScript]             | ◔        | ASL         | 🇺🇸         | Donald A. Grushkin               |                  |
+| 2011  | [ASLwrite]               | ○        | ASL         | 🇺🇸         | Adrean Clark & Julia Dameron     |                  |
+| 2013  | [Late Si5s]              | ○        | ASL         | 🇺🇸         | Robert Arnold Augustus           |                  |
+| 2013  | [Symbol Font for ASL]    | ?        | ASL         | 🇺🇸         | —                                |                  |
+| 2014  | [Séro-Guillaume Writing] | x        | LSF         | 🇫🇷         |                                  |                  |
+| 2015? | [Typannot]               | ?        | LSF/any     | 🇫🇷?        | ?                                |                  |
+| 2016  | [Signotation]            | ?        | ASL         | 🇺🇸         | Shelly Hansen                    |                  |
+| 2016  | [VisoGrafia]             |          | Libras/any  | 🇧🇷         | Claudio Alves Benassi            |                  |
+| 2020  | [AusWrit]                | ○        | Auslan      | 🇦🇺?        | LinguaPhiliax                    |                  |
+
+</div>
+
+<figure>
+
+|   | Description  | For Latin            |
+|---|--------------|----------------------|
+| ○ | Not at all   | Non-linear           |
+| ◔ | A little bit | No alpha, but linear |
+| ◑ | Half         | Alpha + odd symbols  |
+| ◕ | Mostly       | A few odd symbols    |
+| ● | Completely   | No font needed       |
+
+<figcaption>
+Legend for [Harvey balls](//en.wikipedia.org/wiki/Harvey_balls).
+</figcaption>
+</figure>
+
+The below data was produced with the help of Google NoteLM. Each snippet of
+fact that have not (yet) been manually verified are marked "FIX​ME".
+
+
+# Gloss and Latin-Based Systems
+
+This category includes systems that primarily use letters from the Latin
+alphabet or words (glosses) to represent signs, even if those letters are
+assigned arbitrary or non-phonetic meanings specific to the sign language
+context.
+
+
+[Gloss]: #gloss
+## Gloss
+
+
+* **Inventor(s)**: Not attributed to a single inventor; it is a long-standing
+  conventional practice. FIXME
+* **Year of creation**: No specific date is given, but it has been "used for
+  years" in studying and teaching American Sign Language (ASL). FIXME
+* **Country of origin**: Not explicitly stated, but its use in "ASL textbooks"
+  and focus on ASL grammar implies a **USA** context. FIXME
+* **Sign language(s) created for/can be used for**: Primarily used for
+  **American Sign Language (ASL)**, but serves as a general method for
+  representing signs across various signed languages in research. It uses
+  English words (conventionally in capital letters) to represent signs. FIXME
+* **Estimates for numbers of users today**: It is **not typically used for
+  personal written communication**. Its primary use is in **linguistic analysis
+  and teaching** to facilitate discussions about sign language grammar. FIXME
+* **Certainty of data**: High regarding its purpose and non-personal use;
+  specific user numbers are not available. FIXME
+
+
+[ASL Orthography]: #asl-orthography
+## [#asl-orthography] 1997: ASL Orthography
+
+* **Inventor(s)**: **Travis Low** (a hearing computer programmer and ASL
+  student). FIXME
+* **Year of creation**: **1997**. FIXME
+* **Country of origin**: Not explicitly stated, but implied as **USA** due to
+  its focus on ASL. FIXME
+* **Sign language(s) created for/can be used for**: Developed to aid the
+  inventor's learning of **American Sign Language (ASL)**. It is based on
+  **ASCII characters** (including upper-case letters and numbers). FIXME
+* **Estimates for numbers of users today**: Information about its use is
+  **scarce and incomplete**. It was intended for personal use. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[FBL Notation]: #fbl
+## [#fbl] 1995: Ferreira-Brito-Langevin Notation (Notação de Ferreira-Brito-Langevin)
+
+* **Inventor(s)**: **Lucinda Ferreira Brito** and **Rémi Langevin**. FIXME
+* **Year of creation**: **1995**. FIXME
+* **Country of origin**: **Brazil** (Lucinda Ferreira Brito, Federal University
+  of Rio de Janeiro) and **France** (Rémi Langevin, University of Burgundy). FIXME
+* **Sign language(s) created for/can be used for**: Developed for **Libras
+  (Brazilian Sign Language)**, particularly for creating a dictionary. It uses
+  **alphanumeric characters** and is described as being of an "alphabetic
+  type". It is adaptable for various sign languages. FIXME
+* **Estimates for numbers of users today**: Primarily used for **academic and
+  scientific notation**. FIXME
+* **Certainty of data**: High regarding its academic use; low for widespread
+  daily use. FIXME
+
+
+[Nève Notation]: #neve
+## [#neve] 1996: Nève Notation (Notation des Gestèmes)
+
+Also called *Gesteme Notation* (or "Notation des Gestèmes").
+
+* **Inventor(s)**: **François-Xavier Nève** (a hearing professor). FIXME
+* **Year of creation**: **1996**. FIXME
+* **Country of origin**: **Belgium** (University of Liège). FIXME
+* **Sign language(s) created for/can be used for**: Designed for **LSFB (French
+  Belgian Sign Language)**. It uses **ASCII characters** (letters, numbers, and
+  non-alphanumeric characters) for numeric coding and non-linear computerised
+  organisation of signs. It is oriented vertically in columns. FIXME
+* **Estimates for numbers of users today**: Primarily used for **academic and
+  scientific notation**. FIXME
+* **Certainty of data**: High regarding its academic use; low for widespread
+  daily use. FIXME
+
+
+[SLIPA]: #slipa
+## [#slipa] 2000(?): SLIPA (Sign Language International Phonetic Alphabet)
+
+* **Inventor(s)**: **David Peterson**. FIXME
+* **Year of creation**: **2000**. FIXME
+* **Country of origin**: Not explicitly stated, but it is designed as an "IPA
+  for Signed Languages", suggesting an international application. FIXME
+* **Sign language(s) created for/can be used for**: Primarily intended for
+  **transcription** of any signed language, rather than as an everyday
+  orthography. It is composed of **Latin alphabet letters, numerals, and Arabic
+  numerals** (ASCII characters). It is adaptable for various sign languages. FIXME
+* **Estimates for numbers of users today**: Used for **recreational and
+  academic** purposes. FIXME
+* **Certainty of data**: High for its intended purpose; low for widespread
+  daily use. FIXME
+
+
+[ASLSJ]: #aslsj
+## [#aslsj] 2009: ASLSJ (ASL Sign Jotting)
+
+* **Inventor(s)**: **Thomas Stone**. FIXME
+* **Year of creation**: **2009**. FIXME
+* **Country of origin**: Not explicitly stated, but the name implies **USA**. FIXME
+* **Sign language(s) created for/can be used for**: **American Sign Language
+  (ASL)**. It is designed to allow a variable degree of ambiguity, relying on
+  the reader's existing ASL knowledge. It utilises **ASCII characters**. FIXME
+* **Estimates for numbers of users today**: Intended for **dictionary and
+  personal use**. FIXME
+* **Certainty of data**: High for its intended purpose; low for widespread
+  adoption. FIXME
+
+
+[Séro-Guillaume Writing]: #sero-guillaume
+## [#sero-guillaume] 2014: Alphabetic Writing of Philippe Séro-Guillaume (L'écriture alphabétique de Philippe Séro-Guillaume)
+
+* **Inventor(s)**: **Philippe Séro-Guillaume** (a linguist). FIXME
+* **Year of creation**: **2014**. FIXME
+* **Country of origin**: **France**. FIXME
+* **Sign language(s) created for/can be used for**: Proposed for **French Sign
+  Language (LSF)**. It aims to write signs using the **"current alphabet"
+  (Latin alphabet)**, assigning typographic signs to represent the five
+  parameters of signs. FIXME
+* **Estimates for numbers of users today**: This is a **recent proposal**, and
+  its adoption or widespread use is not detailed in the sources. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[Tilkin Notation]: #tilkin
+## [#tilkin] 2006: Tilkin Notation
+
+This is an alphanumerical system, briefly illustrated with an example sign in
+[Bergeron \(2006: 7\)][Bergeron 2006]---and the references in the same source
+also states that Tilkin's manuscript in unpublished.
+
+* **Inventor(s)**: **Gérald Tilkin**.
+* **Year of creation**: Unsure, but Bergeron mentions it in the year 2006.
+* **Country of origin**: Not explicitly stated, but the example provided is
+  from **French Sign Language (LSF)**.
+* **Sign language(s) created for/can be used for**: Proposed for **LSF**. It
+  seeks to use the "same graphemes as the systems for oral languages,"
+  employing **alphanumeric characters** with arbitrary associations to sign
+  components.
+* **Estimates for numbers of users today**: Not specified, likely an academic
+  proposal not intended for or widely adopted for everyday use.
+
+> With regard to writing systems, they differ from earlier systems in their aim
+> of being used regularly by all speakers of a language, rather than solely by
+> specialists. In this respect, these systems are comparable to the orthography
+> of a spoken language. These systems are explicitly intended to create a
+> written modality for a sign language and are developed with that purpose in
+> mind. Some proposals, such as that of Gérald Tilkin (Tilkin, manuscript),
+> attempt to use the same graphemes as those used for spoken language systems.
+> For example, in Tilkin's system, the LSF sign for "écrire" ("to write", as
+> illustrated in Moody, 1986) is written as: `s28dd+!F-l7`. The written form of
+> this sign reflects the following elements:
+>
+> <figure class=bergeron2006>
+> <style>.bergeron2006 td { vertical-align: top; text-align: left; border: 0 }</style>
+> <figcaption>Figure 5: "To write" (in LSF) taken from Moody (1986)</figcaption>
+>
+> ![](pic/bergeron2006-fig5.png)
+>
+> | `s28`: | Handshape /S/ (`s`); variant with the index finger extended (`2`); palm facing downward (`8`)|
+> | `dd+`: | Straight movement repeated twice (double `d`); forward direction (`+`) |
+> | `!F`:  | Contact from the dominant hand (`!`); with the other hand (`F`) |
+> | `-`:   | Hand change |
+> | `l7`:  | Non-dominant hand extended, fingers together (`l`); palm facing upward (`7`) |
+>
+> </figure>
+>
+> This system is composed of around sixty letters, numbers, and typographic
+> symbols divided into seven groups:
+>
+> * Form-letters (18 letters, each representing a handshape);
+> * Movement-letters (9 letters, each representing a type of hand movement);
+> * Body-letters (6 letters, each representing a place of articulation);
+> * Face-letters (12 letters, each representing a facial expression);
+> * Direction-letters (6 characters, including 4 numbers and 2 typographic symbols, each representing a direction);
+> * Part-letters (5 numbers which, when combined with body-letters, specify a part of the body);
+> * "Other letters" (4 typographic symbols representing hand change, parallelism or symmetry of manual behaviors, or contact).
+>
+> In Tilkin's system, all associations between graphemes and what he calls
+> 'gesture-parts' (that is, a chereme) are entirely arbitrary and have nothing
+> to do with the shape of the graphemes or the shape of the cheremes.
+> ([Bergeron 2006]: 7)
+
+
+[ASCII-Stokoe Notation]: #ascii-stokoe
+## [#ascii-stokoe] 1993: ASCII-Stokoe Notation
+
+FIXME
+
+
+# Non-Latin Systems
+
+This category includes any system that uses one or more glyphs or characters
+developed specifically for representing sign language features, which are not
+part of the standard Latin alphabet. This includes iconic, pictographic, or
+unique abstract symbols. FIXME
+
+
+[Stokoe Notation]: #stokoe
+## [#stokoe] 1960: Stokoe Notation
+
+* https://en.wikipedia.org/wiki/Stokoe_notation
+
+* **Inventor(s)**: **William Stokoe**, with **D. Casterline** and **C.
+  Croneberg**. FIXME
+* **Year of creation**: The initial system was developed in **1960**. A
+  dictionary based on linguistic principles was published in **1965**. FIXME
+* **Country of origin**: **USA** (Gallaudet University). FIXME
+* **Sign language(s) created for/can be used for**: Primarily for **American
+  Sign Language (ASL)**. It uses letters and numbers for handshapes, combined
+  with **conventionalised iconic symbols** for location, movement, and spatial
+  relations. It has been adapted and extended for other sign languages, such as
+  British Sign Language and Swedish Sign Language. FIXME
+* **Estimates for numbers of users today**: Predominantly used by **linguists
+  and researchers** for phonological analysis. It is one of the **most widely
+  used notation systems** in academic research. FIXME
+* **Certainty of data**: High regarding its academic use; not for widespread
+  daily use. FIXME
+
+
+[Mimography]: #mimography
+## [#mimography] 1825: Mimography (Mimographie)
+
+* **Inventor(s)**: **Roch Ambroise Auguste Bébian**. FIXME
+* **Year of creation**: First sketched in **1817**, with a detailed system
+  presented in **1825**. FIXME
+* **Country of origin**: **France** (Paris). FIXME
+* **Sign language(s) created for/can be used for**: Developed for **French Sign
+  Language (LSF)**. It comprises approximately **190 unique, iconic
+  characters** representing hand configurations, palm orientation, location,
+  movements, and non-manual expressions. It is a unilinear system. FIXME
+* **Estimates for numbers of users today**: This is a **historical system** and
+  is **not in widespread daily use** today. Its primary significance is
+  historical and academic. FIXME
+* **Certainty of data**: High for historical significance; low for current
+  widespread use. FIXME
+
+
+[Sutton SignWriting]: #signwriting
+## [#signwriting] 1974: Sutton SignWriting (SignWriting)
+
+* https://en.wikipedia.org/wiki/SignWriting
+
+* **Inventor(s)**: **Valerie Sutton** (a hearing dancer and movement writing
+  specialist), with collaboration from **Adam Frost** (a Deaf researcher). FIXME
+* **Year of creation**: **1974**. It evolved from Sutton Movement Writing
+  (1973). FIXME
+* **Country of origin**: Initiated at the request of researchers in
+  **Copenhagen, Denmark**, but Valerie Sutton is **American**. FIXME
+* **Sign language(s) created for/can be used for**: Designed to precisely write
+  **any signed language**. It is becoming a daily writing system for languages
+  like ASL, German Sign Language, and Brazilian Sign Language. It can document
+  all five parameters of sign languages using its specific alphabet, the
+  International SignWriting Alphabet (ISWA 2010). It is a **pictorial**,
+  **bidimensional**, and typically **vertical** writing system. It includes
+  approximately **900 symbols**. FIXME
+* **Estimates for numbers of users today**: In use in **many countries (over
+  40)** and was chosen for a preliminary ASL Wikipedia translation. It is
+  considered the "most known and widespread" system and one of the "most
+  promising systems" in Brazil. It is taught in specialized schools in various
+  countries. FIXME
+* **Certainty of data**: High for widespread adoption and active use. FIXME
+
+
+[HamNoSys]: #hamnosys
+## [#hamnosys] 1985(?): HamNoSys (Hamburg Notation System)
+
+* https://en.wikipedia.org/wiki/Hamburg_Notation_System
+* https://www.scriptsource.org/scr/Qabn
+
+* **Inventor(s)**: A group of researchers at the **University of Hamburg**
+  (including Prillwitz, Leven, Zienert, Hanke, and Henning). FIXME
+* **Year of creation**: Development began in **1985**, with the first version
+  published in **1984** and further details in 1987. FIXME
+* **Country of origin**: **Germany** (University of Hamburg). FIXME
+* **Sign language(s) created for/can be used for**: Designed to precisely write
+  **any signed language**, including non-manual features. It employs **iconic
+  representations** for handshapes and other parameters. It is a linear system,
+  read left-to-right, and uses subscripts, superscripts, and diacritics. It is
+  adaptable for various sign languages. It contains **210 characters**. FIXME
+* **Estimates for numbers of users today**: It is **popular for academic
+  purposes** and is one of the **most widely used notation systems by
+  researchers**. It is considered the "most developed" system derived from
+  Stokoe. FIXME
+* **Certainty of data**: High regarding its academic use; not for widespread
+  daily use. FIXME
+
+
+[SignFont]: #signfont
+## [#signfont] 1987: SignFont
+
+* **Inventor(s)**: **Don Newkirk** (a linguist). Developed at the Salk
+  Institute for Biological Studies and Emerson and Stern Associates. FIXME
+* **Year of creation**: **1987**. FIXME
+* **Country of origin**: **USA** (Salk Institute, California). FIXME
+* **Sign language(s) created for/can be used for**: Developed for **American
+  Sign Language (ASL)**. Its symbols are **invented and partially iconic**
+  (especially for handshapes), aiming for a balance between iconicity and
+  conciseness. It is a linear, horizontal, left-to-right system. It was one of
+  the **first systems to have a computer font** version. FIXME
+* **Estimates for numbers of users today**: Primarily for **academic use**,
+  particularly as a **computerised font**. FIXME
+* **Certainty of data**: High for academic/computer use; low for widespread
+  personal use. FIXME
+
+
+[D'Sign]: #dsign
+## [#dsign] 1990: D'Sign
+
+> In 1983 and 1990, Paul Jouison published "D'Sign" as a notation system for
+> French Sign Language.
+
+* **Inventor(s)**: **Paul Jouison** (a hearing educator). FIXME
+* **Year of creation**: **1990**.
+* **Country of origin**: **France**.
+* **Sign language(s) created for/can be used for**: Intended as an "authentic
+  writing" system for **French Sign Language (LSF)**. It has a "particular
+  alphabet" and **combines exclusive characters with Latin alphabet letters**.
+  It is a linear, horizontal, left-to-right system. FIXME
+* **Estimates for numbers of users today**: Little information is available as
+  Jouison died shortly after its creation. It is **not widely known**. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[SMYLE]: #smyle
+## [#smyle] 1997: SMYLE (Signographie Manuscrite YaelLE)
+
+* **Inventor(s)**: **Maryline Pierrat-Frappé** (known as Yaelle, a hearing
+  individual) and an international working group. FIXME
+* **Year of creation**: **1997**. FIXME
+* **Country of origin**: **France**. FIXME
+* **Sign language(s) created for/can be used for**: Based on **French Sign
+  Language (LSF)**, but designed to facilitate the learning of sign languages
+  in general. It uses **simple geometric figures for facial expressions** and
+  is aesthetically pleasing, drawing some inspiration from Chinese ideograms.
+  It is claimed it can write "any sign of any country". Text is linear and
+  horizontal, while isolated signs are grouped vertically. It uses "exclusive"
+  (unique) characters. FIXME
+* **Estimates for numbers of users today**: Described as "currently operational
+  in France" and is taught through organised stages. FIXME
+* **Certainty of data**: High for existence and some use in France; lower for
+  widespread adoption. FIXME
+
+
+[ELiS]: #elis
+## [#elis] 1997: ELiS (Escrita das Línguas de Sinais)
+
+* **Inventor(s)**: **Mariângela Estelita Barros**. FIXME
+* **Year of creation**: **1997**. FIXME
+* **Country of origin**: **Brazil** (Federal University of Goiás (UFG)). FIXME
+* **Sign language(s) created for/can be used for**: Designed for the formal
+  registration of sign languages, especially **Libras (Brazilian Sign
+  Language)**. It has its own unique symbols called "**digibet**" or
+  "visografemas," classified to represent each parameter, and also incorporates
+  some Latin alphabet letters. It is a linear, horizontal, left-to-right
+  system. It emphasizes simplicity and has a computer font. It has **95
+  characters** and is adaptable for various sign languages. FIXME
+* **Estimates for numbers of users today**: Utilised and disseminated by
+  several **Brazilian universities** (UFG, UFGD, UFMT). It is considered one of
+  the "most promising systems" in Brazil. FIXME
+* **Certainty of data**: High for academic and promising use in Brazil; less
+  certain for widespread daily use. FIXME
+
+
+[Visagrafía]: #visagrafia
+## [#visagrafia] 2001: Visagrafía
+
+(Note: This is distinct from [VisoGrafia], a later system.)
+
+* **Inventor(s)**: **Jaime Hernández Gutiérrez and collaborators** (Deaf and
+  hearing researchers). FIXME
+* **Year of creation**: **2001**. FIXME
+* **Country of origin**: Not explicitly stated, but the inventor's name
+  suggests a **Spanish-speaking country**. It was created for "LSC". FIXME
+* **Sign language(s) created for/can be used for**: Created for **LSC**
+  (potentially Spanish Sign Language). It is based on **ideographic symbols**,
+  with some pictorial and specific graphemes. It is composed of unique
+  characters. It supports both horizontal (for text) and vertical (for isolated
+  signs) writing. FIXME
+* **Estimates for numbers of users today**: Not specified in detail; described
+  as an "ideographic base" system. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[Early Si5s]: #early-si5s
+## [#early-si5s] 2007: Early Si5s
+
+* https://en.wikipedia.org/wiki/Si5s
+
+* **Inventor(s)**: **Robert Arnold** (a Deaf linguist). FIXME
+* **Year of creation**: **2007**, marked by Arnold's Master's thesis *A
+  Proposal for a Written System of American Sign Language* (though started
+  working on the system started as early as 2003).
+* **Country of origin**: **USA** (Gallaudet University).
+* **Sign language(s) created for/can be used for**: Specifically for **American
+  Sign Language (ASL)**. It has its own alphabet called "**digibet**" with **67
+  symbols** for handshapes. It uses a mix of **phonetic and ideographic
+  characters**. The writing is linear, left-to-right, but characters are not
+  arranged linearly. It is pictorial. It has **80 characters**. FIXME
+* **Estimates for numbers of users today**: Described as a system for **public
+  use**. FIXME
+* **Certainty of data**: Low on specific user numbers, but mentioned as a
+  system that the community might adopt. FIXME
+
+
+[Late Si5s]: #late-si5s
+## [#late-si5s] 2013: Late Si5s
+
+* https://en.wikipedia.org/wiki/Si5s
+
+* **Inventor(s)**: **Robert Arnold** (deaf).
+* **Year of creation**: **2013**, as marked by the publication of *The
+  Official American Sign Language Writing Textbook* (Arnold Augustus et al.)
+
+FIXME
+
+
+[SEL]: #sel
+## [#sel] 2009: SEL (Sistema de Escrita de Língua de Sinais)
+
+* **Inventor(s)**: **Adriana Stela Cardoso Lessa de Oliveira**. FIXME
+* **Year of creation**: **2009** (April). A satisfactory version was achieved
+  in 2011. FIXME
+* **Country of origin**: **Brazil** (State University of Southwest Bahia
+  (UESB)). FIXME
+* **Sign language(s) created for/can be used for**: Primarily for **Libras
+  (Brazilian Sign Language)**. It is based on principles of "arbitrariness and
+  linearity," and is designed for both handwritten and typed forms. It
+  **combines exclusive characters with Latin alphabet letters**. It is a
+  linear, horizontal, left-to-right system. It has **173 characters** and is
+  adaptable for various sign languages. FIXME
+* **Estimates for numbers of users today**: Aims to be a system for **everyday
+  use**. FIXME
+* **Certainty of data**: High for its existence and academic study; low for
+  widespread daily use. FIXME
+
+
+[SignScript]: #signscript
+## [#signscript] 2010: SignScript
+
+* **Inventor(s)**: **Donald Grushkin** (a Deaf professor). FIXME
+* **Year of creation**: **2010**. FIXME
+* **Country of origin**: Not explicitly stated, but its focus on ASL implies
+  **USA**. FIXME
+* **Sign language(s) created for/can be used for**: Developed for **American
+  Sign Language (ASL)**. It uses a **unique set of symbols** to represent
+  handshape, orientation, location, movement, and non-manual morphemes. It is
+  an alphabetic-based system with a limited number of characters, arranged
+  horizontally like English. It has **130 characters**. FIXME
+* **Estimates for numbers of users today**: It has **not been widely
+  disseminated** at this time. It is intended for **public use**. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[ASLwrite]: #aslwrite
+## [#aslwrite] 2011: ASLwrite
+
+* https://en.wikipedia.org/wiki/ASLwrite
+
+* **Inventor(s)**: **Julia Dameron** and **Adrean Clark** (Deaf). FIXME
+* **Year of creation**: **2011**. FIXME
+* **Country of origin**: Not explicitly stated, but its focus on ASL implies
+  **USA**. FIXME
+* **Sign language(s) created for/can be used for**: Primarily for **American
+  Sign Language (ASL)**. It is a "somaquegraphic" system that represents the
+  body and hands, incorporating logographic graphemes from Si5s. It uses unique
+  characters and is arranged horizontally, left-to-right. It has **105
+  characters**. It is adaptable for other signed languages with necessary
+  adjustments. FIXME
+* **Estimates for numbers of users today**: Described as a system for **public
+  use**. FIXME
+* **Certainty of data**: Low on specific user numbers, but mentioned as a
+  system that the community might prefer to adopt. FIXME
+
+
+[Symbol Font for ASL]: #symbol-font-for-asl
+## [#symbol-font-for-asl] 2013: Symbol Font for ASL
+
+* **Inventor(s)**: **Unknown authorship**. Associated with "ASLfont (2013)". FIXME
+* **Year of creation**: **2013**. FIXME
+* **Country of origin**: Not explicitly stated, but "ASL" in the name implies
+  **USA**. FIXME
+* **Sign language(s) created for/can be used for**: Designed for **American
+  Sign Language (ASL)**. It is a **font of symbols** developed for written ASL
+  on computers using common keyboards. It uses **pictographic characters** for
+  hand configurations and is of "exclusive origin". It has **95 characters**. FIXME
+* **Estimates for numbers of users today**: Aims to facilitate **online written
+  ASL**. Described as a system for **public use**. FIXME
+* **Certainty of data**: Low on specific user numbers. FIXME
+
+
+[VisoGrafia]: #visografia
+## [#visografia] 2016: VisoGrafia
+
+* **Inventor(s)**: **Claudio Alves Benassi** (a hearing professor/researcher). FIXME
+* **Year of creation**: **2016**. FIXME
+* **Country of origin**: **Brazil** (Federal University of Mato Grosso (UFMT)). FIXME
+* **Sign language(s) created for/can be used for**: Designed for Libras
+  (Brazilian Sign Language). It is a **combination of SignWriting and ELiS**,
+  featuring 38 fundamental **visografemas** and 55 diacritics. It is adaptable
+  for various sign languages. It supports both linear (for text) and vertical
+  (for isolated signs) writing. It has **93 characters**. FIXME
+* **Estimates for numbers of users today**: Its **feasibility for reading and
+  writing has been successfully tested**. It is considered one of the "most
+  promising systems". FIXME
+* **Certainty of data**: High for existence and tested viability, being a newer
+  system; its widespread adoption is still to be seen. FIXME
+
+
+[Farnell Labanotation]: #farnell
+## [#farnell] 1995: Farnell Labanotation
+
+[Labanotation][Wikipedia Labanotation] was first developed by the Rudolf von
+Laban in 1920s to writing dance movement ([von Laban 1928]). Drid Williams
+later used the system in her anthropological studies (FIXME: reference).
+
+But it was Williams student, Brenda Farnell who adapted it for writing for sign
+language, and put it to use in describing *Plains Indian Sign Language* (PISL)
+([Farnell 1995]).
+
+* **Inventor(s)**: **Brenda Farnell** developed the system to encompass sign
+  language, based on **Drid Williams** the anthropological use of Labanotation
+  for describing general movement, which in turn came from the choreography
+  writing an analysis developed by **Rudolf von Laban** in the 1920s.
+* **Year of creation**: **1995** (when it was first used for sign language).
+* **Country of origin**: Not explicitly stated, Laban was Austro-Hungarian. FIXME
+* **Sign language(s) created for/can be used for**: Primarily a **dance
+  notation** system, but referenced for its adaptability or influence on sign
+  language notation. It uses its own **iconic symbols** for movement. FIXME
+* **Estimates for numbers of users today**: Used for choreographic and academic
+  purposes; **not designed or widely used for everyday sign language
+  communication**. FIXME
+* **Certainty of data**: High for its existence as dance notation; less certain
+  for direct, widespread sign language use beyond academic transcription. FIXME
+
+
+[West Notation]: #west
+## [#west] 1960: LaMont West's system
+
+* **Inventor(s)**: **LaMont West**. FIXME
+* **Year of creation**: **1960** (as part of his PhD thesis). FIXME
+* **Country of origin**: **USA** (Indiana University). FIXME
+* **Sign language(s) created for/can be used for**: Developed for **Plains
+  Indian Sign Language**. It uses a combination of "printed letters and a few
+  symbols borrowed from phonetic transcription of oral languages" to represent
+  sign parameters. The inclusion of specialized phonetic symbols suggests
+  unique glyphs. FIXME
+* **Estimates for numbers of users today**: It "received little attention" and
+  had "practically no influence" on other researchers. FIXME
+* **Certainty of data**: Low. FIXME
+
+
+[IVT Notation]: #ivt
+## [#ivt] 1989: International Visual Théâtre (IVT)
+
+* **Inventor(s)**: A **group of French Deaf individuals**. FIXME
+* **Year of creation**: **1980**. FIXME
+* **Country of origin**: **France**. FIXME
+* **Sign language(s) created for/can be used for**: Not explicitly stated, but
+  implied for **French Sign Language (LSF)** due to its origin. It is described
+  as a "notation". FIXME
+* **Estimates for numbers of users today**: Appears to be a **by-product of
+  studies for their dictionaries**. It is "quickly presented" during workshops
+  but is **not systematically taught or published** in their dictionaries. FIXME
+* **Certainty of data**: Low. FIXME
+
+[SBM Notation]: #sbm
+## [#sbm] 1994: Signographie Boyer-Haouam (SBM)
+
+* **Inventor(s)**: **Philippe Boyer** and **Nadia Haouam** (Deaf teachers). FIXME
+* **Year of creation**: **1994** (when Haouam was trained and the method
+  developed). Boyer's research on the system started between 1990--1995. FIXME
+* **Country of origin**: **France** (INJS de Paris). FIXME
+* **Sign language(s) created for/can be used for**: Developed for **French Sign
+  Language (LSF)**. It uses **simple geometric figures for facial expressions**
+  and draws some inspiration from **Chinese ideograms for hand
+  configurations**. It notes facial expressions and gaze orientation. It aims
+  to be fluid and fast like written French. It is claimed it can write "any
+  sign of any country". FIXME
+* **Estimates for numbers of users today**: Described as the **"only method of
+  writing signs used in teaching in France"** in specialised schools (e.g.,
+  INJS de Paris). FIXME
+* **Certainty of data**: High for its use in specialised education in France. FIXME
+
+
+[Bergman Notation]: #bergman
+## [#bergman] 1977: Bergman Notation
+
+* **Inventor(s)**: A committee established by the **Swedish National
+  Association of the Deaf**. Research was conducted by **Brita Bergman**. FIXME
+* **Year of creation**: The committee was set up in **1970**. A sign dictionary
+  was published in 1971 and 1973. FIXME
+* **Country of origin**: **Sweden**. FIXME
+* **Sign language(s) created for/can be used for**: A constructed language,
+  **Signed Swedish**, which is adapted to Swedish and is distinct from Swedish
+  Sign Language (SSL). It is a "cheremic" system (one chereme-one graphic
+  symbol). As a derivative of Stokoe Notation, it is implied to incorporate
+  **iconic symbols** for handshapes and movements. FIXME
+* **Estimates for numbers of users today**: Aims to help Deaf children learn to
+  read and write Swedish. While presented as a "definite asset for future sign
+  dictionaries and manuals," it has been commonly perceived as "too hard to
+  learn". FIXME
+* **Certainty of data**: High for its existence and academic study; lower for
+  widespread active adoption as an everyday writing system. FIXME
+
+
+[AusWrit]: #auswrit
+## [#auswrit] 2020: AusWrit
+
+FIXME
+
+
+# Latin-Based or Not?
+
+[AusWrite]: #auswrite
+## [#auswrite] 1997: AusWrite
+
+> David Rose followed in 1997 with "AusWrite" (Auslan Writing System) for
+> *Australian Sign Language*.
+>
+> (https://de.wikipedia.org/wiki/Geschichte_der_Gebärdensprachen)
+
+AusWrite is apparently described further in the following book:
+
+<div class=hanging>
+
+Bergermann, Ulrike. (2001). *Ein Bild von einer Sprache. Konzepte von Bild und
+Schrift und das Hamburger Notationssystem für Gebärdensprachen* [A Picture of a
+Language. Concepts of Image and Writing and the Hamburg Notation System for
+Sign Languages]. München: Wilhelm Fink Verlag. ISBN: 978-3-7705-3598-9.
+
+</div>
+
+
+[ASL-phabet]: #asl-phabet
+## [#asl-phabet] 1992: ASL-phabet
+
+* https://en.wikipedia.org/wiki/ASL-phabet
+
+FIXME
+
+
+[ScripSig]: #scripsig
+## [#scripsig] 2006: ScripSig
+
+FIXME: Is this an earlier version of ELiS?
+
+
+[Typannot]: #typannot
+## [#typannot] 2015(?): Typannot
+
+FIXME
+
+
+[Signotation]: #signotation
+## [#signotation] 2016: Signotation
+
+FIXME
+
+
+# Glossary
+
+<div class=hanging>
+
+**ASL**---*American Sign Language*.
+
+**Libras**---*Brazilian Sign Language*. Formerly also called *Brasileira de
+Sinais* (LSB).
+
+**LSF**---*French Sign Language* (*langue des signes française* in French).
+
+**PISL**---*Plains Indian Sign Language*. Sometimes also called *Plains Sign
+Talk* (PST).
+
+**STS**---*Swedish Sign Language* (*Svenskt teckenspråk* in Swedish). Formerly
+also called SSL.
+
+</div>
+
+
+# References
+
+<div class=hanging>
+
+[Bergeron 2006]: #bergeron-2006
+[#bergeron-2006] Bergeron, Louis-Félix. (2006). "Typologie De systèmes écrits
+pour les langues signées" [Typology of Writing Systems for Signed Languages].
+Montréal: Université du Québec.
+
+
+[Farnell 1995]: #farnell-1995
+[#farnell-1995] Farnell, Brenda. (1995). *Do You See What I Mean? Plains Indian
+Sign Talk and the Embodiment of Action*. Austin: University of Texas Press.
+ISBN 0-292-72480-2.
+
+[von Laban 1928]: #von-Laban-1928
+[#von-Laban-1928] von Laban, Rudolf. (1928). *Schrifttanz* ["Written
+Dance"].
+
+</div>
+
+-------------------------------------------------------------------------------
+
+[Wikipedia Labanotation]: https://en.wikipedia.org/wiki/Labanotation
+
+
+</textarea><script type=module src=www/main.js></script>
+</textarea><script type=module src=index.js></script>
+<style>
+.sign-language-table {
+  table { overflow: visible; }
+  td, th {
+    text-align: center;
+    white-space: nowrap;
+    line-height: 1.4;
+  }
+  th {
+    border: 0;
+    vertical-align: bottom;
+    padding-bottom: .2rem;
+  }
+  td:nth-child(2), td:last-child {
+    text-align: left;
+  }
+  th:has(p) {
+    white-space: nowrap;
+    vertical-align: bottom;
+    padding: 0;
+    min-width: 1.5rem;
+    font-size: 0;
+    transform: translate(.5rem);
+    padding-bottom: .25rem;
+  }
+  th > p {
+   background: red;
+    font-size: 1rem;
+    margin: 5rem;
+    writing-mode: vertical-rl;
+    height: fit-content;
+    margin: auto;
+    display: inline-block;
+    line-height: 0;
+    transform-origin: middle;
+    transform: rotate(-150deg);
+  }
+}
+</style>
+<!--[eof]-->

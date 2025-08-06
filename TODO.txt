@@ -1,0 +1,7 @@
+-*- org -*-
+
+* DONE Harvey balls should be colored
+  CLOSED: [2025-08-06 Wed 15:03]
+  Using the same colors that is used by "Consumer Reports":
+  https://www.consumerreports.org/consumer-reports/we-put-ourselves-to-the-test/
+* [eof]
