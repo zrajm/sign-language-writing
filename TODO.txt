@@ -17,4 +17,17 @@
 * TODO Resort headlines in year order
 * TODO Add a bunch of PDFs
 * TODO Find Moody (1986) -- referenced by Bergeron (2006)
+* TODO Find Hutchinson (2012)
+  (mentioned by Achenbach (2021)
+* TODO Find Achenbach (2021)
+
+  "Towards handshape identification for automatic gesture recognition using
+  sign notation systems Towards handshape identification for automatic gesture
+  recognition using sign notation systems"
+
+  Page 306-- of *ECSM 2021 8th European Conference on Social Media*
+
+
+  By Philipp Achenbach, Yasmin Göksu, Timo Kullmann & Thomas Tregel.
+
 * [eof]

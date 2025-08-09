@@ -5,4 +5,6 @@
 *.bak
 *.tmp
 
+/pdf/.*.txt
+
 #[eof]

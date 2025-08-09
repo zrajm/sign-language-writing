@@ -24,7 +24,9 @@ const flags = {
   '🇨🇴': 'Colombia',
   '🇩🇰': 'Denmark',
   '🇩🇪': 'Germany',
+  '🇬🇧': 'Great Britain',
   '🇫🇷': 'France',
+  '🇮🇹': 'Italy',
   '🇸🇪': 'Sweden',
   '🇺🇸': 'United States',
 }
