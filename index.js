@@ -13,6 +13,13 @@ function modifyTextNodes(func, node = document.body) {
   for (const child of node.childNodes) { modifyTextNodes(func, child) }
 }
 
+// Parse HTML, return array of DOM nodes.
+function parseHtml(html) {
+  let wrapper = document.createElement('div')
+  wrapper.innerHTML = html
+  return wrapper.childNodes
+}
+
 /*****************************************************************************/
 
 // Complete country list here:
@@ -23,9 +30,9 @@ const flags = {
   '🇧🇷': 'Brazil',
   '🇨🇴': 'Colombia',
   '🇩🇰': 'Denmark',
+  '🇫🇷': 'France',
   '🇩🇪': 'Germany',
   '🇬🇧': 'Great Britain',
-  '🇫🇷': 'France',
   '🇮🇹': 'Italy',
   '🇸🇪': 'Sweden',
   '🇺🇸': 'United States',
@@ -43,15 +50,15 @@ const flagRegex = RegExp(
 
 window.addEventListener('load', () => {
   modifyTextNodes(node => {
+    let modified = false
     const html = (node.data ?? '').replace(flagRegex, x => {
+      modified = true
       return flags[x]
         ? `<span title="${flags[x]}">${x}</span>`
         : `<span style="color:${harveyBalls[x][0]}" ` +
           `title="${harveyBalls[x][1]}">${x}</span>`
     })
-    if (html !== node.data) {
-      node.parentNode.innerHTML = html
-    }
+    if (modified) { node.replaceWith(...parseHtml(html)) }
   })
 })
 
