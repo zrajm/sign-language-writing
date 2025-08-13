@@ -4,9 +4,11 @@ Latin: ○
 Language: Any
 Country: Denmark(?), United States
 Creator: Sutton, Valerie
-Source: Renard ([2004][Renard 2004]: 96--114)
+Source: Renard ([2004][Renard 2004]: 96--114, 166, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+**On "year" above:** Renard gives the creation year as "1973".
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

@@ -3,7 +3,7 @@ Title: SignFont
 Latin: ◔
 Language: ASL
 Country: United States
-Creator: Don E. Newkirk
+Creator: Newkirk, Don E.
 Source: McIntire et al ([1987][McIntire et al 1987]),
         Renard ([2004][Renard 2004]: 168)
 

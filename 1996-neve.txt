@@ -3,8 +3,8 @@ Title: Nève Notation (or *Gesteme Notation,* *Notation des Gestèmes*)
 Latin: ◕
 Language: LSFB
 Country: Belgium
-Creator: François-Xavier Nève
-Source: Renard ([2004][Renard 2004]: 65--70)
+Creator: Nève, François-Xavier
+Source: Renard ([2004][Renard 2004]: 65--70, 166, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

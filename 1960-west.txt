@@ -6,7 +6,8 @@ Country: United States
 Creator: West, La Mont, Jr.
 Source: West ([1960][West 1960]),
         Bergeron ([2006][Bergeron 2006]),
-        Farnell ([1995][Farnell 1995])
+        Farnell ([1995][Farnell 1995]),
+        Renard ([2004][Renard 2004]: 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

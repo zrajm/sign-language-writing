@@ -4,7 +4,7 @@ Latin: ?
 Language: LSF
 Country: France
 Creator: International Visual Théâtre
-Source: Renard (2004: 71--77)
+Source: Renard (2004: 71--77, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

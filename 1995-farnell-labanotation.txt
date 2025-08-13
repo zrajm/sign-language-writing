@@ -4,7 +4,8 @@ Latin: ○ (non-alphabetical)
 Language: PISL
 Country: United States
 Creator: Farnell, Brenda
-Source: Farnell ([1995][Farnell 1995])
+Source: Farnell ([1995][Farnell 1995]),
+        Renard ([2004][Renard 2004]: 168)
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

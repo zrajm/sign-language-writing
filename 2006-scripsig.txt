@@ -3,7 +3,7 @@ Title: ScripSig
 Latin: ?
 Language: Libras(?)
 Country: Brazil(?)
-Creator: Mariângela Estelita Barros
+Creator: Barros, Mariângela Estelita
 Source: ?
 
 FIXME: Is this an earlier version of ELiS?

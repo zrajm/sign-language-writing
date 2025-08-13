@@ -4,7 +4,7 @@ Latin: ◑
 Language: ASL
 Country: United States
 Creator: Stokoe, William C.
-Source: Renard ([2004][Renard 2004]: 59--64)
+Source: Renard ([2004][Renard 2004]: 59--64, 166, 168)
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

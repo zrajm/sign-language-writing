@@ -3,7 +3,7 @@ Title: Early Si5s
 Latin: ○
 Language: ASL
 Country: United States
-Creator: Robert Arnold Augustus
+Creator: Arnold Augustus, Robert
 Source: Arnold ([2007][Arnold 2007])
 
 <figure class=fixme>

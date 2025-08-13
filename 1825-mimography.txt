@@ -5,7 +5,7 @@ Language: LSF
 Country: France (Paris)
 Creator: Bébian, Roch-Ambroise Auguste (hearing)
 Source: Bébian ([1825][Bébian 1825]),
-        Renard ([2004][Renard 2004]: 8--47)
+        Renard ([2004][Renard 2004]: 8--47, 168)
 
 Supalla et al. ([2014][Supalla et al. 2014]: 5) mentions Mimography in a
 footnote (spelling it with an superfluous *e*---"Mimeography"). Renard

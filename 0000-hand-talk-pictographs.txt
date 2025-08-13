@@ -1,0 +1,118 @@
+Year: ?
+Title: Hand Talk Pictographs
+Latin: ○ (no Latin characters)
+Language: PISL(?)
+Country: United States
+Creator: ?
+Source: Graber ([2018][Graber 2018])
+        Farnell ([1995][Farnell 1995]: 244--247)
+
+I have on several occasions encountered mentions of a pictograph style of sign
+language writing used for PISL (Farnell [1995][Farnell 1995]: 244--247, Graber
+[2018][Graber 2018]), which seems to often be combined with more logographic
+writing.---It is not clear to me how complete this system of writing is, but I
+would be greatly amiss if I did not include it on this list.
+
+Graber ([2018][Graber 2018]) describes the shape and meaning of some of these
+symbols, as used in a letter in 1890, but, unfortunately, she does not compare
+the symbols directly to the corresponding signs in PISL.
+
+> [...] A circle followed by four loops signifies four brothers. Three
+> horizontal lines stand for the number three. A box with vertical lines,
+> followed by a swooping downward and then upward line, means that someone has
+> been buried in a grave. Together, the signs tell Cozad that he no longer had
+> four brothers, but only three. One had recently died and been buried.
+>
+> <figure class=osurh>
+> <style>.osurh img { filter: none !important }</style>
+>
+> ![](pic/graber-2018.jpg)
+>
+> <figcaption>
+>   Symbols relating the death and burial of Cozad’s brother. Used by
+>   permission from Dickinson Research Center, National Cowboy & Western
+>   Heritage Museum.
+> </figcaption>
+> </figure>
+>
+> ([Graber 2018])
+
+> <figure>
+>
+> ![](pic/farnell-1995.png)
+>
+> <figcaption>
+>   Figure 7.1. Graphic depictions of Plains Sign Talk by American Indians. Top
+>   part of illustration from Tomkins [1926][Tomkins 1926]:85. Used with
+>   permission.
+> </figcaption>
+> </figure>
+>
+> Some caution is indeed necessary when dealing with Tomkins' treatment of
+> pictographs. While inscriptions on rock, birch bark, and hides were
+> widespread in indigenous North America and served many communicative and
+> mnemonic functions, Tomkins may well have invented these "pictographic
+> stories" himself. I have not yet come across any other records of stories or
+> messages written in the spiral form that Tomkins presents
+> ([1926][Tomkins 1926]:89), and he may have taken this idea from Dakota winter
+> counts (see Mallery [1886][Mallery 1886] for examples). Most of the
+> pictographic "building blocks" used by Tomkins can also be found in the more
+> scholarly collections of Schoolcraft and Mallery, however (e.g., SKY as half
+> circle in Schoolcraft [1851--1857][Schoolcraft 1851--1857], vol. 1, pp. 390,
+> 407; RIVER in Schoolcraft [1851--1857][Schoolcraft 1851--1857], vol. 2, plate
+> 57; TRADE in Mallery [1886][Mallery 1886]:220). A good example of a message
+> written using pictographs of this kind and written by an Assiniboine person
+> can be found in Denig [[1930][Denig 1961]] 1961:603.
+>
+> Further examples of pictographs representing the movement paths of signs are
+> described in Mallery [1886][Mallery 1886]:219--221 and
+> [1893][Mallery 1893]:639--641, e.g., PIPE, HUNGER, LITTLE CHIEF, DAKOTA,
+> NOON. The only two exceptions to this I have encountered to date are (a) a
+> seated human figure signifying "pipe" in which the Dakota artist drew a tiny
+> human figure making the sign PIPE instead of drawing a pipe (see Batiste
+> Goode's winter count in Mallery [1886][Mallery 1886]:219); and (b) "Afraid of
+> Him" a name sign in Red Cloud's census that shows the handshape and arm
+> position from the sign AFRAID (Mallery [1886][Mallery 1886]:639). It is
+> interesting to note in passing that Dakota pictographs of persons who were
+> prisoners are depicted without hands to denote helplessness (Mallery
+> [1886][Mallery 1886]:242).
+>
+> ([Farnell 1995]: 246--247)
+
+References for the citations in the quote above:
+
+<div class=hanging>
+
+[Denig 1961]: #denig-1961
+[#denig-1961] Denig, Edwin Thompson. (1961). *Five Indian tribes of the Upper
+  Missouri* (John C. Ewers, Ed.). University of Oklahoma Press. (Original work
+  published 1930; Also available from
+  https://readingroo.ms/4/9/5/5/49557/49557-h/49557-h.htm)
+
+[Tomkins 1926]: #tomkins-1926
+[#tomkins-1926] Tomkins, William. (1926). *Universal Indian sign language of
+  the Plains Indians of North America*. Published by author. (Reprinted 1969,
+  Dover Publications; Also available from
+  https://archive.org/details/bp_985073)
+
+[Mallery 1886]: #mallery-1886
+[#mallery-1886] Mallery, Garrick. (1886). *Pictographs of the North American
+  Indians*. *Bureau of American Ethnology Annual Report, 4*, 1--256.
+  Smithsonian Institution.
+  https://archive.org/details/PictographsOfTheNorthAmerican86Pages3256GarrickMallery
+
+[Mallery 1893]: #mallery-1893
+[#mallery-1893] Mallery, Garrick. (1893). *Picture Writing of the American
+  Indians.* *BAE Annual Report* 10. Washington, D.C.: Smithsonian Institution.
+  (Reprinted 1972. Dover Publications.
+  https://archive.org/details/picturewritingof0001mall)
+
+[Schoolcraft 1851--1857]: #schoolcraft-1851--1857
+[#schoolcraft-1851--1857] Schoolcraft, Henry Rowe. (1851--1857). (Ed.).
+  *Information respecting the history, condition and prospects of the Indian
+  tribes of the United States* (Vols. 1--6). Lippincott, Grambo and Co.
+  (Available from [archive.org](https://archive.org/search?query=schoolcraft+respecting+history+condition+lippincott&sort=date&and\[\]=year:\[1851+TO+1857\]).)
+
+</div>
+
+<!--[eof]-->

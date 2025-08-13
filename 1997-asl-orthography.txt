@@ -3,7 +3,7 @@ Title: ASL Orthography
 Latin: ● (uses only ASCII characters)
 Language: ASL
 Country: United States
-Creator: Travis Low (hearing)
+Creator: Low, Travis (hearing)
 Source: Low (1997),
         ASL Font (2021),
         Cardoso (2023),

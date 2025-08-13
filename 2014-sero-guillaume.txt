@@ -3,10 +3,19 @@ Title: Séro-Guillaume Writing (Alphabetic Writing of Philippe Séro-Guillaume, 
 Latin: x
 Language: LSF
 Country: France
-Creator: Séro-Guillaume, Philippe (?)
-Source: Renard (2004: 142--143)
+Creator: Séro-Guillaume, Philippe
+Source: Renard (2004: 142--143, 166, 168)
 
-Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]),
+which also lists the following reference for the notation system:
+
+<div class=hanging>
+
+[Séro-Guillaume 2014]: #sero-guillaume-2014
+[#sero-guillaume-2014] Séro-Guillaume, Philippe. (2014). *L'écriture de la
+  langue des signes.* CNFEDS (Chambéry),
+
+</div>
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

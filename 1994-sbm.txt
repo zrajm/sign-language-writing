@@ -4,7 +4,7 @@ Latin: ?
 Language: LSF
 Country: France
 Creator: ?
-Source: Renard ([2004][Renard 2004]: 115--129)
+Source: Renard ([2004][Renard 2004]: 115--129, 166, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

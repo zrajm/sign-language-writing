@@ -4,7 +4,7 @@ Latin: ?
 Language: LSF/any
 Country: France
 Creator: Maryline Pierrat-Frappé
-Source: Renard ([2004][Renard 2004]: 130--141)
+Source: Renard ([2004][Renard 2004]: 130--141, 166, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
@@ -16,7 +16,5 @@ Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 | Estimates for numbers of users today | Described as "currently operational in France" and is taught through organised stages
 
 </figure>
-
-</div>
 
 <!--[eof]-->

@@ -5,7 +5,7 @@ Language: LSF
 Country: France
 Creator: Jouison, Paul
 Source: Jouison ([1990][Jouison 1990]),
-        Renard ([2004][Renard 2004]: 78--80)
+        Renard ([2004][Renard 2004]: 78--80, 166, 168)
 
 > In 1983 and 1990, Paul Jouison published "D'Sign" as a notation system for
 > French Sign Language.
