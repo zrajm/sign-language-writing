@@ -1,0 +1,20 @@
+Year: 2014
+Title: Séro-Guillaume Writing (Alphabetic Writing of Philippe Séro-Guillaume, L'écriture alphabétique de Philippe Séro-Guillaume)
+Latin: x
+Language: LSF
+Country: France
+Creator: Séro-Guillaume, Philippe (?)
+Source: Renard (2004: 142--143)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Philippe Séro-Guillaume (a linguist) |
+| Language | Proposed for LSF. It aims to write signs using the "current alphabet" (Latin alphabet), assigning typographic signs to represent the five parameters of signs
+| Estimates for numbers of users today | This is a recent proposal, and its adoption or widespread use is not detailed in the sources
+
+</figure>
+
+<!--[eof]-->

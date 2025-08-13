@@ -1,0 +1,21 @@
+Year: 1996
+Title: Nève Notation (or *Gesteme Notation,* *Notation des Gestèmes*)
+Latin: ◕
+Language: LSFB
+Country: Belgium
+Creator: François-Xavier Nève
+Source: Renard ([2004][Renard 2004]: 65--70)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | François-Xavier Nève (a hearing professor) |
+| Country | Belgium (University of Liège)
+| Language | Designed for LSFB. It uses ASCII characters (letters, numbers, and non-alphanumeric characters) for numeric coding and non-linear computerised organisation of signs. It is oriented vertically in columns
+| Estimates for numbers of users today | Primarily used for academic and scientific notation
+
+</figure>
+
+<!--[eof]-->

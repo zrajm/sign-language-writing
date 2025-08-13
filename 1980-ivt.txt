@@ -1,0 +1,20 @@
+Year: 1980
+Title: IVT Notation
+Latin: ?
+Language: LSF
+Country: France
+Creator: International Visual Théâtre
+Source: Renard (2004: 71--77)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | A group of French Deaf individuals
+| Language | Not explicitly stated, but implied for French Sign Language (LSF) due to its origin. It is described as a "notation"
+| Estimates for numbers of users today | Appears to be a by-product of studies for their dictionaries. It is "quickly presented" during workshops but is not systematically taught or published in their dictionaries
+
+</figure>
+
+<!--[eof]-->

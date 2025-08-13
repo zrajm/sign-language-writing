@@ -1,0 +1,11 @@
+Year: 2006
+Title: ScripSig
+Latin: ?
+Language: Libras(?)
+Country: Brazil(?)
+Creator: Mariângela Estelita Barros
+Source: ?
+
+FIXME: Is this an earlier version of ELiS?
+
+<!--[eof]-->

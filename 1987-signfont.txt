@@ -1,0 +1,29 @@
+Year: 1987
+Title: SignFont
+Latin: ◔
+Language: ASL
+Country: United States
+Creator: Don E. Newkirk
+Source: McIntire et al ([1987][McIntire et al 1987]),
+        Renard ([2004][Renard 2004]: 168)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+SignFont creation date is given as 1987 by ASL Font (2021), Cardoso (2023) &
+Mendes (2020), and 1988 by Renard (2004).
+
+The handshapes, syntactic nonmanual markers, and adverbial nonmanual markers of
+SignFont are described in McIntire et al. ([1987][McIntire et al 1987]:
+211-213), this however this article does not seem to present a complete system,
+and only lists symbols without giving full examples of their use.
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Don Newkirk (a linguist). Developed at the Salk Institute for Biological Studies and Emerson and Stern Associates
+| Country | USA (Salk Institute, California)
+| Language | Developed for ASL. Its symbols are invented and partially iconic (especially for handshapes), aiming for a balance between iconicity and conciseness. It is a linear, horizontal, left-to-right system. It was one of the first systems to have a computer font version
+
+</figure>
+
+<!--[eof]-->

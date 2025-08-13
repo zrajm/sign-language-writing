@@ -1,0 +1,11 @@
+Year: 1993
+Title: ASCII-Stokoe Notation
+Latin: ● (uses only ASCII characters)
+Language: ASL
+Country: United States
+Creator: Mandel, Mark A.
+Source: Mandel ([1993][Mandel 1993]),
+        Renard ([2004][Renard 2004]: 168),
+        Miller ([2001][Miller 2001])
+
+<!--[eof]-->

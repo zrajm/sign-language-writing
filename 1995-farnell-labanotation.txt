@@ -1,0 +1,35 @@
+Year: 1995
+Title: Farnell Labanotation
+Latin: ○ (non-alphabetical)
+Language: PISL
+Country: United States
+Creator: Farnell, Brenda
+Source: Farnell ([1995][Farnell 1995])
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Brenda Farnell developed the system to encompass sign language, based on Drid Williams the anthropological use of Labanotation for describing general movement, which in turn came from the choreography writing an analysis developed by Rudolf von Laban in the 1920s.
+| Year |1995 (when it was first used for sign language).
+| Language | Primarily a dance notation system, but referenced for its adaptability or influence on sign language notation. It uses its own iconic symbols for movement
+| Estimates for numbers of users today | Used for choreographic and academic purposes; not designed or widely used for everyday sign language communication
+
+</figure>
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]),
+which also gives 1980 as the creation year of Farnell Labanotation.
+
+Renard also lists a notation called *Laban-Benesh Labanotation* (1969) -- But I
+think this notation (like the original Labanotation) is meant for choreography,
+not sign language. (FIXME: verify this)
+
+<div></div>
+
+[Labanotation][Wikipedia Labanotation] was first developed by the Rudolf von
+Laban in 1920s to write dance movement ([von Laban 1928]). Drid Williams later
+used the system in her anthropological studies (FIXME: reference), but it was
+Williams student, Brenda Farnell who adapted it for writing for sign language,
+and put it to use in describing *Plains Indian Sign Language* (PISL) ([Farnell
+1995]).
+
+<!--[eof]-->

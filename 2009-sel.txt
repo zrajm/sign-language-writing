@@ -1,0 +1,20 @@
+Year: 2009
+Title: SEL (Sistema de Escrita de Língua de Sinais)
+Latin: ?
+Language: Libras
+Country: Brazil
+Creator: Adriana S. C. Lessa-de-Oliveira
+Source: ?
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Year |2009 (April). A satisfactory version was achieved in 2011
+| Creator | Adriana Stela Cardoso Lessa de Oliveira |
+| Country | Brazil (State University of Southwest Bahia (UESB))
+| Language | Primarily for Libras. It is based on principles of "arbitrariness and linearity," and is designed for both handwritten and typed forms. It combines exclusive characters with Latin alphabet letters. It is a linear, horizontal, left-to-right system. It has 173 characters and is adaptable for various sign languages
+| Estimates for numbers of users today | Aims to be a system for everyday use
+
+</figure>
+
+<!--[eof]-->

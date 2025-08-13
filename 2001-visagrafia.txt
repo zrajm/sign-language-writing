@@ -1,0 +1,20 @@
+Year: 2001
+Title: Visagrafía
+Latin:
+Language: LSC
+Country: Colombia(?)
+Creator: Jaime Hernández Gutiérrez et al.
+Source:
+
+**Note:** This is distinct from [VisoGrafia], a later system.
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Jaime Hernández Gutiérrez and collaborators (Deaf and hearing researchers)
+| Country | Not explicitly stated, but the inventor's name suggests a Spanish-speaking country.
+| Language | Created for LSC (potentially Spanish Sign Language). It is based on ideographic symbols, with some pictorial and specific graphemes. It is composed of unique characters. It supports both horizontal (for text) and vertical (for isolated signs) writing
+
+</figure>
+
+<!--[eof]-->

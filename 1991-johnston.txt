@@ -1,0 +1,11 @@
+Year: 1991
+Title: Johnston Notation
+Latin: ?
+Language: Auslan(?)
+Country: Australia
+Creator: Johnston
+Source: Renard ([2004][Renard 2004]: 168)
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<!--[eof]-->

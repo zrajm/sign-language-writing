@@ -1,0 +1,13 @@
+Year: 1985
+Title: Kyle & Woll Notation
+Latin: ?
+Language: BSL(?)
+Country: Great Britain
+Creator: Kyle & Woll
+Source: Kyle & Woll ([1985][Kyle & Woll 1985]),
+        Miller ([2006][Miller 2006]),
+        Renard ([2004][Renard 2004]: 168)
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]: 168).
+
+<!--[eof]-->

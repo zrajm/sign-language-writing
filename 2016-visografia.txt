@@ -1,0 +1,20 @@
+Year: 2016
+Title: VisoGrafia
+Latin: ?
+Language: Libras/any
+Country: Brazil
+Creator: Claudio Alves Benassi
+Source: ?
+
+**Note:** This is distinct from [Visagrafía], a earlier system.
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Claudio Alves Benassi (a hearing professor/researcher) |
+| Country | Brazil (Federal University of Mato Grosso (UFMT))
+| Language | Designed for Libras (Brazilian Sign Language). It is a combination of SignWriting and ELiS, featuring 38 fundamental visografemas and 55 diacritics. It is adaptable for various sign languages. It supports both linear (for text) and vertical (for isolated signs) writing. It has 93 characters
+
+</figure>
+
+<!--[eof]-->

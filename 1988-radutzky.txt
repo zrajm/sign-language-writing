@@ -1,0 +1,22 @@
+Year: 1988
+Title: Radutzky Notation (?)
+Latin: ?
+Language: LIS(?)
+Country: Italy
+Creator: Radutzky, Ellen J. (?)
+Source: Radutzky ([1988][Radutzky 1988]),
+        Radutzky ([1989][Radutzky 1989]),
+        Renard ([2004][Renard 2004]: 168),
+        Miller ([2001][Miller 2001])
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
+from the Berkeley group (in turned derived from DASL), together with [Corazza
+notation] according to Miller ([2001][Miller 2001]).
+
+Renard ([2004][Renard 2004]) misspells the name as "Raclutzky".
+
+<div></div>
+
+FIXME: Which Radutzky source is correct, if any? Investigate!
+
+<!--[eof]-->

@@ -1,0 +1,24 @@
+Year: 1825
+Title: Mimography (original French: Mimographie, Portugese: Mimografia)
+Latin: ○ (no Latin characters)
+Language: LSF
+Country: France (Paris)
+Creator: Bébian, Roch-Ambroise Auguste (hearing)
+Source: Bébian ([1825][Bébian 1825]),
+        Renard ([2004][Renard 2004]: 8--47)
+
+Supalla et al. ([2014][Supalla et al. 2014]: 5) mentions Mimography in a
+footnote (spelling it with an superfluous *e*---"Mimeography"). Renard
+([2004][Renard 2004]) repeatedly refers to it as "mimographique" which,
+presumably, is a more modern French spelling.
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+Memography comprises approximately 190 unique, iconic characters representing
+hand configurations, palm orientation, location, movements, and non-manual
+expressions. It is a unilinear system.
+
+</figure>
+
+<!--[eof]-->

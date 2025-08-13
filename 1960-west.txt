@@ -1,0 +1,25 @@
+Year: 1960
+Title: West Notation
+Latin: ◑
+Language: PISL
+Country: United States
+Creator: West, La Mont, Jr.
+Source: West ([1960][West 1960]),
+        Bergeron ([2006][Bergeron 2006]),
+        Farnell ([1995][Farnell 1995])
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Year |1960 (as part of his PhD thesis)
+| Country | USA (Indiana University)
+| Language | Developed for PISL. It uses a combination of "printed letters and a few symbols borrowed from phonetic transcription of oral languages" to represent sign parameters
+| Estimates for numbers of users today | It "received little attention" and had "practically no influence" on other researchers
+
+</figure>
+
+* https://en.wikipedia.org/wiki/La_Mont_West
+
+<!--[eof]-->

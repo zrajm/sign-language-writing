@@ -1,0 +1,62 @@
+Year: 1984?
+Title: HamNoSys (Hamburg Notation System)
+Latin: ◔
+Language: Any
+Country: Germany
+Creator: Prillwitz-Vollhaber
+Source: Prillwitz et al. (1987),
+        Prillwitz et al. (1989),
+        Renard ([2004][Renard 2004]: 81--95)
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+[Wikipedia](https://en.wikipedia.org/wiki/Hamburg_Notation_System) says that
+HamNoSys was created in 1984.
+
+> HamNoSys (first version defined in 1984, first published version Prillwitz et
+> al., 1987) [...] ([Hanke 2004])
+
+> Hamnosys (Hamburg Notation System) was invented at the University of Hamburg
+> (Germany) by Prillwitz, Vollhaber, and their collaborators in 1989^(1)^.
+>
+> <div></div>
+>
+> ^(1)^: http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/hamnosys-97.html
+>
+> ([Renard 2004]: 81)
+
+Below, both citations ([Miller 2001]) are slightly wrong: "Prillwitz &
+Vollhaber 1989" refers to a whole book, but that volume in its entirety is not
+included in Miller's reference section, which instead includes the relevant
+article, Prillwitz & Zienert ([1990][Prillwitz & Zienert 1990]), found in the
+same book. Also the publication year for "Prillwitz et al. 1990" should have
+been listed as [1989][Prillwitz et al. 1989].
+
+> **2.2.2 HamNoSys ([Prillwitz & Vollhaber 1989][Prillwitz & Zienert 1990];
+> [Prillwitz et al. 1990][Prillwitz et al. 1989])**
+>
+> <div></div>
+>
+> This system, designed with the aim of applicability to the largest number of
+> sign languages possible, attempts maximum iconicity in its inventory of
+> symbols, including handshapes. It provides for detailed notation of point of
+> contact on the non-dominant hand as well as for the notation of spatial
+> locations. Provision is made for notation of nonmanuals. The system is
+> available as a complete software package for the Macintosh operating system
+> and a computer font for Windows. ([Miller 2001]: 16)
+
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Year |Development began in 1985, with the first version published in 1984 and further details in 1987
+| Creator | A group of researchers at the University of Hamburg (including Prillwitz, Leven, Zienert, Hanke, and Henning)
+| Country | Germany (University of Hamburg)
+| Language | Designed to precisely write any signed language, including non-manual features. It employs iconic representations for handshapes and other parameters. It is a linear system, read left-to-right, and uses subscripts, superscripts, and diacritics. It is adaptable for various sign languages. It contains 210 characters
+| Estimates for numbers of users today | It is popular for academic purposes and is one of the most widely used notation systems by researchers. It is considered the "most developed" system derived from Stokoe
+
+</figure>
+
+* https://en.wikipedia.org/wiki/Hamburg_Notation_System
+* https://www.scriptsource.org/scr/Qabn
+
+<!--[eof]-->

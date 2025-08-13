@@ -1,0 +1,11 @@
+Year: 1977
+Title: Eshkol-Wachman Notation
+Latin: ?
+Language: ASL(?)
+Country: United States
+Creator: Cohen, Schlesinger, Namir
+Source: Renard (2004: 168)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<!--[eof]-->

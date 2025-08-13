@@ -1,0 +1,9 @@
+Year: 2020
+Title: AusWrit
+Latin: ○
+Language: Auslan
+Country: Australia(?)
+Creator: LinguaPhiliax
+Source: ?
+
+<!--[eof]-->

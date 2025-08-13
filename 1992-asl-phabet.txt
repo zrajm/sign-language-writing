@@ -1,0 +1,28 @@
+Year: 1992
+Title: ASL-phabet
+Latin: ◔ (no Latin characters)
+Language: ASL
+Country: United States
+Creator: Supalla, Samuel (deaf)
+Source: Supalla et al. ([2014][Supalla et al. 2014]),
+        ASL Font ([2021][ASL Font 2021]),
+        Cardoso ([2023][Cardoso 2023]: 89--80),
+        Mendes ([2020][Mendes 2020]: 39, Figura 18)
+Parent: 1987-signfont
+Use: Children's education
+
+Supalla created ASL-phabet in order to teach deaf kids the alphabetic principle
+as a step on the way to teaching of English writing and spelling. ASL-phabet
+consists of only 32 graphemes: 22 handshapes, 5 locations, and 5 movements
+([Supalla et al. 2014]).
+
+![](pic/asl-phabet.png)
+
+> In the 1990's, Deaf linguist Samuel Supalla started working on a simplified
+> system for writing ASL. He based it off of a system called SignFont that had
+> been developed at the Salk Institute in California. ([ASL Font 2021])
+
+* https://www.glossinstitute.com/video/asl-phabet-signing-out/
+* https://en.wikipedia.org/wiki/ASL-phabet
+
+<!--[eof]-->

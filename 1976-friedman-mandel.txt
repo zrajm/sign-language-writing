@@ -1,0 +1,17 @@
+Year: 1976
+Title: Friedman-Mandel Notation (?)
+Latin: ?
+Language: ASL(?)
+Country: United States
+Creator: Friedman-Mandel
+Source: Renard (2004: 168)
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<div></div>
+
+I have only seen this notation in Renard (2004), and it's only mentioned in a
+list of notation systems, without further details.---Verify that it actually
+exists!
+
+<!--[eof]-->

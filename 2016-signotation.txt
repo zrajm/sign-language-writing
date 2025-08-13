@@ -1,0 +1,9 @@
+Year: 2016
+Title: Signotation
+Latin: ?
+Language: ASL
+Country: United States
+Creator: Hansen, Shelly
+Source: ?
+
+<!--[eof]-->

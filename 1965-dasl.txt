@@ -1,0 +1,15 @@
+Year: 1965
+Title: DASL Notation (Dictionary of ASL Notation)
+Latin: ◑
+Language: ASL
+Country: United States
+Creator: Stokoe, William C.; Casterline; Cronenberg
+Source: Renard ([2004][Renard 2004]: 168)
+
+FIXME: Renard classifies the Stokoe notation and DASL notation as two different
+systems, however I think that's probably not true. I think DASL notation is a
+minor development that should probably be described in the Stokoe notation
+section, while this section should be removed. This section remains here until
+that is verified, however.
+
+<!--[eof]-->

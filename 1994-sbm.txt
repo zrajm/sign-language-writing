@@ -1,0 +1,22 @@
+Year: 1994
+Title: SBM Notation (Boyer-Haouam Signography; Signographie Boyer-Haouam)
+Latin: ?
+Language: LSF
+Country: France
+Creator: ?
+Source: Renard ([2004][Renard 2004]: 115--129)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Philippe Boyer & Nadia Haouam (Deaf teachers) |
+| Year |1994 (when Haouam was trained and the method developed). Boyer's research on the system started between 1990--1995
+| Country | France (INJS de Paris)
+| Language | Developed for French Sign Language (LSF). It uses simple geometric figures for facial expressions and draws some inspiration from Chinese ideograms for hand configurations. It notes facial expressions and gaze orientation. It aims to be fluid and fast like written French. It is claimed it can write "any sign of any country"
+| Estimates for numbers of users today | Described as the "only method of writing signs used in teaching in France" in specialised schools (e.g., INJS de Paris)
+
+</figure>
+
+<!--[eof]-->

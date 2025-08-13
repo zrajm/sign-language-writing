@@ -1,0 +1,17 @@
+Year: 2009
+Title: ASLSJ (ASL Sign Jotting)
+Latin: ●
+Language: ASL
+Country: United States
+Creator: Stone, Thomas
+Source:
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Language | ASL. It is designed to allow a variable degree of ambiguity, relying on the reader's existing ASL knowledge. It utilises ASCII characters
+| Estimates for numbers of users today | Intended for dictionary and personal use
+
+</figure>
+
+<!--[eof]-->

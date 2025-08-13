@@ -1,0 +1,30 @@
+Year: 1977
+Title: Bergman Notation
+Latin: ◑ (alphabetical symbols for handshapes, many novel symbols & diacritics)
+Language: STS
+Country: Sweden
+Creator: Bergman, Brita (hearing)
+Source: Renard ([2004][Renard 2004]: 168)
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<div></div>
+
+*Bergman notation* was first described in Bergman ([1977][Bergman 1977]), and
+has later been significantly updated and modified, first, by Wallin
+([1994][Wallin 1994]), and, then, revised and simplified for broader
+non-academic use when the official Swedish Sign Language Lexicon was first
+published ([Hedberg 1997]). The transcription is still in use by the online
+version of the dictionary ([Svenskt teckenspråkslexikon 2008]). The last guide
+to its use is Bergman & Björkstrand ([2015][Bergman & Björkstrand 2015]).
+There's also a Unicode font available online ([Zrajm 2017]).
+
+Bergman notation borrows from Stokoe notation, but deviates is several aspects,
+among other things it uses Swedish fingerspelling alphabet for the handshapes,
+and features a more detailed attitude description ([Bergman 1977]: 90--92).
+
+Renard ([2004][Renard 2004]) gives the creation year as 1979, but this is the
+date of the publication of the English translation, not the original Swedish
+Bergman ([1977][Bergman 1977]).
+
+<!--[eof]-->

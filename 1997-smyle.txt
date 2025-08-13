@@ -1,0 +1,22 @@
+Year: 1997
+Title: SMYLE (Signographie Manuscrite YaelLE)
+Latin: ?
+Language: LSF/any
+Country: France
+Creator: Maryline Pierrat-Frappé
+Source: Renard ([2004][Renard 2004]: 130--141)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Maryline Pierrat-Frappé (known as Yaelle, a hearing individual) and an international working group
+| Language | Based on LSF, but designed to facilitate the learning of sign languages in general. It uses simple geometric figures for facial expressions and is aesthetically pleasing, drawing some inspiration from Chinese ideograms. It is claimed it can write "any sign of any country". Text is linear and horizontal, while isolated signs are grouped vertically. It uses "exclusive" (unique) characters
+| Estimates for numbers of users today | Described as "currently operational in France" and is taught through organised stages
+
+</figure>
+
+</div>
+
+<!--[eof]-->

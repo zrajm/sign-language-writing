@@ -1,0 +1,20 @@
+Year: 1997?
+Title: ELiS (Escrita das Línguas de Sinais)
+Latin:
+Language: Libras/any
+Country: Brazil
+Creator: Barros, Mariângela Estelita
+Source: Cardoso ([2023][Cardoso 2023]),
+        Mendes ([2020][Mendes 2020])
+
+* FIXME: When was this first published? 1997? 1998?
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Language | Designed for the formal registration of sign languages, especially Libras. It has its own unique symbols called "digibet" or "visografemas," classified to represent each parameter, and also incorporates some Latin alphabet letters. It is a linear, horizontal, left-to-right system. It emphasizes simplicity and has a computer font. It has 95 characters and is adaptable for various sign languages
+| Estimates for numbers of users today | Utilised and disseminated by several Brazilian universities (UFG, UFGD, UFMT). It is considered one of the "most promising systems" in Brazil
+
+</figure>
+
+<!--[eof]-->

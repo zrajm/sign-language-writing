@@ -1,0 +1,22 @@
+Year: 1980
+Title: Corazza Notation
+Latin: ?
+Language: LIS
+Country: Italy
+Creator: Corazza
+Source: Renard ([2004][Renard 2004]: 168),
+        Miller ([2001][Miller 2001])
+
+Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
+from the Berkeley group (in turned derived from DASL), together with [Radutzky
+notation] according to Miller ([2001][Miller 2001]).
+
+<div class=hanging>
+
+Corazza, S. (1990). "The morphology of classifier handshapes in Italian Sign
+  Language." In C. Lucas (ed.), Sign language research: Theoretical issues,
+  Washington: Gallaudet Universtity Press.
+
+</div>
+
+<!--[eof]-->

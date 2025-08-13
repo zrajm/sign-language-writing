@@ -4,18 +4,27 @@
   CLOSED: [2025-08-06 Wed 15:03]
   Using the same colors that is used by "Consumer Reports":
   https://www.consumerreports.org/consumer-reports/we-put-ourselves-to-the-test/
-* TODO Bergeron (2006: 6) mentions the following notations
-** TODO le système Papaspyrou;
-** TODO le système Liddell-Johnson;
-** TODO SignFont
+* [3/3] Bergeron (2006: 6) mentions the following notations
+** DONE le système Papaspyrou
+   CLOSED: [2025-08-09 Sat 18:01]
+** DONE le système Liddell-Johnson
+   CLOSED: [2025-08-09 Sat 18:01]
+** DONE SignFont
+   CLOSED: [2025-08-06 Wed 15:15]
     Melntire, M., D. Newkirk, S. Hutchins et H. Poizner (1987) "Hands and
       faces: A preliminary inventory for written ASL", in *Sign Language
       Studies*, no. 56, pp. 197-241.
+* DONE Resort headlines in year order
+  CLOSED: [2025-08-13 Wed 03:36]
+* TODO Find Schermer (1990) dissertation
+  (referenced in `1990-schermer.txt`)
+
+  Schermer, T. (1990). *In search of a language: Influences from spoken Dutch
+    on Sign Language of the Netherlands.* Doctoral dissertation, University of
+    Amsterdam.
 * TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system
-* TODO Resort headlines in year order
-* TODO Add a bunch of PDFs
 * TODO Find Moody (1986) -- referenced by Bergeron (2006)
 * TODO Find Hutchinson (2012)
   (mentioned by Achenbach (2021)
@@ -30,4 +39,7 @@
 
   By Philipp Achenbach, Yasmin Göksu, Timo Kullmann & Thomas Tregel.
 
+* TODO Citation plugin
+  Source references like "Farnell (1995)", "(Farnell 1995)", and "Farnell
+  (1995: 34)" should automatically turn into links.
 * [eof]

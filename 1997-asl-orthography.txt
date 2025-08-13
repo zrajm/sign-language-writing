@@ -1,0 +1,31 @@
+Year: 1997
+Title: ASL Orthography
+Latin: ● (uses only ASCII characters)
+Language: ASL
+Country: United States
+Creator: Travis Low (hearing)
+Source: Low (1997),
+        ASL Font (2021),
+        Cardoso (2023),
+        Mendes (2020)
+Parent: ?
+
+Low is a hearing student of ASL who created ASL Orthography for everyday
+language use
+([http\://www.dawnstar.org/travis/deaf/](https://web.archive.org/web/20030126153916/http://www.dawnstar.org/travis/deaf/)).
+Aspect is not well represented in the system, and facial features/adverbs are
+not included at all
+([http\://www.dawnstar.org/travis/deaf/asl/](https://web.archive.org/web/20030519222224/http://www.dawnstar.org/travis/deaf/asl/)).
+
+<div class=hanging>
+
+Achenbach, Philipp; Göksu, Yasmin; Kullmann, Timo; Tregel, Thomas & Göbel,
+  Stefan. (2021). "Towards Handshape Identification for Automatic Gesture
+  Recognition Using Sign Notation Systems". *8th European Conference on Social
+  Media, ECSM 2021,* 307--315(?). DOI 10.34190/ESM.21.004
+  ISBN 978-1-914587-00-9
+
+</div>
+
+<!--[eof]-->
+

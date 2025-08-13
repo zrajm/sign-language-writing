@@ -1,0 +1,24 @@
+Year: 1974
+Title: SignWriting (also Sutton SignWriting)
+Latin: ○
+Language: Any
+Country: Denmark(?), United States
+Creator: Sutton, Valerie
+Source: Renard ([2004][Renard 2004]: 96--114)
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Year |1974. It evolved from Sutton Movement Writing (1973)
+| Creator | Valerie Sutton (a hearing dancer and movement writing specialist), with collaboration from Adam Frost (a Deaf researcher)
+| Country | Initiated at the request of researchers in Copenhagen, Denmark, but Valerie Sutton is American
+| Language | Designed to precisely write any signed language. It is becoming a daily writing system for languages like ASL, German Sign Language, and Brazilian Sign Language. It can document all five parameters of sign languages using its specific alphabet, the International SignWriting Alphabet (ISWA 2010). It is a pictorial, bidimensional, and typically vertical writing system. It includes approximately 900 symbols
+| Estimates for numbers of users today | In use in many countries (over 40) and was chosen for a preliminary ASL Wikipedia translation. It is considered the "most known and widespread" system and one of the "most promising systems" in Brazil. It is taught in specialized schools in various countries
+
+</figure>
+
+* https://en.wikipedia.org/wiki/SignWriting
+
+<!--[eof]-->

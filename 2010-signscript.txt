@@ -1,0 +1,17 @@
+Year: 2010
+Title: SignScript
+Latin: ◔
+Language: ASL
+Country: United States
+Creator: Grushkin, Donald A.
+Source: ?
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Creator | Donald Grushkin (a Deaf professor) |
+| Language | Developed for ASL. It uses a unique set of symbols to represent handshape, orientation, location, movement, and non-manual morphemes. It is an alphabetic-based system with a limited number of characters, arranged horizontally like English. It has 130 characters
+
+</figure>
+
+<!--[eof]-->

@@ -1,0 +1,22 @@
+Year: 1997
+Title: AusWrite (?)
+Latin: ?
+Language: Auslan
+Country: Australia(?)
+Creator: David Rose
+Source: Bergermann ([2001][Bergermann 2001]) (?),
+        Stiedl ([2011][Stiedl 2011])
+
+> David Rose followed in 1997 with "AusWrite" (Auslan Writing System) for
+> *Australian Sign Language*. ([German Wikipedia: Geschichte der Gebärdensprachen])
+
+> As a French example, the unfinished project "D'Sign" by Paul Jouison (cf.
+> Konrad 1992 / Bergermann 2001) may be mentioned here; as an Australian
+> example, the project "AusWrite Auslan Writing System" by David Rose (cf.
+> Bergermann 2001); and as an American example, "SignFont" by Newkirk et al.
+> (cf. ibid), none of which will be discussed in greater detail in the context
+> of this work. ([Stiedl 2011])
+
+[German Wikipedia: Geschichte der Gebärdensprachen]: https://de.wikipedia.org/wiki/Geschichte_der_Gebärdensprachen
+
+<!--[eof]-->
