@@ -1,6 +1,6 @@
 Year: 2001
 Title: Visagrafía
-Latin:
+Latin: ?
 Language: LSC
 Country: Colombia(?)
 Creator: Jaime Hernández Gutiérrez et al.

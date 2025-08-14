@@ -8,4 +8,9 @@ Source: Renard (2004: 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
+According to [German Wikipedia:
+"Gebärdenschrift"](https://de.wikipedia.org/wiki/Gebärdenschrift)
+Eshkol-Wachmann created the Eshkol-Wachmann Movement Notation System for
+Israeli Sign Language,
+
 <!--[eof]-->

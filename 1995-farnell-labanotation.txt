@@ -33,4 +33,6 @@ Williams student, Brenda Farnell who adapted it for writing for sign language,
 and put it to use in describing *Plains Indian Sign Language* (PISL) ([Farnell
 1995]).
 
+[Wikipedia Labanotation]: https://en.wikipedia.org/wiki/Labanotation
+
 <!--[eof]-->

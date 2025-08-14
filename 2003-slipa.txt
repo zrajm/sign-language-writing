@@ -1,6 +1,6 @@
 Year: 2003(?)
 Title: SLIPA (Sign Language IPA)
-Latin: ● (uses Unicode, or, as an alternative, only ASCII)
+Latin: ● (uses only ASCII characters, optionally with Unicode diacritics)
 Language: any
 Country: United States
 Creator: Peterson, David J. (hearing)

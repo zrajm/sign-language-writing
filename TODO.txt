@@ -16,6 +16,129 @@
       Studies*, no. 56, pp. 197-241.
 * DONE Resort headlines in year order
   CLOSED: [2025-08-13 Wed 03:36]
+* DONE Fix rotation of PDF Barros (2006)
+  CLOSED: [2025-08-14 Thu 17:25]
+  pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
+  First page is correct, but all other pages need to be rotated 90°.
+* TODO Add stuff from German Wikipedia
+From: https://de.wikipedia.org/wiki/Gebärdenschrift
+** TODO Difference between writing and notation/transcription
+   A system is considered a script or functional writing system if it is
+   intended for general usage. Notations, on the other hand, are primarily
+   developed for academic purposes ([Bentele 2002: 4--15][Bentele 2002],
+   [Coulmas 1996], [DeFrancis 1989], [Miller 1994: 196ff][Miller 1994]).
+
+   [Bentele 2002]: #bentele-2002
+   [#bentele-2002] Bentele, Susanne. (2002). Zu Leistungen und Grenzen von
+     Gebärdenschriftsystemen [On the Capabilities and Limits of Sign Language
+     Writing Systems] (in German). Hamburg.
+
+   [Coulmas 1996]: #coulmas-1996
+   [#coulmas-1996] Coulmas, Florian. (1996). The Blackwell Encyclopedia of
+     Writing Systems. Oxford, Cambridge, MA: Blackwell.
+
+   [DeFrancis 1989]: #defrancis-1989
+   [#defrancis-1989] DeFrancis, John. (1989). Visible Speech. The diverse
+     oneness of writing systems. Honolulu: University of Hawaii Press.
+
+   [Miller 1994]: #miller-1994
+   [#miller-1994] Miller, Christopher. (1994). A Note on Notation. *Signpost.
+     The Newsletter of the International Sign Linguistics Association* (37).
+** TODO Early descriptions of handshapes (from 800-hundreds)
+   The first attempt to record handshapes on paper was made in the 7th century.
+   These so-called "finger numbers" or "numerical gestures" were not yet an
+   attempt to write sign languages.
+
+   Later, in the 16th and 18th centuries, further attempts were made to teach
+   deaf students spoken language using the "manual alphabet", "methodical
+   signs", and "sign register".
+** TODO Add Hutton "mimography"?
+   "In the 19th century, Roch-Ambroise Bébian in Paris ([Renard 2004]) and
+   later George Hutton from Scotland in Nova Scotia ([Hutton 1869:
+   157--182][Hutton 1869], [Fay 1876: 204--216][Fay 1876](?)) created the first
+   actual sign language writing systems, both of which were called mimography."
+
+   [Hutton 1869]: #hutton-1869
+   [hutton-1869]: pdf/hutton-1869-practicability_and_advantages_of_writing_and_printing_natural_signs.pdf
+   [#hutton-1869] Hutton, George. (1869, July). "[The Practicability and
+     Advantages of Writing and Printing Natural Signs][hutton-1869]". *American
+     Annals of the Deaf and Dumb, 14*(3), 157--182. Executive Committee of the
+     Convention of American Instructors of the Deaf.
+     https://archive.org/details/sim_american-annals-of-the-deaf_1869-07_14_3
+
+   [Fay 1876]: #fay-1876
+   [#fay-1876] Fay, Edward A. (1876). "Consanguineous Marriages as a Cause of
+     Deaf-Mutism". *American Annals of the Deaf and Dumb* (Volume XXI). The
+     Convention of American Instructors of the Deaf and Dumb Washington D.C.:
+     Hartford: Brown & Parsons.
+     http://archive.org/details/americanannalsof1921amer FIXME
+** TODO Add SignLettering
+   "A phonetic/phonemic system called **SignLettering** (Teuber et al. 1980)
+   was created by educator **Hartmut Teuber** (USA)."
+
+   Author=Teuber, Hartmut; Battison, Robbin; Lane, Harlan; Heck, Joe; Stungis, Jim |
+   URL=https://www-jstor-org.wikipedialibrary.idm.oclc.org/stable/26203583?searchText=A+COMPUTERIZED+LEXICON+OF+AMERICAN+SIGN+LANGUAGE+THE+DASL+1965+IN+FORTRAN&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DA%2BCOMPUTERIZED%2BLEXICON%2BOF%2BAMERICAN%2BSIGN%2BLANGUAGE%253A%2BTHE%2BDASL%2B1965%2BIN%2BFORTRAN%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A0a8d940d18ee2e90b91b23c64269bdec&seq=21 |
+   Title=A Computerized Lexicon of American Sign Language: The DASL 1965 in FORTRAN |
+   Published in=Sign Language Studies, No. 29 (Winter 1980) |
+   Pages=349--369 (21 pages) - p.21 |Accessed=2024-07-07 FIXME
+** TODO Add Intersys
+   "In the German-speaking world, systems like **Intersys** (intermediary
+   system, one symbol = one pictogram) ([Bentele 2002: 76--90][Bentele 2002],
+   [Baier 2001: 430--440][Baier 2001]) [...] have also been developed."
+
+   [Baier 2001]: #baier-2001
+   [#baier-2001] Baier, Thomas-Gert. (2001). InterSys: Eine Gebrauchsschrift
+     für Gebärdensprachen [InterSys: A Functional Writing System for Sign
+     Languages] (in German). *Das Zeichen* 15*(57), 430--440. Hamburg: Signum
+     Verlag.
+
+   [Bentele 2002]: #bentele-2002
+   [#bentele-2002] Bentele, Susanne. (2002). Zu Leistungen und Grenzen von
+     Gebärdenschriftsystemen [On the Capabilities and Limits of Sign Language
+     Writing Systems] (in German). Hamburg.
+** TODO Add SOSO
+   "In the German-speaking world, systems like [...] **SOSO** (Sign Oriented
+   Semantic Orthography) ([Bentele 2002: 91--102][Bentele 2002]) have also been
+   developed."
+
+   [Bentele 2002]: #bentele-2002
+   [#bentele-2002] Bentele, Susanne. (2002). Zu Leistungen und Grenzen von
+     Gebärdenschriftsystemen [On the Capabilities and Limits of Sign Language
+     Writing Systems] (in German). Hamburg.
+** x
+<div class=hanging>
+
+15: Internet source |
+URL=https://www.csus.edu/faculty/g/grushkin/ |
+Title=Donald A. Grushkin -- ASL & Deaf Studies |
+Publisher=Sacramento State |Accessed=2024-07-07 FIXME
+
+Perlmutter, David M. (1992). "Sonority and Syllable Structure in American Sign
+  Language", *Linguistic Inquiry, 23*(3), 407--442.
+  (FIXME: Mentioned in Peterson ([2003][Peterson 2003]))
+
+Rosenberg, Amy. (1999). *Amy Rosenberg Thesis University Kansas.*
+  http://www.signwriting.org/forums/research/rese010.html
+
+Stone, Thomas. (2009). *American Sign Language -- Sign Jotting.*
+  http://aslsj.com/
+
+Sutton, Valerie. (2004). *DanceWriting: Read and Write Dance.*
+  http://www.dancewriting.org/
+
+Sutton, Valerie. (2004). *SignBank SignPuddle: Sign Language Software in
+  SignWriting.* http://www.signbank.org/
+
+Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
+  http://www.signwriting.org/
+
+[Hopkins 2008]: #hopkins-2008
+[hopkins-2008]: pdf/hopkins-2008-choosing_how_to_write_sign_language.pdf
+[#hopkins-2008] Hopkins, Jason. (2008). "[Choosing How to Write Sign Language:
+  A Sociolinguistic Perspective][hopkins-2008]". *International Journal of the
+  Sociology of Language, 2008*(192), 75--89. DOI 10.1515/IJSL.2008.036
+
+</div>
 * TODO Find Schermer (1990) dissertation
   (referenced in `1990-schermer.txt`)
 
@@ -38,6 +161,11 @@
 * TODO Find Barros (1998)
   BARROS, ME Proposal for writing sign languages . Dissertation (Master's in
   Letters and Linguistics) - Federal University of Goiás, Goiânia, 1998. 
+
+  Referenced by Barros (2006) as:
+
+  Barros, Mariângela Estelita. *Proposta de escrita das Línguas de Sinais.
+    Dissertação. Goiânia: UFG, 1997.
 * TODO Citation plugin
   Source references like "Farnell (1995)", "(Farnell 1995)", "Farnell (1995:
   34)" and "Farnell (1995: 34--64)" should automatically turn into links.

@@ -2,8 +2,8 @@ Year: --
 Title: Gloss
 Latin: ● (only Latin characters)
 Language: any
-Country:
-Creator:
+Country: --
+Creator: --
 Source:
 Use: Transcription, teaching
 

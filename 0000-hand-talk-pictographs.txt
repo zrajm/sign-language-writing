@@ -3,7 +3,7 @@ Title: Hand Talk Pictographs
 Latin: ○ (no Latin characters)
 Language: PISL(?)
 Country: United States
-Creator: ?
+Creator: --
 Source: Graber ([2018][Graber 2018])
         Farnell ([1995][Farnell 1995]: 244--247)
 

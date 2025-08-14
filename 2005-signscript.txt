@@ -1,0 +1,30 @@
+Year: 2005
+Title: SignScript
+Latin: ◔
+Language: ASL
+Country: United States
+Creator: Grushkin, Donald A. (deaf)
+Source: ?
+
+The first article about SignScript seems to be Grushkin ([2005][Grushkin
+2005])---Even though I have not been able to find this article, this is the
+earliest article with the word "SignScript" in the title, so I'm assuming this
+marks the creation of SignScript.
+
+<figure class=fixme>
+  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
+
+| Language | Developed for ASL. It uses a unique set of symbols to represent handshape, orientation, location, movement, and non-manual morphemes. It is an alphabetic-based system with a limited number of characters, arranged horizontally like English. It has 130 characters
+
+</figure>
+
+<div class=hanging>
+
+[Grushkin 2005]: #grushkin-2005
+[#grushkin-2005] Grushkin, Donald A. (2005, February 19). "SignScript:
+  Implications for ASL Instruction and Deaf Education". Orlando, FL: Florida
+  ASL Teacher's Association Convention.
+
+<div class=hanging>
+
+<!--[eof]-->

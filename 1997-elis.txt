@@ -1,6 +1,6 @@
 Year: 1997?
 Title: ELiS (Escrita das Línguas de Sinais)
-Latin:
+Latin: ?
 Language: Libras/any
 Country: Brazil
 Creator: Barros, Mariângela Estelita

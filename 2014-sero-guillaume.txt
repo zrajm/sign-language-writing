@@ -1,6 +1,6 @@
 Year: 2014
 Title: Séro-Guillaume Writing (Alphabetic Writing of Philippe Séro-Guillaume, L'écriture alphabétique de Philippe Séro-Guillaume)
-Latin: x
+Latin: ●
 Language: LSF
 Country: France
 Creator: Séro-Guillaume, Philippe

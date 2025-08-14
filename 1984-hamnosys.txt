@@ -58,5 +58,7 @@ been listed as [1989][Prillwitz et al. 1989].
 
 * https://en.wikipedia.org/wiki/Hamburg_Notation_System
 * https://www.scriptsource.org/scr/Qabn
+* https://web.archive.org/web/20170104033928/http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/hamnosys.html
+  Uni Hamburg, HamNoSys, accessed July 10, 2017
 
 <!--[eof]-->
