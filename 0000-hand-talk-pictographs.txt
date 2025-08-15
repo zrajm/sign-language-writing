@@ -8,10 +8,11 @@ Source: Graber ([2018][Graber 2018])
         Farnell ([1995][Farnell 1995]: 244--247)
 
 I have on several occasions encountered mentions of a pictograph style of sign
-language writing used for PISL (Farnell [1995][Farnell 1995]: 244--247, Graber
-[2018][Graber 2018]), which seems to often be combined with more logographic
-writing.---It is not clear to me how complete this system of writing is, but I
-would be greatly amiss if I did not include it on this list.
+language writing used by native Americans for PISL (Farnell [1995][Farnell
+1995]: 244--247, Graber [2018][Graber 2018]), which seems to often be mixed
+with more logographic symbols as well.---It is not clear to me how complete
+this system of writing is, but I would be greatly amiss if I did not include it
+on this list.
 
 Graber ([2018][Graber 2018]) describes the shape and meaning of some of these
 symbols, as used in a letter in 1890, but, unfortunately, she does not compare
