@@ -20,6 +20,8 @@
   CLOSED: [2025-08-14 Thu 17:25]
   pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
   First page is correct, but all other pages need to be rotated 90°.
+* TODO `pdf/west-1960-sign_language.pdf` is to large for Github!        :BUG:
+  Files larger than 100MB can be listed with: `ls **/*(.Lm+100)`
 * TODO Add stuff from German Wikipedia
 From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription

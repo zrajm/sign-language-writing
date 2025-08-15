@@ -14,7 +14,7 @@ notation] according to Miller ([2001][Miller 2001]).
 <div class=hanging>
 
 Corazza, S. (1990). "The morphology of classifier handshapes in Italian Sign
-  Language." In C. Lucas (ed.), Sign language research: Theoretical issues,
+  Language." In: C. Lucas (ed.), *Sign language research: Theoretical issues,*
   Washington: Gallaudet Universtity Press.
 
 </div>
