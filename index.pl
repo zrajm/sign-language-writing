@@ -174,7 +174,7 @@ sub generate_body {
             # Strip trailing '<--[eof]-->' any trailing 'pdf/*' lines.
             s{ ^ \n* (.*?) \n\n }{
                 (my $a = $1) =~ s#^(\w+):#\n**$1:**#gm;
-                "<div class=\"hanging summary\">\n$a\n\n</div>\n\n";
+                "<details class=\"hanging summary\"><summary>\n$a\n\n</summary></details>\n\n";
             }sex;
             # Strip trailing '<--[eof]-->' any trailing 'pdf/*' lines.
             s#\n*\Q<!--[eof]-->\E\n*((?:pdf/.*)\n+)*\z##;
