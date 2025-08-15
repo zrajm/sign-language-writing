@@ -158,15 +158,17 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
   Page 306-- of *ECSM 2021 8th European Conference on Social Media*
 
   By Philipp Achenbach, Yasmin Göksu, Timo Kullmann & Thomas Tregel.
-* TODO Find Barros (1998)
+* TODO Find Barros (1997)
   BARROS, ME Proposal for writing sign languages . Dissertation (Master's in
   Letters and Linguistics) - Federal University of Goiás, Goiânia, 1998. 
 
   Referenced by Barros (2006) as:
 
-  Barros, Mariângela Estelita. *Proposta de escrita das Línguas de Sinais.
-    Dissertação. Goiânia: UFG, 1997.
+  Barros, Mariângela Estelita. *Proposta de escrita das Línguas de Sinais*
+    [Proposal for writing sign languages]. Dissertação. Goiânia: UFG, 1997.
 * TODO Citation plugin
   Source references like "Farnell (1995)", "(Farnell 1995)", "Farnell (1995:
   34)" and "Farnell (1995: 34--64)" should automatically turn into links.
+
+  Also: DOI<nbsp>... should be converted to links?
 * [eof]

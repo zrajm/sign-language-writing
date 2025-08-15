@@ -1,13 +1,60 @@
-Year: 1997?
+Year: 1997 ([Barros 1997] published)
 Title: ELiS (Escrita das Línguas de Sinais)
-Latin: ?
+Latin: ◔ (no Latin characters)
 Language: Libras/any
 Country: Brazil
 Creator: Barros, Mariângela Estelita
-Source: Cardoso ([2023][Cardoso 2023]),
+Source: Barros ([1997][Barros 1997]),
+        Barros ([2006][Barros 2006]),
+        Barros ([2008][Barros 2008]),
+        Barros ([2016][Barros 2016]),
+        Cardoso ([2023][Cardoso 2023]),
         Mendes ([2020][Mendes 2020])
 
-* FIXME: When was this first published? 1997? 1998?
+**On "year" above:** It should be either 1998 or 1997. Barros ([2006][Barros
+2006]) and Barros ([2008][Barros 2008]) give the year as "1997", while Barros
+([2016][Barros 2016]), Portugese Wikipedia ("[Portugese Wikipedia: Mariângela
+Estelita Barros]") and Google Scholar give it as "1998".---I have not been able
+to obtain the thesis, so consider the exact year unknown.
+
+[Portugese Wikipedia: Mariângela Estelita Barros]: https://pt.wikipedia.org/wiki/Mariângela_Estelita_Barros
+
+<div>
+
+On the name "ELiS":
+
+> ELiS is a writing system for LS [Sign Languages], with an alphabetic and
+> linear basis. This system was created during my master's research in 1997,
+> and since then it has been continuously refined based on suggestions from
+> both deaf and hearing colleagues, as well as my own linguistic reflections.
+> In fact, its name has evolved along with its theoretical development.
+>
+> It was originally called "AlfaSig" -- "Alfa" from "alphabetical" and "Sig"
+> from the Latin "signalis". However, upon realizing the close association of
+> "alfa," or "alphabetical," with a representation of sounds, I discarded the
+> name. It was then called "QuiroSig," as the system represents the "quiremas"
+> [chiremes] of signs, according to the terminology created by Stokoe. During
+> the pilot study, however, the teacher of the class in which I served as a
+> researcher noticed that the name lacked a reference to "writing" and referred
+> only to "signs." For a period, the system was called ScripSig. It was later
+> renamed again and is now simply and definitively presented as ELiS, an
+> acronym for Escrita das Línguas de Sinais [writing of sign languages]. The
+> structure of ELiS that I present here is from 2007. ([Barros 2008]: 25,
+> translated using ChatGPT)
+
+</div>
+
+There is also a book about ELiS:
+
+<div class=hanging>
+
+[Barros 2015]: #barros-2015
+[#barros-2015] Barros, Mariângela Estelita. (2015). *ELiS: Sistema Brasileiro
+  de Escrita das Línguas de Sinais* [ELiS: Brazilian Writing System for Sign
+  Languages]. Penso Editora. ISBN 978-8584290512
+  https://books.google.com?id=mVsbCgAAQBAJ
+
+</div>
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
