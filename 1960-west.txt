@@ -1,4 +1,4 @@
-Year: 1960
+Year: 1960 ([West 1960] published)
 Title: West Notation
 Latin: ◑
 Language: PISL
@@ -14,7 +14,7 @@ Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
 
-| Year |1960 (as part of his PhD thesis)
+| Year |1960 (as part of his PhD dissertation)
 | Country | USA (Indiana University)
 | Language | Developed for PISL. It uses a combination of "printed letters and a few symbols borrowed from phonetic transcription of oral languages" to represent sign parameters
 | Estimates for numbers of users today | It "received little attention" and had "practically no influence" on other researchers

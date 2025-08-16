@@ -15,7 +15,7 @@ Source: Barros ([1997][Barros 1997]),
 2006]) and Barros ([2008][Barros 2008]) give the year as "1997", while Barros
 ([2016][Barros 2016]), Portugese Wikipedia ("[Portugese Wikipedia: Mariângela
 Estelita Barros]") and Google Scholar give it as "1998".---I have not been able
-to obtain the thesis, so consider the exact year unknown.
+to obtain the dissertation, so consider the exact year unknown.
 
 [Portugese Wikipedia: Mariângela Estelita Barros]: https://pt.wikipedia.org/wiki/Mariângela_Estelita_Barros
 

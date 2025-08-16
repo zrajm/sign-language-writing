@@ -1,9 +1,9 @@
 Year: 1980
 Title: Corazza Notation
-Latin: ?
+Latin: ◕ (mostly alphabetical, some funny diacritics)
 Language: LIS
 Country: Italy
-Creator: Corazza
+Creator: Corazza, Serena
 Source: Renard ([2004][Renard 2004]: 168),
         Miller ([2001][Miller 2001])
 
@@ -11,12 +11,10 @@ Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
 from the Berkeley group (in turned derived from DASL), together with [Radutzky
 notation] according to Miller ([2001][Miller 2001]).
 
-<div class=hanging>
+...I'm not 100% sure this counts as a complete notation system, as Corazza
+([1990][Corazza 1990]) only give examples for classifiers.
 
-Corazza, S. (1990). "The morphology of classifier handshapes in Italian Sign
-  Language." In: C. Lucas (ed.), *Sign language research: Theoretical issues,*
-  Washington: Gallaudet Universtity Press.
-
-</div>
+> I use the notational system adopted for LIS in Corazza et al. (1985) and
+> Volterra (1986). ([Corazza 1990])
 
 <!--[eof]-->

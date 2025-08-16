@@ -3,7 +3,7 @@ Title: VisoGrafia
 Latin: ?
 Language: Libras/any
 Country: Brazil
-Creator: Claudio Alves Benassi
+Creator: Benassi, Claudio Alves
 Source: ?
 
 **Note:** This is distinct from [Visagrafía], an earlier system.

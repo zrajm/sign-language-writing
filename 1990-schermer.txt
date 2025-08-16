@@ -14,7 +14,7 @@ from the Berkeley group (in turned derived from DASL) according to Miller
 <div class=hanging>
 
 Schermer, T. (1990). *In search of a language: Influences from spoken Dutch on
-  Sign Language of the Netherlands.* Doctoral dissertation, University of
+  Sign Language of the Netherlands* [Doctoral dissertation]. University of
   Amsterdam.
 
 </div>

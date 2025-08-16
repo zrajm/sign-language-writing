@@ -3,14 +3,13 @@ Title: Early Si5s
 Latin: ○
 Language: ASL
 Country: United States
-Creator: Arnold Augustus, Robert
+Creator: Arnold Augustus, Robert (deaf)
 Source: Arnold ([2007][Arnold 2007])
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
 
-| Year |2007, marked by Arnold's Master's thesis *A Proposal for a Written System of American Sign Language* (though started working on the system started as early as 2003).
-| Creator | Robert Arnold (a Deaf linguist) |
+| Year |2007, marked by Arnold's Master's dissertation *A Proposal for a Written System of American Sign Language* (though started working on the system started as early as 2003).
 | Country | USA (Gallaudet University).
 | Language | Specifically for ASL. It has its own alphabet called "digibet" with 67 symbols for handshapes. It uses a mix of phonetic and ideographic characters. The writing is linear, left-to-right, but characters are not arranged linearly. It is pictorial. It has 80 characters
 | Estimates for numbers of users today | Described as a system for public use
