@@ -3,7 +3,7 @@ Title: ASLwrite
 Latin: ○
 Language: ASL
 Country: United States
-Creator: Clark, Adrean (deaf) & Dameron, Julia (deaf)
+Creator: Clark, Adrean (deaf); Dameron, Julia (deaf)
 Source: Clark ([2012][Clark 2012])
 Use: Everyday
 Parent: 2003-early-si5s

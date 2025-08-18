@@ -3,7 +3,7 @@ Title: FBL Notation (Ferreira-Brito-Langevin Notation, Notação de Ferreira-Bri
 Latin: ●?
 Language: Libras
 Country: France, Brazil
-Creator: Ferreira Brito, Lucinda & Langevin, Rémi
+Creator: Ferreira Brito, Lucinda; Langevin, Rémi
 Source: ?
 
 <figure class=fixme>

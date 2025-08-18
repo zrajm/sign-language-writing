@@ -3,7 +3,7 @@ Title: Liddell & Johnson Notation
 Latin: ?
 Language: ?
 Country: United States
-Creator: Liddell & Johnson
+Creator: Liddell; Johnson
 Source: Renard ([2004][Renard 2004]: 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]), who
