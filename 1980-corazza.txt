@@ -14,7 +14,7 @@ notation] according to Miller ([2001][Miller 2001]).
 ...I'm not 100% sure this counts as a complete notation system, as Corazza
 ([1990][Corazza 1990]) only give examples for classifiers.
 
-> I use the notational system adopted for LIS in Corazza et al. (1985) and
-> Volterra (1986). ([Corazza 1990])
+> I use the notational system adopted for LIS in Corazza et al.
+> ([1985][Corazza 1985]) and Volterra ([1986][Volterra 1987]). ([Corazza 1990])
 
 <!--[eof]-->
