@@ -5,6 +5,7 @@ Language: STS
 Country: Sweden
 Creator: Bergman, Brita (hearing)
 Source: Renard ([2004][Renard 2004]: 168)
+Graphemes: ~140 ([Zrajm 2017])
 
 Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
@@ -18,6 +19,19 @@ published ([Hedberg 1997]). The transcription is still in use by the online
 version of the dictionary ([Svenskt teckenspråkslexikon 2008]). The last guide
 to its use is Bergman & Björkstrand ([2015][Bergman & Björkstrand 2015]).
 There's also a Unicode font available online ([Zrajm 2017]).
+
+The number of graphemes have varied over time, but font currently used by the
+Swedish Sign Language Lexicon ([Svenskt teckenspråkslexikon 2008]) includes 40
+locations symbols (including 5 diacritics), 40 handshapes, 12 attitude symbols,
+41 motion symbols, 16 other symbols. Some of these symbols were requested by
+the lexicon (when I designed the font) but is not (yet?) in use, such as symbol
+for 'neutral position' (`U+10c9b3`), or Hedberg's more intuitive circular
+motion glyphs (`U+10c9ae`, `U+10c9af` and `U+10c9b0`), or the 'bounce' motion
+symbol (`U+10c9b6`). Wallin ([1994][Wallin 1994]) use a handful of handshape
+symbols that are not included in the font, and the font also include an
+experimental set of 'finger phonetics' symbols (for describing arbitrary
+handshapes) that, to my knowledge, have never been used outside of my own
+writing. ([Zrajm 2017]).
 
 Bergman notation borrows from Stokoe notation, but deviates is several aspects,
 among other things it uses Swedish fingerspelling alphabet for the handshapes,

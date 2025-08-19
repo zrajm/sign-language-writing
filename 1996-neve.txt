@@ -5,6 +5,7 @@ Language: LSFB
 Country: Belgium
 Creator: Nève, François-Xavier (hearing)
 Source: Renard ([2004][Renard 2004]: 65--70, 166, 168)
+Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

@@ -6,6 +6,7 @@ Country: United States
 Creator: --
 Source: Graber ([2018][Graber 2018])
         Farnell ([1995][Farnell 1995]: 244--247)
+Graphemes: N/A
 
 I have on several occasions encountered mentions of a pictograph style of sign
 language writing used by native Americans for PISL (Farnell [1995][Farnell

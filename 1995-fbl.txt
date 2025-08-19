@@ -5,6 +5,7 @@ Language: Libras
 Country: France, Brazil
 Creator: Ferreira Brito, Lucinda (hearing); Langevin, Rémi (hearing)
 Source: ?
+Graphemes: ?
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

@@ -5,6 +5,7 @@ Language: LSF
 Country: France
 Creator: International Visual Théâtre
 Source: Renard (2004: 71--77, 168)
+Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

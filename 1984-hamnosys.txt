@@ -7,6 +7,7 @@ Creator: Prillwitz; Vollhaber
 Source: Prillwitz et al. (1987),
         Prillwitz et al. (1989),
         Renard ([2004][Renard 2004]: 81--95, 168)
+Graphemes: 210
 
 Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 [Wikipedia](https://en.wikipedia.org/wiki/Hamburg_Notation_System) says that

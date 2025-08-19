@@ -5,6 +5,7 @@ Language: ASL
 Country: United States
 Creator: Arnold Augustus, Robert (deaf)
 Source: Arnold ([2013][Arnold 2013])
+Graphemes: 80
 
 * https://en.wikipedia.org/wiki/Si5s
 

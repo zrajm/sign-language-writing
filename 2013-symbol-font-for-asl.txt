@@ -5,6 +5,7 @@ Language: ASL
 Country: United States
 Creator: 'ASL Font' (?)
 Source: ASL Font ([2013][ASL Font 2013])
+Graphemes: 95
 
 **On "year" and "creator" above:** The "Symbol Font for ASL" website is
 published via Github, and according it Git commit history it was first

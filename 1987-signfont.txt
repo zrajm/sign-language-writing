@@ -6,6 +6,7 @@ Country: United States
 Creator: Newkirk, Don E. (hearing)
 Source: McIntire et al ([1987][McIntire et al 1987]),
         Renard ([2004][Renard 2004]: 168)
+Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 

@@ -5,6 +5,7 @@ Language: ?
 Country: United States
 Creator: Liddell; Johnson
 Source: Renard ([2004][Renard 2004]: 168)
+Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]), who
 also misspells Liddell's name as "Liddel".

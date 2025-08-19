@@ -5,6 +5,7 @@ Language: Libras
 Country: Brazil
 Creator: Lessa-de-Oliveira, Adriana S. C. (hearing)
 Source: ?
+Graphemes: 173
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

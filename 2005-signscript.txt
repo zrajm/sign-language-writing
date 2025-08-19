@@ -5,6 +5,7 @@ Language: ASL
 Country: United States
 Creator: Grushkin, Donald A. (deaf)
 Source: ?
+Graphemes: 130
 
 The first article about SignScript seems to be Grushkin ([2005][Grushkin
 2005])---Even though I have not been able to find this article, this is the

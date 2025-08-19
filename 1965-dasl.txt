@@ -5,6 +5,7 @@ Language: ASL
 Country: United States
 Creator: Stokoe, William C. (hearing); Casterline (?); Cronenberg (?)
 Source: Renard ([2004][Renard 2004]: 168)
+Graphemes: ?
 
 FIXME: Renard classifies the Stokoe notation and DASL notation as two different
 systems, however I think that's probably not true. I think DASL notation is a

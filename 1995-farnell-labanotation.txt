@@ -6,6 +6,7 @@ Country: United States
 Creator: Farnell, Brenda (hearing)
 Source: Farnell ([1995][Farnell 1995]),
         Renard ([2004][Renard 2004]: 168)
+Graphemes: ?
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>

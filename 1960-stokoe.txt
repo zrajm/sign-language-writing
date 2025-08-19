@@ -5,17 +5,7 @@ Language: ASL
 Country: United States
 Creator: Stokoe, William C. (hearing)
 Source: Renard ([2004][Renard 2004]: 59--64, 166, 168)
-
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-| Year |The initial system was developed in 1960. A dictionary based on linguistic principles was published in 1965
-| Creator | William Stokoe, with D. Casterline & C. Croneberg
-| Country | USA (Gallaudet University)
-| Language | Primarily for ASL. It uses letters and numbers for handshapes, combined with conventionalised iconic symbols for location, movement, and spatial relations. It has been adapted and extended for other sign languages, such as BSL and STS
-| Estimates for numbers of users today | Predominantly used by linguists and researchers for phonological analysis. It is one of the most widely used notation systems in academic research
-
-</figure>
+Graphemes: ?
 
 * https://en.wikipedia.org/wiki/Stokoe_notation
 

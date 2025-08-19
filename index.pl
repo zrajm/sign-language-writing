@@ -234,6 +234,11 @@ my %macro = (
         # 'hearing', 'deaf', 'hearing & deaf' or '?'
         return @status ? join(' & ', @status) : '?';
     },
+    graphemes => sub {
+        local $_ = shift;
+        s#\h*\(.*?\)##g;
+        $_;
+    },
     latin => sub {
         local $_ = shift;
         s#[\x00-\x3e\x40-\xff]##g;
@@ -263,7 +268,7 @@ my $text = read_file($file);
 for ($text) {
     s{(?<=\Q<!-- START-TABLE -->\E).*?(?=\Q<!-- END-TABLE -->\E)}{
         "\n" . generate_table(
-            'Year Title <p>Latin <p>Language <p>Country Creator Status',
+            'Year Title <p>Latin <p>Graphemes <p>Language <p>Country Creator Status',
             \%macro, %file);
     }sme;
     s{(?<=\Q<!-- START-BODY -->\E).*?(?=\Q<!-- END-BODY -->\E)}{

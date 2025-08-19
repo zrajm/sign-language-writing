@@ -6,6 +6,7 @@ Country: Australia(?)
 Creator: David Rose
 Source: Bergermann ([2001][Bergermann 2001]) (?),
         Stiedl ([2011][Stiedl 2011])
+Graphemes: ?
 
 > David Rose followed in 1997 with "AusWrite" (Auslan Writing System) for
 > *Australian Sign Language*. ([German Wikipedia: Geschichte der Gebärdensprachen])

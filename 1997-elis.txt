@@ -10,6 +10,7 @@ Source: Barros ([1997][Barros 1997]),
         Barros ([2016][Barros 2016]),
         Cardoso ([2023][Cardoso 2023]),
         Mendes ([2020][Mendes 2020])
+Graphemes: 90
 
 **On "year" above:** It should be either 1998 or 1997. Barros ([2006][Barros
 2006]) and Barros ([2008][Barros 2008]) give the year as "1997", while Barros

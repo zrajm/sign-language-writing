@@ -8,6 +8,7 @@ Source: Peterson ([2003][Peterson 2003]),
         Cardoso ([2023][Cardoso 2023]),
         Mendes ([2020][Mendes 2020]),
         ASL Font ([2021][ASL Font 2021])
+Graphemes: ?
 Use: Transcription, conlang creation
 
 **On "year" above:** "2003" is the copyright year given by Peterson

@@ -5,6 +5,7 @@ Language: Libras/any
 Country: Brazil
 Creator: Benassi, Claudio Alves (hearing)
 Source: ?
+Graphemes: 93
 
 **Note:** This is distinct from [Visagrafía], an earlier system.
 

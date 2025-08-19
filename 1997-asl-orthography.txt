@@ -8,6 +8,7 @@ Source: Low (1997),
         ASL Font (2021),
         Cardoso (2023),
         Mendes (2020)
+Graphemes: ~45
 Parent: ?
 
 Low is a hearing student of ASL who created ASL Orthography for everyday

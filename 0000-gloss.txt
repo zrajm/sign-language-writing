@@ -6,6 +6,7 @@ Country: --
 Creator: --
 Source:
 Use: Transcription, teaching
+Graphemes: N/A
 
 Glossing is a common practice in sign language research and education. Signs
 are typically represented by words from the spoken language, usually written in
