@@ -3,7 +3,7 @@ Title: D'Sign
 Latin: ◔
 Language: LSF
 Country: France
-Creator: Jouison, Paul
+Creator: Jouison, Paul (hearing)
 Source: Jouison ([1990][Jouison 1990]),
         Renard ([2004][Renard 2004]: 78--80, 166, 168)
 

@@ -3,7 +3,7 @@ Title: AusWrit
 Latin: ○
 Language: Auslan
 Country: Australia(?)
-Creator: LinguaPhiliax
+Creator: LinguaPhiliax (hearing)
 Source: ?
 
 <!--[eof]-->

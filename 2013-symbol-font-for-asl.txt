@@ -3,7 +3,7 @@ Title: Symbol Font for ASL
 Latin: ?
 Language: ASL
 Country: United States
-Creator: 'ASL Font'
+Creator: 'ASL Font' (?)
 Source: ASL Font ([2013][ASL Font 2013])
 
 **On "year" and "creator" above:** The "Symbol Font for ASL" website is

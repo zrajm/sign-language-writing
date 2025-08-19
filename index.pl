@@ -116,8 +116,8 @@ sub xtract_info {
 }
 
 sub generate_table {
-    my ($fields, $macro, %text) = @_;
-    my @column_head = split(/ +/, $fields);
+    my ($columns, $macro, %text) = @_;
+    my @column_head = split(/ +/, $columns);
     my @column_name = map {
         local $_ = $_;
         s#<[^<>]*>##g;         # strip HTML
@@ -135,10 +135,12 @@ sub generate_table {
             say STDERR "No 'title' in file '$file'" unless $x{title};
             !$x{title} ? () : [map {
                 my ($key, $value) = ($_, $x{$_} // do {
-                    say STDERR "No '$_' in file '$file'";
+                    #say STDERR "No '$_' in file '$file'";
                     ''
                 });
-                $macro->{$key} ? $macro->{$key}->($value) : $value;
+                $macro->{$key}
+                    ? $macro->{$key}->($value, %x)
+                    : $value;
             } @column_name];
 
         } sort(keys %text)
@@ -215,6 +217,23 @@ my %macro = (
             $_;
         } split(/, */, $_));
     },
+    creator => sub {
+        return join '; ', map {
+            s#\h*\(.*?\)##g;
+            s#,.*##;
+            $_;
+        } split(/;\h*/, shift);
+    },
+    status => sub {
+        my ($value, %values) = @_;
+        my $creator = $values{creator} // '';
+        my @status = map {
+            my $x = quotemeta($_);
+            $creator =~ m/\((${x}\??)\)/i ? $1 : ();
+        } qw/hearing deaf ?/;
+        # 'hearing', 'deaf', 'hearing & deaf' or '?'
+        return @status ? join(' & ', @status) : '?';
+    },
     latin => sub {
         local $_ = shift;
         s#[\x00-\x3e\x40-\xff]##g;
@@ -244,7 +263,7 @@ my $text = read_file($file);
 for ($text) {
     s{(?<=\Q<!-- START-TABLE -->\E).*?(?=\Q<!-- END-TABLE -->\E)}{
         "\n" . generate_table(
-            'Year Title <p>Latin <p>Language <p>Country Creator',
+            'Year Title <p>Latin <p>Language <p>Country Creator Status',
             \%macro, %file);
     }sme;
     s{(?<=\Q<!-- START-BODY -->\E).*?(?=\Q<!-- END-BODY -->\E)}{

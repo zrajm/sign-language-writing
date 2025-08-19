@@ -3,7 +3,7 @@ Title: SEL (Sistema de Escrita de Língua de Sinais)
 Latin: ?
 Language: Libras
 Country: Brazil
-Creator: Adriana S. C. Lessa-de-Oliveira
+Creator: Lessa-de-Oliveira, Adriana S. C. (hearing)
 Source: ?
 
 <figure class=fixme>

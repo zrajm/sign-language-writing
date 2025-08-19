@@ -3,7 +3,7 @@ Title: Stokoe Notation (also 'Stokoe system', French: 'notation Stokoe')
 Latin: ◑
 Language: ASL
 Country: United States
-Creator: Stokoe, William C.
+Creator: Stokoe, William C. (hearing)
 Source: Renard ([2004][Renard 2004]: 59--64, 166, 168)
 
 <figure class=fixme>

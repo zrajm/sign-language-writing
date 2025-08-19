@@ -3,7 +3,7 @@ Title: SMYLE (Signographie Manuscrite YaelLE)
 Latin: ?
 Language: LSF/any
 Country: France
-Creator: Maryline Pierrat-Frappé
+Creator: Pierrat-Frappé, Maryline (hearing)
 Source: Renard ([2004][Renard 2004]: 130--141, 166, 168)
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).

@@ -3,7 +3,7 @@ Title: ELiS (Escrita das Línguas de Sinais)
 Latin: ◔ (no Latin characters)
 Language: Libras/any
 Country: Brazil
-Creator: Barros, Mariângela Estelita
+Creator: Barros, Mariângela Estelita (hearing)
 Source: Barros ([1997][Barros 1997]),
         Barros ([2006][Barros 2006]),
         Barros ([2008][Barros 2008]),
@@ -18,6 +18,16 @@ Estelita Barros]") and Google Scholar give it as "1998".---I have not been able
 to obtain the dissertation, so consider the exact year unknown.
 
 [Portugese Wikipedia: Mariângela Estelita Barros]: https://pt.wikipedia.org/wiki/Mariângela_Estelita_Barros
+
+<figure>
+
+![](pic/elis.png)
+
+<figcaption>
+  Illustration from Portugese Wikipedia "[Escrita das línguas de
+  sinais](https://pt.wikipedia.org/wiki/Escrita_das_línguas_de_sinais)".
+</figcaption>
+</figure>
 
 <div>
 
@@ -63,5 +73,7 @@ There is also a book about ELiS:
 | Estimates for numbers of users today | Utilised and disseminated by several Brazilian universities (UFG, UFGD, UFMT). It is considered one of the "most promising systems" in Brazil
 
 </figure>
+
+* https://pt.wikipedia.org/wiki/Escrita_das_línguas_de_sinais
 
 <!--[eof]-->

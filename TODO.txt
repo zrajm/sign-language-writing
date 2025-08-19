@@ -20,6 +20,16 @@
   CLOSED: [2025-08-14 Thu 17:25]
   pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
   First page is correct, but all other pages need to be rotated 90°.
+* TODO Replace deaf/hearing status in table with icon
+  Also, column name should be 'Deaf'?
+* TODO BSL-related sources
+  + Brien, David. (Ed.). (1992). *Dictionary of British Sign Language/English*.
+    Faber & Faber. 1084 pages. ISBN 0571143466
+    https://archive.org/details/dictionaryofbrit0000unse_b8e6 (only front
+    matter available)
+  + notation system based on the system developed by the Edinburgh BSL Research
+    team (Brennan et al, 1984)
+  + to designing a more user-friendly version (Thoutenhoofd, 2000).
 * TODO Integrate data from old thesis web page
 * TODO Verify and remove AI-summaries
 * TODO `pdf/west-1960-sign_language.pdf` is to large for Github!        :BUG:
@@ -143,33 +153,47 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
   Sociology of Language, 2008*(192), 75--89. DOI 10.1515/IJSL.2008.036
 
 </div>
-* TODO Find Schermer (1990) dissertation
-  (referenced in `1990-schermer.txt`)
-
-  Schermer, T. (1990). *In search of a language: Influences from spoken Dutch
-    on Sign Language of the Netherlands.* Doctoral dissertation, University of
-    Amsterdam.
 * TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system
-* TODO Find Moody (1986) -- referenced by Bergeron (2006)
-* TODO Find Hutchinson (2012)
-  (mentioned by Achenbach (2021)
-* TODO Find Achenbach (2021)
-  "Towards handshape identification for automatic gesture recognition using
-  sign notation systems"
+* [0/7] Articles/texts to fetch
+** TODO Find Schermer (1990) dissertation
+   (referenced in `1990-schermer.txt`)
 
-  Page 306-- of *ECSM 2021 8th European Conference on Social Media*
+   Schermer, T. (1990). *In search of a language: Influences from spoken Dutch
+     on Sign Language of the Netherlands.* Doctoral dissertation, University of
+     Amsterdam.
+** TODO Find Moody (1986) -- referenced by Bergeron (2006)
+** TODO Find Hutchinson (2012)
+   (mentioned by Achenbach (2021)
+** TODO Find Achenbach (2021)
+   "Towards handshape identification for automatic gesture recognition using
+   sign notation systems"
 
-  By Philipp Achenbach, Yasmin Göksu, Timo Kullmann & Thomas Tregel.
-* TODO Find Barros (1997)
-  BARROS, ME Proposal for writing sign languages . Dissertation (Master's in
-  Letters and Linguistics) - Federal University of Goiás, Goiânia, 1998. 
+   Page 306-- of *ECSM 2021 8th European Conference on Social Media*
 
-  Referenced by Barros (2006) as:
+   By Philipp Achenbach, Yasmin Göksu, Timo Kullmann & Thomas Tregel.
+** TODO Find Barros (1997)
+   BARROS, ME Proposal for writing sign languages . Dissertation (Master's in
+   Letters and Linguistics) - Federal University of Goiás, Goiânia, 1998. 
 
-  Barros, Mariângela Estelita. *Proposta de escrita das Línguas de Sinais*
-    [Proposal for writing sign languages]. Dissertação. Goiânia: UFG, 1997.
+   Referenced by Barros (2006) as:
+
+   Barros, Mariângela Estelita. *Proposta de escrita das Línguas de Sinais*
+     [Proposal for writing sign languages]. Dissertação. Goiânia: UFG, 1997.
+** TODO Find Gutiérrez 2007 (Visagrafía reference)
+   Diccionario de Visagrafía: Lengua de Señas Escrita, a comprehensive guide to written sign language developed under the Instituto de Audiología Integral.
+   https://catalogo.ecr.edu.co/cgi-bin/koha/opac-detail.pl?biblionumber=3782&shelfbrowse_itemnumber=4972
+** TODO Get Radutzky (1989) "La lingua italiana dei segni"
+   It seems to be available as PDF, just not to students of Uppsala Uni. :(
+   La lingua italiana dei segni: Historical change in the sign language of deaf people in Italy
+   https://www.proquest.com/openview/3fceaa3633938adc54b606b77c4ae427/1?pq-origsite=gscholar&cbl=18750&diss=y
+** TODO Find Bergermann 2001
+   [#bergermann-2001] Bergermann, Ulrike. (2001). *Ein Bild von einer Sprache:
+     Konzepte von Bild und Schrift und das Hamburger Notationssystem für
+     Gebärdensprachen* [A Picture of a Language: Concepts of Image and Writing
+     and the Hamburg Notation System for Sign Languages]. München: Wilhelm Fink
+     Verlag. ISBN 978-3-7705-3598-9.
 * TODO Citation plugin
   Source references like "Farnell (1995)", "(Farnell 1995)", "Farnell (1995:
   34)" and "Farnell (1995: 34--64)" should automatically turn into links.

@@ -3,7 +3,7 @@ Title: Farnell Labanotation
 Latin: ○ (non-alphabetical)
 Language: PISL
 Country: United States
-Creator: Farnell, Brenda
+Creator: Farnell, Brenda (hearing)
 Source: Farnell ([1995][Farnell 1995]),
         Renard ([2004][Renard 2004]: 168)
 

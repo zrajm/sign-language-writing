@@ -3,7 +3,7 @@ Title: West Notation
 Latin: ◑
 Language: PISL
 Country: United States
-Creator: West, La Mont, Jr.
+Creator: West, La Mont, Jr. (hearing)
 Source: West ([1960][West 1960]),
         Bergeron ([2006][Bergeron 2006]),
         Farnell ([1995][Farnell 1995]),

@@ -3,7 +3,7 @@ Title: SignFont
 Latin: ◔
 Language: ASL
 Country: United States
-Creator: Newkirk, Don E.
+Creator: Newkirk, Don E. (hearing)
 Source: McIntire et al ([1987][McIntire et al 1987]),
         Renard ([2004][Renard 2004]: 168)
 
@@ -25,5 +25,9 @@ and only lists symbols without giving full examples of their use.
 | Language | Developed for ASL. Its symbols are invented and partially iconic (especially for handshapes), aiming for a balance between iconicity and conciseness. It is a linear, horizontal, left-to-right system. It was one of the first systems to have a computer font version
 
 </figure>
+
+* [http\://members.home.net/dnewkirk/signfont/orthog.htm](https://web.archive.org/web/20010222184041/http://members.home.net/dnewkirk/signfont/orthog.htm)
+* https://de.wikipedia.org/wiki/SignFont
+* https://scriptsource.org/scr/Qaao
 
 <!--[eof]-->

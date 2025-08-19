@@ -3,13 +3,11 @@ Title: FBL Notation (Ferreira-Brito-Langevin Notation, Notação de Ferreira-Bri
 Latin: ●?
 Language: Libras
 Country: France, Brazil
-Creator: Ferreira Brito, Lucinda; Langevin, Rémi
+Creator: Ferreira Brito, Lucinda (hearing); Langevin, Rémi (hearing)
 Source: ?
 
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-* (FIXME: Verify! Also: Were Ferreira Brito and Langevin deaf or hearing?)
 
 | Use    | Developed for a dictionary |
 | Script | Latin symbols only         |

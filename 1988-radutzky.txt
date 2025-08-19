@@ -1,13 +1,16 @@
 Year: 1988
 Title: Radutzky Notation (?)
 Latin: ?
-Language: LIS(?)
+Language: LIS
 Country: Italy
-Creator: Radutzky, Ellen J. (?)
+Creator: Radutzky, Elena (hearing)
 Source: Radutzky ([1988][Radutzky 1988]),
         Radutzky ([1989][Radutzky 1989]),
         Renard ([2004][Renard 2004]: 168),
-        Miller ([2001][Miller 2001])
+        Miller ([2001][Miller 2001]),
+        Radutzky ([2024][Radutzky 2024])
+
+* FIXME: Which Radutzky source is correct, if any? Investigate!
 
 Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
 from the Berkeley group (in turned derived from DASL), together with [Corazza
@@ -15,8 +18,8 @@ notation] according to Miller ([2001][Miller 2001]).
 
 Renard ([2004][Renard 2004]) misspells the name as "Raclutzky".
 
-<div></div>
-
-FIXME: Which Radutzky source is correct, if any? Investigate!
+**On "Creator" above:** Radutzky changed her name to Elena (from Ellen J.),
+with her early work being published under the earlier name. ([Radutzky 2024]:
+421--422)
 
 <!--[eof]-->

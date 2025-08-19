@@ -3,7 +3,7 @@ Title: Signotation
 Latin: ?
 Language: ASL
 Country: United States
-Creator: Hansen, Shelly
+Creator: Hansen, Shelly (hearing?)
 Source: ?
 
 <!--[eof]-->
