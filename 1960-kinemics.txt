@@ -1,0 +1,35 @@
+Year: 1960 ([West 1960] published)
+Title: Kinemics (West Notation)
+Latin: ◑
+Language: PISL
+Country: United States
+Creator: West, La Mont, Jr. (hearing)
+Source: West ([1960][West 1960]),
+        Bergeron ([2006][Bergeron 2006]),
+        Farnell ([1995][Farnell 1995]),
+        Renard ([2004][Renard 2004]: 168)
+Graphemes: ?
+
+Not derived from Stokoe notation according to Renard ([2004][Renard 2004]:
+168).
+
+The Kiremics system used by West ([1960][West 1960]) is quite unique. Symbols
+are borrowed from both the Latin alphabet and other, phonetic alphabets. There
+is no correspondence between a fingerspelling and the symbols used---instead
+West assigns symbols by analogy the consonant charts used for spoken languages
+letting the place of articulation (labial, alveo-dental, prepalatal, palatal
+etc.) stand in for hand placement, and when writing hand shapes, also which
+fingers unfolded/salient.
+
+For example, the symbol ‹k› is described as "hand extended, but relaxed, ulnar
+edge (little finger or right edge) active and salient"---including not only
+handshape, but also which part of the hand is active/salient in its use.
+
+> The number of kinemes charted above ie 66: 18 hand shapes, 40 referents and 8
+> directions. The number of different symbols utilized to notate these 66
+> kinemes is 39: 34 basic alphabetic symbols and 5 diacritics. ([West 1960]:
+> 20)
+
+* https://en.wikipedia.org/wiki/La_Mont_West
+
+<!--[eof]-->
