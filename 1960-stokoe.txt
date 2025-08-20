@@ -5,7 +5,38 @@ Language: ASL
 Country: United States
 Creator: Stokoe, William C. (hearing)
 Source: Renard ([2004][Renard 2004]: 59--64, 166, 168)
-Graphemes: ?
+Graphemes: 55 (https://scriptsource.org/entry/vwtyy3tjrf)
+
+> The fifty-five symbols used in Stokoe's original script are based on the
+> shapes of Latin letters, punctuation, and numbers. The script has not been
+> standardized, and has been adapted for use with various signed languages, so
+> some consider it a family of related scripts, rather than a single script.
+> Stokoe dubbed the three types of symbols tab ("tabula" or sign location), dez
+> ("designator" or handshape & orientation), and sig ("signification" or motion
+> & action). Symbols are written in strict tab-dez-sig: TD^S^ order.
+>
+> Stokoe Notation has been criticized for not distinguishing between sharp and
+> soft manner of movement or between tenseness and laxness, nor representing
+> uneven rate of signing or facial expression, all of which are salient
+> elements of ASL. The script is also not equipped to handle ASL pronouns.
+> (https://scriptsource.org/entry/vwtyy3tjrf)
+
+> Stokoe Notation was first described in 1960 by William C. Stokoe. Stokoe was
+> the first person to actually document that a sign language was a language in
+> its own right. He later published a dictionary (1965) for American Sign
+> Language (ASL) using this notation. In general, his original system used
+> existing characters on typewriters that could be re-used, however they
+> clearly have different semantic uses. Subsequently, Stokoe Notation has been
+> taken and (greatly) expanded by several other sign languages including
+> British Sign Language (BSL), Italian Sign Language (LIS) and Signed Swedish
+> (SS). ([2012][Priest 2012]).
+
+The "Signed Swedish" part above is incorrect. Swedish sign language
+transcription have been in the employ of proper Swedish Sign Language since the
+beginning, though the confusion might have arisen from the fact that the book
+that first proposed the Swedish version ([Bergman 1977]) is titled "Signed
+Swedish", even though the author is scathingly critical of the practice of
+using the spoken language syntax for sign language.
 
 * https://en.wikipedia.org/wiki/Stokoe_notation
 

@@ -3,7 +3,9 @@ Title: DASL Notation (Dictionary of ASL Notation)
 Latin: ◑
 Language: ASL
 Country: United States
-Creator: Stokoe, William C. (hearing); Casterline (?); Cronenberg (?)
+Creator: Stokoe, William C. (hearing);
+         Casterline, Dorothy C. (deaf);
+         Croneberg, Carl G. (deaf)
 Source: Renard ([2004][Renard 2004]: 168)
 Graphemes: ?
 
