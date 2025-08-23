@@ -49,7 +49,7 @@ const harveyBalls = {
 const flagRegex = RegExp(
   Object.keys({...flags, ...harveyBalls}).join('|'), 'gu')
 
-window.addEventListener('load', () => {
+document.addEventListener("scent:done", () => {
   modifyTextNodes(node => {
     let modified = false
     const html = (node.data ?? '').replace(flagRegex, x => {
