@@ -20,6 +20,16 @@
   CLOSED: [2025-08-14 Thu 17:25]
   pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
   First page is correct, but all other pages need to be rotated 90°.
+* TODO Write a text comparing Stokoe-derived notations to each other
+* TODO Maybe add this picture for Visagrafía?
+  https://www.facebook.com/photo/?fbid=10232397780589216&set=p.10232397780589216
+* TODO Write text making the case for 'projectional' writing
+  Argue that SignWriting had a good idea, but that their drawing-like approach
+  is kinda shit (for a writing, possibly good for transcription). Comment on
+  the fact that Libras adopted SignWriting, and that that has spurred a flurry
+  of new systems to spring up in the neighboring countries.
+
+  Battle between iconicity and arbitrariness now happening on paper.
 * TODO Replace deaf/hearing status in table with icon
   Also, column name should be 'Deaf'?
 * TODO BSL-related sources

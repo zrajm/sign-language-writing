@@ -25,5 +25,6 @@ consists of only 32 graphemes: 22 handshapes, 5 locations, and 5 movements
 
 * https://www.glossinstitute.com/video/asl-phabet-signing-out/
 * https://en.wikipedia.org/wiki/ASL-phabet
+* https://web.archive.org/*/http://www.asl-phabet.com/ (now defunct)
 
 <!--[eof]-->
