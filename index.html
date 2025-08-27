@@ -3,9 +3,10 @@
 
 Author: Zrajm
 Created: 2025-08-03T11:49+02:00
-Updated: 2025-08-26T09:22+02:00
+Updated: 2025-08-27T10:04+02:00
 License: CC BY-NC-SA (text), GPLv2 (code).
 Favicon: pic/favicon.svg
+
 
 # Sign Language Writing
 
@@ -18,6 +19,7 @@ Favicon: pic/favicon.svg
 <toc heading=Contents class=toc upto=1>
 
 -------------------------------------------------------------------------------
+
 
 # List of Writing Systems
 
@@ -2489,7 +2491,7 @@ figure {
 .fixme {
   outline: calc(.75rem - 2px) dashed #000d; outline-offset: calc(-.75rem + 1px);
   border: .75rem solid #ff0;
-  & table { background: #0000; }
+  & table { background: #0000; max-width: 100% }
   td, th { vertical-align: top; text-align: left; border-color: #000d; }
   figcaption { font-weight: bold }
 }
@@ -2532,11 +2534,9 @@ figure {
 }
 figure {
   border: 0;
-  table { margin: 0 }
 }
 img {
   display: block;
-  max-width: 100%;
   --leading: 1.75;
   margin: calc(var(--leading) * .5rem) 0;
 }
