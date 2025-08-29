@@ -229,8 +229,11 @@ my %macro = (
         my $creator = $values{creator} // '';
         my @status = map {
             my $x = quotemeta($_);
-            $creator =~ m/\((${x}\??)\)/i ? $1 : ();
-        } qw/hearing deaf ?/;
+            $creator =~ m/\((${x}\??)\)/i ? do {
+                (my $x = $1) =~ s#\bhard of hearing\b#HoH#g;
+                $x;
+            } : ();
+        } ('hard of hearing', qw/hearing deaf ?/);
         # 'hearing', 'deaf', 'hearing & deaf' or '?'
         return @status ? join(' & ', @status) : '?';
     },
