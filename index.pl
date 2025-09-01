@@ -218,11 +218,13 @@ my %macro = (
         } split(/, */, $_));
     },
     creator => sub {
-        return join '; ', map {
+        local $_ = join '; ', map {
             s#\h*\(.*?\)##g;
             s#,.*##;
             $_;
         } split(/;\h*/, shift);
+        s#;.*;.*# et al.#;
+        return $_;
     },
     status => sub {
         my ($value, %values) = @_;
