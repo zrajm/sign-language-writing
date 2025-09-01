@@ -1,12 +1,13 @@
 Year: 2024 ([jan Olipija 2024a] Reddit thread published)
 Title: Iconic Logography (IL)
 Latin: ◔? (no Latin characters)
-Language: BSL, Auslan, NZSL
+Language: BANZSL (BSL, Auslan, NZSL)
 Country: Great Britain
 Creator: jan Olipija (hard of hearing)
 Source: [jan Olipija 2024a],
         [jan Olipija 2024b],
         [jan Olipija 2024c]
+Graphemes: ?
 
 A logographic writing system intended for BANZSL group of sign languages (BSL,
 Auslan and NZSL), based on the fact that these languages share a majority of

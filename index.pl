@@ -209,7 +209,7 @@ my %macro = (
     country => sub {
         local $_ = shift;
         s#\Q(?)#?#g;
-        s#\(.*?\)##g;
+        s#\h*\(.*?\)##g;
         return join(' ', map {
             $_ = trim($_);
             s#[^?A-Za-z ]+##g;
@@ -241,6 +241,12 @@ my %macro = (
         local $_ = shift;
         s#\h*\(.*?\)##g;
         $_;
+    },
+    language => sub {
+        local $_ = shift;
+        s#\Q(?)#?#g;
+        s#\h*\(.*?\)##g;
+        return $_;
     },
     latin => sub {
         local $_ = shift;
