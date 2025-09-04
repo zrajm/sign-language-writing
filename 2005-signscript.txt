@@ -26,6 +26,6 @@ marks the creation of SignScript.
   Implications for ASL Instruction and Deaf Education". Orlando, FL: Florida
   ASL Teacher's Association Convention.
 
-<div class=hanging>
+</div>
 
 <!--[eof]-->
