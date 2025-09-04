@@ -1,25 +1,31 @@
 Year: 2013
 Title: Symbol Font for ASL
-Latin: ?
+Latin: ◔ (no Latin characters)
 Language: ASL
 Country: United States
 Creator: 'ASL Font' (?)
 Source: ASL Font ([2013][ASL Font 2013])
 Graphemes: 95
 
+This is iconic writing system (which is the most obvious when it comes to
+handshapes and facial expressions, which are stylized drawings of hands and
+face) intended to be written with a computer. The system does not use any Latin
+symbols, but does provide a one-to-one correspondence between the letters of
+the alphabet, numbers, and several punctuation marks to make it easier to type
+on a computer keyboard.
+
+The system was published together with an extensive comparison of other sign
+language writing systems.
+
+See also [RSL Font].
+
+* https://aslfont.github.io/
+* https://aslfont.github.io/Symbol-Font-For-ASL/reference.html (Symbol reference)
+
 **On "year" and "creator" above:** The "Symbol Font for ASL" website is
 published via Github, and according it Git commit history it was first
 published in 2013. No author name is given on the website, but the Github
 username is 'aslfont', stylized as 'ASL Font' in the Git commit messages, so
 that's what I'm using here.
-
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-It is a font of symbols developed for written ASL on computers using common
-keyboards. It uses pictographic characters for hand configurations and is of
-"exclusive origin". It has 95 characters
-
-</figure>
 
 <!--[eof]-->

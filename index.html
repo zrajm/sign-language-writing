@@ -3,7 +3,7 @@
 
 Author: Zrajm
 Created: 2025-08-03T11:49+02:00
-Updated: 2025-09-04T15:01+02:00
+Updated: 2025-09-04T16:22+02:00
 License: CC BY-NC-SA (text), GPLv2 (code).
 Favicon: pic/favicon.svg
 
@@ -68,13 +68,14 @@ Favicon: pic/favicon.svg
 | 2009  | [SEL]                            | ?        | 173          | Libras      | 🇧🇷         | Lessa-de-Oliveira            | hearing         |
 | 2012  | [ASLwrite]                       | ○        | 105          | ASL         | 🇺🇸         | Clark; Dameron               | deaf            |
 | 2013  | [Late Si5s]                      | ○        | 80           | ASL         | 🇺🇸         | Arnold Augustus              | deaf            |
-| 2013  | [Symbol Font for ASL]            | ?        | 95           | ASL         | 🇺🇸         | 'ASL Font'                   | ?               |
+| 2013  | [Symbol Font for ASL]            | ◔        | 95           | ASL         | 🇺🇸         | 'ASL Font'                   | ?               |
 | 2014  | [Séro-Guillaume Writing]         | ●        | ?            | LSF         | 🇫🇷         | Séro-Guillaume               | ?               |
 | 2015  | [Typannot]                       | ◔        | ?            | LSF/any     | 🇫🇷         | Boutet et al.                | hearing         |
 | 2016  | [Signotation]                    | ?        | ?            | ASL         | 🇺🇸         | Hansen                       | hearing         |
 | 2016  | [VisoGrafia]                     | ?        | 93           | Libras/any  | 🇧🇷         | Benassi                      | hearing         |
 | 2020  | [AusWrit]                        | ○        | ?            | Auslan      | 🇦🇺?        | LinguaPhiliax                | hearing         |
 | 2024  | [Iconic Logography]              | ◔?       | ?            | BANZSL      | 🇬🇧         | jan Olipija                  | HoH             |
+| 2024  | [RSL Font]                       | ◔        | 95?          | ASL         | 🇺🇸         | Boyko                        | ?               |
 <!-- END-TABLE -->
 <figcaption>
   Table combines data from
@@ -1893,7 +1894,7 @@ marks the creation of SignScript.
 
 **Title:** Symbol Font for ASL
 
-**Latin:** ?
+**Latin:** ◔ (no Latin characters)
 
 **Language:** ASL
 
@@ -1907,20 +1908,26 @@ marks the creation of SignScript.
 
 </summary></details>
 
+This is iconic writing system (which is the most obvious when it comes to
+handshapes and facial expressions, which are stylized drawings of hands and
+face) intended to be written with a computer. The system does not use any Latin
+symbols, but does provide a one-to-one correspondence between the letters of
+the alphabet, numbers, and several punctuation marks to make it easier to type
+on a computer keyboard.
+
+The system was published together with an extensive comparison of other sign
+language writing systems.
+
+See also [RSL Font].
+
+* https://aslfont.github.io/
+* https://aslfont.github.io/Symbol-Font-For-ASL/reference.html (Symbol reference)
+
 **On "year" and "creator" above:** The "Symbol Font for ASL" website is
 published via Github, and according it Git commit history it was first
 published in 2013. No author name is given on the website, but the Github
 username is 'aslfont', stylized as 'ASL Font' in the Git commit messages, so
 that's what I'm using here.
-
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-It is a font of symbols developed for written ASL on computers using common
-keyboards. It uses pictographic characters for hand configurations and is of
-"exclusive origin". It has 95 characters
-
-</figure>
 
 
 [Séro-Guillaume Writing]: #sero-guillaume
@@ -2147,6 +2154,41 @@ A logographic writing system intended for BANZSL group of sign languages (BSL,
 Auslan and NZSL), based on the fact that these languages share a majority of
 signs and many/most iconic signs.
 
+
+[RSL Font]: #rsl-font
+## [#rsl-font] 2024: RSL Font
+
+<details class="hanging summary"><summary>
+
+**Year:** 2024
+
+**Title:** RSL Font (Шрифт РЖЯ)
+
+**Latin:** ◔ (no Latin characters)
+
+**Language:** ASL
+
+**Country:** United States
+
+**Creator:** Boyko, Artyom Vyacheslavovich
+
+**Source:** [Boyko 2024]
+
+**Graphemes:** 95?
+
+**Parent:** 2013-symbol-font-for-asl
+
+</summary></details>
+
+In 2024 [Symbol Font for ASL] was adapted for RSL, called Шрифт РЖЯ, or RSL
+Font ([Boyko 2024]). This adaptation changed the handshape symbol set to match
+the handshape inventory of RSL and rearranged the symbol correspondences to
+work with the Russian keyboard layout, but the principle stayed the same. An
+RSL-to-Russian dictionary was created using this system ([Boyko 2024]).
+
+* https://ajnoeo.github.io/rslfont (RSL version of [Symbol Font for ASL])
+* https://2dd.artboy.ru (RSL dictionary)
+
 <!-- END-BODY -->
 
 
@@ -2203,6 +2245,9 @@ Dutch).
 [PISL]: #pisl
 [#pisl] **PISL**---*Plains Indian Sign Language*. Sometimes also called *Plains
 Sign Talk* (PST).
+
+[RSL]: #rsl
+[#rsl] **RSL**---*Russian Sign Language.*
 
 [STS]: #sts
 [#sts] **STS**---*Swedish Sign Language* (*Svenskt teckenspråk* in Swedish).
@@ -2325,6 +2370,15 @@ Formerly called SSL.
   Morgane. (2018). "[Systèmes graphématiques et écritures des langues
   signées][boutet+others-2018]" [Graphematic systems and the writing of signed
   languages] (in French). *Signata*, 9, 391--426. DOI 10.4000/signata.1684
+
+[Boyko 2024]: #boyko-2024
+[boyko-2024]: pdf/boyko-2024-development_of_a_practical_notation_system_for_russian_sign_language.pdf
+[#boyko-2024] Boyko, Artyom Vyacheslavovich. (2024). *[Разработка практической
+  системы нотации русского жестового языка и её применение для создания
+  двустороннего словаря][boyko-2024]* [Development of a practical notation
+  system for Russian Sign Language and its application in creating a
+  bidirectional dictionary] (in Russian) [Bachelor's thesis]. HSE University,
+  Moscow.
 
 [Brennan 2004]: #brennan-2004
 [#brennan-2004] Brennan, Mary. (2004). *Words in hand: A structural analysis of

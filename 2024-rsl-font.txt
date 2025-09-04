@@ -1,0 +1,20 @@
+Year: 2024
+Title: RSL Font (Шрифт РЖЯ)
+Latin: ◔ (no Latin characters)
+Language: ASL
+Country: United States
+Creator: Boyko, Artyom Vyacheslavovich
+Source: [Boyko 2024]
+Graphemes: 95?
+Parent: 2013-symbol-font-for-asl
+
+In 2024 [Symbol Font for ASL] was adapted for RSL, called Шрифт РЖЯ, or RSL
+Font ([Boyko 2024]). This adaptation changed the handshape symbol set to match
+the handshape inventory of RSL and rearranged the symbol correspondences to
+work with the Russian keyboard layout, but the principle stayed the same. An
+RSL-to-Russian dictionary was created using this system ([Boyko 2024]).
+
+* https://ajnoeo.github.io/rslfont (RSL version of [Symbol Font for ASL])
+* https://2dd.artboy.ru (RSL dictionary)
+
+<!--[eof]-->

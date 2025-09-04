@@ -20,6 +20,54 @@
   CLOSED: [2025-08-14 Thu 17:25]
   pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
   First page is correct, but all other pages need to be rotated 90°.
+* [3/21] Add notations & info from my 'Teckenskrift' page
+  https://zrajm.org/teckenskrift/skriftsystem.html
+** DONE 2016 Signotation
+   CLOSED: [2025-09-04 Thu 15:03]
+** DONE 2015 Typannot
+   CLOSED: [2025-09-04 11:31:20 +0200]
+** DONE 2013 ASLFont
+   CLOSED: [2025-09-04 Thu 16:22]
+** TODO 2012 ASLwrite
+** TODO 2010 SignScript
+** TODO 2010 Plena Signuno
+** TODO 2009 ASL Sign Jotting
+** TODO 2005 SLIPA
+** TODO 2003 si5s
+** TODO 1997 ASL Orthography
+** TODO 1997 SMYLE
+** TODO 1996 ELiS
+** TODO 1996 ASL-phabet
+** TODO 1993 ASCII version of Stokoe Notation
+** TODO 1987 SignFont
+** TODO 1985 HamNoSys
+** TODO 1977 STS Transcription
+** TODO 1974 SignWriting
+** TODO 1965 Stokoe Notation
+** TODO 1890 Kiowa sign writing
+** TODO 1825 Mimographie
+* TODO 1998 Dimskis notation
+
+  Described (in Russian) here:
+  https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis
+
+  # Dimskis system
+
+  In 1998, Lidiya Sergeyevna Dimskis published [a textbook][1] for learning the
+  basics of Belarusian sign language. In the book, she introduces a system of
+  conventional signs, through which she then describes all the words of sign
+  language presented in the book.
+
+  Here are some of the symbols used in the Dimskis system. Gestures are written
+  from left to right, each gesture is written in the order hand, configuration,
+  orientation, localization, movement. Many symbols are composite: arrows can
+  have different shapes and shading, localization symbols indicate the place of
+  contact.
+
+  The book presents not only individual gestures but also complete statements,
+  but does not provide means for indicating non-manual components.
+
+  [1]: https://vk.com/wall-71630588_15225
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?
   https://www.facebook.com/photo/?fbid=10232397780589216&set=p.10232397780589216
