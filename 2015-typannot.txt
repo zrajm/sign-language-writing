@@ -1,10 +1,21 @@
 Year: 2015(?)
 Title: Typannot
-Latin: ?
+Latin: ◔ (no Latin characters)
 Language: LSF/any
 Country: France
-Creator: ?
-Source: ?
+Creator: Boutet, Dominique;
+         Doan, Patrick (hearing);
+         Renna, Ilaria;
+         Danet, Claire;
+         Bianchini, Claudia S.;
+         Rébulard, Morgane;
+         Gouguely, Timothée
+Source:  [Boutet et al. 2018],
+         [Boutet et al. 2019]
 Graphemes: ?
+
+* https://www.typannot.com/
+* https://youtu.be/p-FbnigxxHE (Typannot: A Typographic System to Transcribe
+  Sign Languages, Patrick Doan)
 
 <!--[eof]-->
