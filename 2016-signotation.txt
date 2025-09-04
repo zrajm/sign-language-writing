@@ -3,8 +3,25 @@ Title: Signotation
 Latin: ?
 Language: ASL
 Country: United States
-Creator: Hansen, Shelly (hearing?)
-Source: ?
+Creator: Hansen, Shelly (hearing)
+Source: [Hansen 2016],
+        [Hansen 2017]
 Graphemes: ?
+
+Signotation is similar to musical notation, and is written on a staff, with
+simultaneous components written vertically on the staff, and consecutive parts
+written from right to left.
+
+Hansen is a certified ASL interpreter. She has produced published a blog, a
+series of Youtube videos and written two books on her system: *Signotation: The
+Musical Architecture of Signed Languages* ([Hansen 2016]) and *Signotation: ASL
+Writer's Guide* ([Hansen 2017]). (Though the relationship between the books is
+not clear to this author. Is the latter an updated version of the first? Or is
+the first ([Hansen 2016]) a technical description while the latter ([Hansen
+2017]) is an introduction for beginners?)
+
+* https://signotation.com/ (blog)
+* https://www.youtube.com/playlist?list=PLRJyX-4nIXo_wnplcEXcFu-om7QgjTe9K
+  ("Write ASL Signotation", Youtube playlist, 26 videos)
 
 <!--[eof]-->
