@@ -26,6 +26,7 @@ function parseHtml(html) {
 // https://gist.github.com/selimata/75b5301b132bd541fe31e49cc38f61dc
 const flags = {
   '🇦🇺': 'Australia',
+  '🇧🇾': 'Belarus',
   '🇧🇪': 'Belgium',
   '🇧🇷': 'Brazil',
   '🇨🇴': 'Colombia',

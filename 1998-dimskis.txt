@@ -1,0 +1,40 @@
+Year: 1998
+Title: Dimskis Notation
+Latin: ◔ (two Cyrillic letters, otherwise custom symbols)
+Language: RSL (Belarusian SL, usually considered a dialect of RSL)
+Country: Belarus, Russia
+Creator: Dimskis, Lidiya Sergeevna (hearing)
+Graphemes: >260 (260 listed in Dimskis 1998; with 100 basic symbols +
+           combinations and modifications, theoretically infinite number
+           possible)
+
+<figure>
+
+![](pic/dimskis.png)
+
+<figcaption>
+  Illustration from [RSL Font, Ways to
+  write](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis)
+</figcaption>
+</figure>
+
+This system is used in [Dimskis 2002], a textbook which teaches the basics of
+RSL to hearing students. The book references Stokoe but the system used in the
+book is not based on Stokoe notation.
+
+> Using the idea of American researcher W. Stokoe about sign structure, a
+> system of conventional symbols was developed, allowing recording of signs in
+> writing. ([Dimskis 2002], transl. by Ajno/Artiom Boyko)
+
+This system is linear and iconic, with most handshapes being displayed with the
+literal image of the handshape and localization being a simplified illustration
+of the body part. For each sign, hand (right, left or both), handshape,
+orientation, placement and movement is indicated. Many symbols are compound,
+allowing the inclusion of detailed information on the relative position of the
+hands, precise localization on the body, or the manner and path of the
+movement. The textbook presents isolated signs as well as sentences and texts
+in RSL using this system.
+
+* [RSL Font, Ways to write](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis)
+
+<!--[eof]-->

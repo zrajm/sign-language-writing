@@ -88,6 +88,7 @@ sub flag {
     my ($txt) = @_;
     my %flag = (
         'Australia'     => '🇦🇺',
+        'Belarus'       => '🇧🇾',
         'Belgium'       => '🇧🇪',
         'Brazil'        => '🇧🇷',
         'Colombia'      => '🇨🇴',

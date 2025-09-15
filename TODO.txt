@@ -46,7 +46,8 @@
 ** TODO 1965 Stokoe Notation
 ** TODO 1890 Kiowa sign writing
 ** TODO 1825 Mimographie
-* TODO 1998 Dimskis notation
+* DONE 1998 Dimskis notation
+  CLOSED: [2025-09-16 Tue 01:44]
 
   Described (in Russian) here:
   https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis
@@ -68,6 +69,7 @@
   but does not provide means for indicating non-manual components.
 
   [1]: https://vk.com/wall-71630588_15225
+* TODO Add PDF of Dimskis' book
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?
   https://www.facebook.com/photo/?fbid=10232397780589216&set=p.10232397780589216
