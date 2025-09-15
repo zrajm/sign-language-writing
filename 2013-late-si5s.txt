@@ -8,6 +8,7 @@ Source: Arnold ([2013][Arnold 2013])
 Graphemes: 80
 
 * https://en.wikipedia.org/wiki/Si5s
+* https://web.archive.org/web/20160313074858/http://www.si5s.org/
 
 <!--[eof]-->
 
