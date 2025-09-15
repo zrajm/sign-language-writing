@@ -257,4 +257,7 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
   34)" and "Farnell (1995: 34--64)" should automatically turn into links.
 
   Also: DOI<nbsp>... should be converted to links?
+
+  Should this use the `<cite>...</cite>` tag?
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/cite
 * [eof]

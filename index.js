@@ -35,6 +35,7 @@ const flags = {
   '🇬🇧': 'Great Britain',
   '🇮🇹': 'Italy',
   '🇳🇱': 'Netherlands',
+  '🇷🇺': 'Russia',
   '🇸🇪': 'Sweden',
   '🇺🇸': 'United States',
 }

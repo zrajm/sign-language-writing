@@ -1,8 +1,8 @@
 Year: 2024
 Title: RSL Font (Шрифт РЖЯ)
 Latin: ◔ (no Latin characters)
-Language: ASL
-Country: United States
+Language: RSL
+Country: Russia
 Creator: Boyko, Artyom Vyacheslavovich
 Source: [Boyko 2024]
 Graphemes: 95?

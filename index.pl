@@ -97,6 +97,7 @@ sub flag {
         'Great Britain' => '🇬🇧',
         'Italy'         => '🇮🇹',
         'Netherlands'   => '🇳🇱',
+        'Russia'        => '🇷🇺',
         'Sweden'        => '🇸🇪',
         'United States' => '🇺🇸',
     );
