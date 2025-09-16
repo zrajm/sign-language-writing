@@ -9,7 +9,7 @@ Graphemes: 93
 
 **Note:** This is distinct from [Visagrafía], an earlier system.
 
-<div class=book>
+<div></div>
 
 I encountered the following book exists (Noted reference only. I cannot vouch
 for it, it might be AI generated for all I know---though I hope it isn't.):
@@ -22,7 +22,6 @@ for it, it might be AI generated for all I know---though I hope it isn't.):
   Read Sign Language] (in Portugese). Editora Appris. ISBN 978-6525041575
   https://books.google.com?id=CWTFEAAAQBAJ
 
-</div>
 </div>
 
 <figure class=fixme>
