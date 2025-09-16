@@ -37,7 +37,9 @@ The entire description given by Bergeron ([2006][Bergeron 2006]: 7) is:
 > this sign reflects the following elements:
 >
 > <figure class=bergeron2006>
-> <style>.bergeron2006 td { vertical-align: top; text-align: left; border: 0 }</style>
+> <style>.bergeron2006 table { max-width: 100%;
+>   td { vertical-align: top; text-align: left; border: 0; }
+> }</style>
 > <figcaption>Figure 5: "To write" (in LSF) taken from Moody (1986)</figcaption>
 >
 > ![](pic/bergeron2006-fig5.png)
