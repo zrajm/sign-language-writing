@@ -1,0 +1,48 @@
+Year: 2017
+Title: VisoGrafia
+Latin: ○ (no Latin characters, projectional)
+Language: Libras/any
+Country: Brazil
+Creator: Benassi, Claudio Alves (hearing)
+Source: [Benassi 2017],
+        [Benassi 2019]
+Graphemes: 37?
+Parent: 1974-signwriting, 1997-elis
+
+**Note:** This is distinct from [Visagrafía], an earlier system.
+
+<div></div>
+
+This system was created by professor Benassi in response to a classroom need.
+While teaching, he had found that [SignWriting] (with its more than 900
+different symbols) was too to complicated, while [ELiS] is too abstract.
+VisoGrafia is thus an attempt at creating something in between these systems,
+projectional like SignWriting, but with a small, easy-to-memorize, set of
+symbols just like ELiS. VisoGrafia has been tested in the classroom, and been
+shown to be relatively easy to learn. ([Benassi 2019])
+
+[Benassi 2016] describes the goals for the system. There is also a Youtube
+playlist (in Portugese) "Writing signs in VisoGrafia" which describes how to
+use the system [Benassi 2024].
+
+<aside>
+
+**Note:** During research I encountered the following book, which might be of
+interest (though I have not been able to verify its content, it might be AI
+generated for all I know).
+
+<div class=hanging>
+
+[Bueno 2023]: #bueno-2023
+[#bueno-2023] Bueno, Áurea de Santana. (2023). *VisoGrafia: Aprendizagem da
+  Escrita e da Leitura de Língua de Sinais* [VisoGraphy: Learning to Write and
+  Read Sign Language] (in Portugese). Editora Appris. ISBN 978-6525041575,
+  https://books.google.com?id=CWTFEAAAQBAJ
+
+</div>
+</aside>
+
+* https://escritadesinais.com/2022/08/24/visografia-o-problema-do-conteudo-material-e-forma-na-escrita-de-sinais/
+  (a blog post announcing Benassi's doctoral thesis)
+
+<!--[eof]-->
