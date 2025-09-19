@@ -12,12 +12,12 @@ use charnames qw(:full :short);  # unneeded in v5.16
 use File::Spec;
 
 our $AUTHOR='zrajm <zrajm@zrajm.org>';
-our $VERSION='0.0.2';                          # https://semver.org/
-our $VERSION_DATE='12 August 2025';
+our $VERSION='0.0.3';                          # https://semver.org/
+our $VERSION_DATE='19 September 2025';
 our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
-Usage: $PROGRAM [OPTION]... FILE
+Usage: $PROGRAM [OPTION]... >FILE
 Rebuild FILE (containing markdown source) from part-sources.
 
 Will replace everything between HTML comments '<!--START-TABLE-->' and
@@ -279,6 +279,7 @@ my %file = map { $_ => read_file($_) // '' } sort <[0-9][0-9][0-9][0-9]*.txt>;
 
 my $text = read_file($file);
 for ($text) {
+    s{(^Updated:)\s+(.*)\n}{ "$1 " . `date --iso=minutes` }me;
     s{(?<=\Q<!-- START-TABLE -->\E).*?(?=\Q<!-- END-TABLE -->\E)}{
         "\n" . generate_table(
             'Year Title <p>Latin <p>Graphemes <p>Language <p>Country Creator Status',
