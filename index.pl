@@ -9,16 +9,19 @@ use warnings  qw(FATAL utf8);    # fatalize encoding glitches
 use open      qw(:std :utf8);    # undeclared streams in UTF-8
 use charnames qw(:full :short);  # unneeded in v5.16
 
+# Other stuff.
 use File::Spec;
 
+END { close(STDOUT) or die "Cannot close STDOUT: $!\n" }
+
 our $AUTHOR='zrajm <zrajm@zrajm.org>';
-our $VERSION='0.0.3';                          # https://semver.org/
+our $VERSION='0.0.4';                          # https://semver.org/
 our $VERSION_DATE='19 September 2025';
 our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
 Usage: $PROGRAM [OPTION]... >FILE
-Rebuild FILE (containing markdown source) from part-sources.
+Build Markdown scented HTML FILE from part-sources.
 
 Will replace everything between HTML comments '<!--START-TABLE-->' and
 '<!--END-TABLE-->' with a generated markdown table, and everything between
@@ -29,6 +32,7 @@ output.)
 Options:
   -h, --help     Display this help and exit
   -V, --version  Output version information and exit
+
 USAGE_END
 
 use Data::Dumper;
@@ -269,9 +273,35 @@ my %macro = (
 );
 
 ###############################################################################
+# Main
+
+local %SIG = (
+    __WARN__ => sub { warn("$PROGRAM: @_") },
+    __DIE__  => sub {
+        die @_ if $^S;                         # abort if called inside eval
+        my $more = (my $msg = "@_") =~ s/\.$//; # ending in '.' = extra help
+        die "$PROGRAM: $msg",
+            $more && "Try '$PROGRAM --help' for more information.\n";
+    },
+);
+
+# Parse arguments (removing options).
+@ARGV = do {
+    @ARGV = map { decode } @ARGV;
+    my @arg;
+    while (@ARGV) {
+        local $_ = shift;
+        /^    --               $/x and push(@arg, @ARGV), last;
+        /^(-h|--help)          $/x and help();
+        /^(-V|--version)       $/x and version();
+        /^-                     /x and die "Unrecognized option '$_'.\n";
+        push(@arg, $_);
+    }
+    @arg;
+};
 
 # Read arguments
-if (@ARGV != 1) { die "$0: Bad number of args\nUsage: $0 FILE\n" }
+if (@ARGV != 1) { die "Bad number of args.\n" }
 my ($file) = @ARGV;
 
 # Read all 'YEAR-SYSTEM.txt' files.
