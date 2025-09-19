@@ -1,7 +1,7 @@
 Year: 1960 ([West 1960] published)
 Title: Kinemics (West Notation)
 Latin: ◑
-Language: PISL
+Language: PST
 Country: United States
 Creator: West, La Mont, Jr. (hearing)
 Source: West ([1960][West 1960]),

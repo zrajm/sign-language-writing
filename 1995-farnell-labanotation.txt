@@ -1,7 +1,7 @@
 Year: 1995
 Title: Farnell Labanotation
 Latin: ○ (non-alphabetical)
-Language: PISL
+Language: PST
 Country: United States
 Creator: Farnell, Brenda (hearing)
 Source: Farnell ([1995][Farnell 1995]),
@@ -31,8 +31,7 @@ not sign language. (FIXME: verify this)
 Laban in 1920s to write dance movement ([von Laban 1928]). Drid Williams later
 used the system in her anthropological studies (FIXME: reference), but it was
 Williams student, Brenda Farnell who adapted it for writing for sign language,
-and put it to use in describing *Plains Indian Sign Language* (PISL) ([Farnell
-1995]).
+and put it to use in describing PST. ([Farnell 1995])
 
 [Wikipedia Labanotation]: https://en.wikipedia.org/wiki/Labanotation
 
