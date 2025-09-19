@@ -12,16 +12,14 @@ use charnames qw(:full :short);  # unneeded in v5.16
 # Other stuff.
 use File::Spec;
 
-END { close(STDOUT) or die "Cannot close STDOUT: $!\n" }
-
 our $AUTHOR='zrajm <zrajm@zrajm.org>';
 our $VERSION='0.0.4';                          # https://semver.org/
 our $VERSION_DATE='19 September 2025';
 our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
-Usage: $PROGRAM [OPTION]... >FILE
-Build Markdown scented HTML FILE from part-sources.
+Usage: $PROGRAM [OPTION]
+Build Markdown scented HTML 'index.html' from part-sources.
 
 Will replace everything between HTML comments '<!--START-TABLE-->' and
 '<!--END-TABLE-->' with a generated markdown table, and everything between
@@ -68,6 +66,15 @@ sub read_file {
         or die "Failed to open file '$file' for reading: $!\n";
     local $/ = undef;
     return <$in>;
+}
+
+sub write_file {
+    my ($file, $data) = @_;
+    open(my $out, ">:utf8", $file)
+        or die "Failed to open file '$file' for writing: $!\n";
+    print $out $data;
+    close($out)
+        or die "Failed to close file after writing: $!\n"
 }
 
 # get max value in array
@@ -301,15 +308,15 @@ local %SIG = (
 };
 
 # Read arguments
-if (@ARGV != 1) { die "Bad number of args.\n" }
-my ($file) = @ARGV;
+if (@ARGV != 0) { die "Bad number of args.\n" }
+(my $file = __FILE__) =~ s#\.pl$#.html#;
 
 # Read all 'YEAR-SYSTEM.txt' files.
 my %file = map { $_ => read_file($_) // '' } sort <[0-9][0-9][0-9][0-9]*.txt>;
 
 my $text = read_file($file);
+my $org_text = $text;
 for ($text) {
-    s{(^Updated:)\s+(.*)\n}{ "$1 " . `date --iso=minutes` }me;
     s{(?<=\Q<!-- START-TABLE -->\E).*?(?=\Q<!-- END-TABLE -->\E)}{
         "\n" . generate_table(
             'Year Title <p>Latin <p>Graphemes <p>Language <p>Country Creator Status',
@@ -319,6 +326,24 @@ for ($text) {
         "\n" . generate_body(%file);
     }sme;
 }
-print $text;
+
+if ($text ne $org_text) {
+    $text =~ s{(^Updated:)\s+(.*)\n}{ "$1 " . `date --iso=minutes` }me;
+
+    # Atomic file update. Write to tempfile, then rename to overwrite original.
+    # (Also save original as '.bak' file.)
+    write_file("$file.tmp", $text) and do {
+        my $bak = "$file.bak";
+        my $tmp = "$file.tmp";
+        if (-f $bak) {
+            unlink("$bak")    or die "Can't remove previous '$bak': $!";
+        }
+        link($file, "$bak")   or die "Can't link '$file' -> '$bak': $!\n";
+        rename("$tmp", $file) or die "Can't rename '$tmp' -> '$file': $!\n";
+    };
+    say STDERR "File '$file' updated";
+} else {
+    say STDERR "File '$file' unchanged";
+}
 
 #[eof]

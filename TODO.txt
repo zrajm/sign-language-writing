@@ -69,7 +69,11 @@
   but does not provide means for indicating non-manual components.
 
   [1]: https://vk.com/wall-71630588_15225
-* TODO `index.pl` should update 'Updated' metadata field
+* DONE `index.pl` should update 'Updated' metadata field
+  CLOSED: [2025-09-19 Fri 04:41]
+* DONE `index.pl` should update `index.html` in place
+  CLOSED: [2025-09-19 Fri 08:05]
+  With backup file.
 * TODO Add PDF of Dimskis' book
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?
