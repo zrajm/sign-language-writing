@@ -8,9 +8,7 @@ Source:
 Graphemes: 19 (explicitly mentioned, unknown additional number implied)
 
 <figure>
-
-![](pic/zaytseva.png)
-
+  ![](pic/zaytseva.png)
 <figcaption>
   Illustration from [RSL Font, Ways to
   write](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Zaytseva)
@@ -18,10 +16,10 @@ Graphemes: 19 (explicitly mentioned, unknown additional number implied)
 </figure>
 
 Zaytseva ([2000][Zaytseva 2000]) presents a fragment of a potential notation
-system for Russian Sign Language. It serves to illustrate the components that a
-sign consists of. The system is bilinear, using one line per hand, and
-describes handshape, localization and movement. This is not a complete notation
-system and Zaytseva explicitly notes this in the text:
+system for RSL. It serves to illustrate the components that a sign consists of.
+The system is bilinear, using one line per hand, and describes handshape,
+localization and movement. This is not a complete notation system and Zaytseva
+explicitly notes this in the text:
 
 > Let us emphasize that the author is far from believing the notation system
 > she proposes to be completely devoped, finalized. A lot of work is needed to
