@@ -16,9 +16,7 @@ Graphemes: ?
 **Note:** This is distinct from [VisoGrafia], a later system.
 
 <figure>
-
-![](pic/visagrafia.jpg)
-
+  ![Example of Visagrafía writing](pic/visagrafia.png)
 <figcaption>
   Illustration from [Aprende Visagrafía: Thursday, March 20,
   2014](https://aprendevisagrafia.blogspot.com/2014/03/bienvenidos-al-blog-de-visagrafia.html)
