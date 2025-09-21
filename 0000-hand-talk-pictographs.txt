@@ -25,8 +25,7 @@ the symbols directly to the corresponding signs in PST.
 > been buried in a grave. Together, the signs tell Cozad that he no longer had
 > four brothers, but only three. One had recently died and been buried.
 >
-> <figure class=osurh>
-> <style>.osurh img { filter: none !important }</style>
+> <figure>
 >
 > ![](pic/graber-2018.jpg)
 >
