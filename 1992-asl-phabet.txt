@@ -17,7 +17,9 @@ as a step on the way to teaching of English writing and spelling. ASL-phabet
 consists of only 32 graphemes: 22 handshapes, 5 locations, and 5 movements
 ([Supalla et al. 2014]).
 
-![](pic/asl-phabet.png)
+<figure>
+  ![](pic/asl-phabet.png)
+</figure>
 
 > In the 1990's, Deaf linguist Samuel Supalla started working on a simplified
 > system for writing ASL. He based it off of a system called SignFont that had
