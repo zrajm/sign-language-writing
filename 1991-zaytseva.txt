@@ -10,8 +10,7 @@ Graphemes: 19 (explicitly mentioned, unknown additional number implied)
 <figure>
   ![](pic/zaytseva.png)
 <figcaption>
-  Illustration from [RSL Font, Ways to
-  write](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Zaytseva)
+  Picture from [*Шрифт для записи РЖЯ* \[Font for writing RSL\] webpage](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Zaytseva)
 </figcaption>
 </figure>
 

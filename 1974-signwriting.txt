@@ -7,6 +7,14 @@ Creator: Sutton, Valerie (hearing)
 Source: [Renard 2004]: 96--114, 166, 168
 Graphemes: >670 ([Mendes 2020]: 75)
 
+<figure>
+  ![](pic/signwriting.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL*
+  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#SignWriting)
+</figcaption>
+</figure>
+
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
 **On "year" above:** Renard gives the creation year as "1973".

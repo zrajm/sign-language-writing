@@ -7,6 +7,14 @@ Creator: Newkirk, Don E. (hearing)
 Source: [McIntire et al 1987], [Renard 2004]: 168
 Graphemes: ?
 
+<figure>
+  ![](pic/signfont.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL*
+  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#SignFont)
+</figcaption>
+</figure>
+
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
 SignFont creation date is given as 1987 by ASL Font (2021), Cardoso (2023) &

@@ -7,6 +7,14 @@ Creator: Grushkin, Donald A. (deaf)
 Source: ?
 Graphemes: 130
 
+<figure>
+  ![](pic/signscript.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL*
+  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#SignScript)
+</figcaption>
+</figure>
+
 The first article about SignScript seems to be Grushkin ([2005][Grushkin
 2005])---Even though I have not been able to find this article, this is the
 earliest article with the word "SignScript" in the title, so I'm assuming this

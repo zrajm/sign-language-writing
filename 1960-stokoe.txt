@@ -7,6 +7,14 @@ Creator: Stokoe, William C. (hearing)
 Source: [Renard 2004]: 59--64, 166, 168
 Graphemes: 55 (https://scriptsource.org/entry/vwtyy3tjrf)
 
+<figure>
+  ![](pic/stokoe.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL*
+  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#StokoeNotation)
+</figcaption>
+</figure>
+
 > The fifty-five symbols used in Stokoe's original script are based on the
 > shapes of Latin letters, punctuation, and numbers. The script has not been
 > standardized, and has been adapted for use with various signed languages, so

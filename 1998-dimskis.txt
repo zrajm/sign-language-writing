@@ -10,12 +10,10 @@ Graphemes: >260 (260 listed in Dimskis 1998; with 100 basic symbols +
            possible)
 
 <figure>
-
-![](pic/dimskis.png)
-
+  ![](pic/dimskis.png)
 <figcaption>
-  Illustration from [RSL Font, Ways to
-  write](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis)
+  Picture from [*Шрифт для записи РЖЯ* \[Font for writing RSL\]
+  webpage](https://ajnoeo.github.io/rslfont/RSL_font/ways-to-write.html#Dimskis)
 </figcaption>
 </figure>
 

@@ -7,4 +7,12 @@ Creator: Stone, Thomas (hearing)
 Source: ?
 Graphemes: ?
 
+<figure>
+  ![](pic/aslsj.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL*
+  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#ASLSJ)
+</figcaption>
+</figure>
+
 <!--[eof]-->
