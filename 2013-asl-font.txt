@@ -7,6 +7,14 @@ Creator: 'ASL Font' (?)
 Source: [ASL Font 2013]
 Graphemes: 95
 
+<figure>
+  ![](pic/asl-font.png)
+<figcaption>
+  Picture from [*Symbol Font for ASL,* "Lesson
+  12"](https://aslfont.github.io/Symbol-Font-For-ASL/lesson12.html)
+</figcaption>
+</figure>
+
 This is iconic writing system (which is the most obvious when it comes to
 handshapes and facial expressions, which are stylized drawings of hands and
 face) intended to be written with a computer. The system does not use any Latin
