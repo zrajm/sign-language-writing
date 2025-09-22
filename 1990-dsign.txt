@@ -12,13 +12,4 @@ Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-Paul Jouison is a hearing educator. Intended as an "authentic writing" system
-for LSF. It combines exclusive characters with Latin alphabet letters. It is a
-linear, horizontal, written left-to-right.
-
-</figure>
-
 <!--[eof]-->

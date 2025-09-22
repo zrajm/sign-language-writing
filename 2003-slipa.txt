@@ -25,12 +25,4 @@ version is from 2009.)
 > using the IPA, you know how hairy it can get). ([Peterson 2003], "[XIIIE:
 > Some Further, General Comments][peterson-2003-xiiie]")
 
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-| Country | Not explicitly stated, but it is designed as an "IPA for Signed Languages", suggesting an international application
-| Language | Primarily intended for transcription of any signed language, rather than as an everyday orthography. It is composed of Latin alphabet letters, numerals, and Arabic numerals (ASCII characters). It is adaptable for various sign languages
-
-</figure>
-
 <!--[eof]-->

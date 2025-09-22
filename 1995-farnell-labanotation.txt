@@ -7,18 +7,9 @@ Creator: Farnell, Brenda (hearing)
 Source: [Farnell 1995], [Renard 2004]: 168
 Graphemes: ?
 
-<figure class=fixme>
-  <figcaption>FIXME: Verify this AI-generated summary</figcaption>
-
-| Creator | Brenda Farnell developed the system to encompass sign language, based on Drid Williams the anthropological use of Labanotation for describing general movement, which in turn came from the choreography writing an analysis developed by Rudolf von Laban in the 1920s.
-| Year |1995 (when it was first used for sign language).
-| Language | Primarily a dance notation system, but referenced for its adaptability or influence on sign language notation. It uses its own iconic symbols for movement
-| Estimates for numbers of users today | Used for choreographic and academic purposes; not designed or widely used for everyday sign language communication
-
-</figure>
-
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]),
-which also gives 1980 as the creation year of Farnell Labanotation.
+which also gives 1980 as the creation year of Farnell's version of
+Labanotation.
 
 Renard also lists a notation called *Laban-Benesh Labanotation* (1969) -- But I
 think this notation (like the original Labanotation) is meant for choreography,

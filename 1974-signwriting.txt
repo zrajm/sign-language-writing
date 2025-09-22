@@ -14,7 +14,6 @@ Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
 
-| Year |1974. It evolved from Sutton Movement Writing (1973)
 | Creator | Valerie Sutton (a hearing dancer and movement writing specialist), with collaboration from Adam Frost (a Deaf researcher)
 | Country | Initiated at the request of researchers in Copenhagen, Denmark, but Valerie Sutton is American
 | Language | Designed to precisely write any signed language. It is becoming a daily writing system for languages like ASL, German Sign Language, and Brazilian Sign Language. It can document all five parameters of sign languages using its specific alphabet, the International SignWriting Alphabet (ISWA 2010). It is a pictorial, bidimensional, and typically vertical writing system. It includes approximately 900 symbols
