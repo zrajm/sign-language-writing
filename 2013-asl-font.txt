@@ -1,5 +1,5 @@
 Year: 2013
-Title: Symbol Font for ASL
+Title: ASL Font
 Latin: ◔ (no Latin characters)
 Language: ASL
 Country: United States
