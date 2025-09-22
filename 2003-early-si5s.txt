@@ -4,7 +4,7 @@ Latin: ○
 Language: ASL
 Country: United States
 Creator: Arnold Augustus, Robert (deaf)
-Source: Arnold ([2007][Arnold 2007])
+Source: [Arnold 2007]
 Graphemes: ~80
 
 <figure class=fixme>

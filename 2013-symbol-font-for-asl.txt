@@ -4,7 +4,7 @@ Latin: ◔ (no Latin characters)
 Language: ASL
 Country: United States
 Creator: 'ASL Font' (?)
-Source: ASL Font ([2013][ASL Font 2013])
+Source: [ASL Font 2013]
 Graphemes: 95
 
 This is iconic writing system (which is the most obvious when it comes to

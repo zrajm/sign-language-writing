@@ -4,7 +4,7 @@ Latin: ◑
 Language: ASL
 Country: United States
 Creator: Stokoe, William C. (hearing)
-Source: Renard ([2004][Renard 2004]: 59--64, 166, 168)
+Source: [Renard 2004]: 59--64, 166, 168
 Graphemes: 55 (https://scriptsource.org/entry/vwtyy3tjrf)
 
 > The fifty-five symbols used in Stokoe's original script are based on the

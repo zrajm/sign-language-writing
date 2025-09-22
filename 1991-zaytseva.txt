@@ -4,7 +4,7 @@ Latin: ◕ (Cyrillic and Latin with arrows and some quirky symbols)
 Language: RSL
 Country: Russia
 Creator: Zaytseva (hearing)
-Source:
+Source: [Zaytseva 2000]
 Graphemes: 19 (explicitly mentioned, unknown additional number implied)
 
 <figure>

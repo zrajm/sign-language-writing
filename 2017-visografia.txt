@@ -4,8 +4,7 @@ Latin: ○ (no Latin characters, projectional)
 Language: Libras/any
 Country: Brazil
 Creator: Benassi, Claudio Alves (hearing)
-Source: [Benassi 2017],
-        [Benassi 2019]
+Source: [Benassi 2017], [Benassi 2019]
 Graphemes: 37?
 Parent: 1974-signwriting, 1997-elis
 

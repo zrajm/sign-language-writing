@@ -74,6 +74,8 @@
 * DONE `index.pl` should update `index.html` in place
   CLOSED: [2025-09-19 Fri 08:05]
   With backup file.
+* TODO Add thanks to Iconic Logography-person
+* TODO Add thanks to AusWrit person
 * TODO Add PDF of Dimskis' book
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?

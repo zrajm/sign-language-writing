@@ -4,11 +4,7 @@ Latin: ?
 Language: LIS
 Country: Italy
 Creator: Radutzky, Elena (hearing)
-Source: Radutzky ([1988][Radutzky 1988]),
-        Radutzky ([1989][Radutzky 1989]),
-        Renard ([2004][Renard 2004]: 168),
-        Miller ([2001][Miller 2001]),
-        Radutzky ([2024][Radutzky 2024])
+Source: [Radutzky 1988], [Radutzky 1989], [Renard 2004]: 168, [Miller 2001], [Radutzky 2024]
 Graphemes: ?
 
 * FIXME: Which Radutzky source is correct, if any? Investigate!

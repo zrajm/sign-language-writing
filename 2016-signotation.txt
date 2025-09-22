@@ -4,8 +4,7 @@ Latin: ?
 Language: ASL
 Country: United States
 Creator: Hansen, Shelly (hearing)
-Source: [Hansen 2016],
-        [Hansen 2017]
+Source: [Hansen 2016], [Hansen 2017]
 Graphemes: ?
 
 Signotation is similar to musical notation, and is written on a staff, with

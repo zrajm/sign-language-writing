@@ -4,7 +4,7 @@ Latin: ◑ (alphabetical symbols for handshapes, many novel symbols & diacritics
 Language: STS
 Country: Sweden
 Creator: Bergman, Brita (hearing)
-Source: Renard ([2004][Renard 2004]: 168)
+Source: [Renard 2004]: 168
 Graphemes: ~140 ([Zrajm 2017])
 
 Derived from Stokoe notation according to Renard ([2004][Renard 2004]).

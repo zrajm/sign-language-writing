@@ -4,10 +4,7 @@ Latin: ● (uses only ASCII characters)
 Language: ASL
 Country: United States
 Creator: Low, Travis (hearing)
-Source: Low (1997),
-        ASL Font (2021),
-        Cardoso (2023),
-        Mendes (2020)
+Source: [Low 1997], [ASL Font 2013], [Cardoso 2023], [Mendes 2020]
 Graphemes: ~45
 Parent: ?
 

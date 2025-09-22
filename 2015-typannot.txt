@@ -10,8 +10,7 @@ Creator: Boutet, Dominique;
          Bianchini, Claudia S.;
          Rébulard, Morgane;
          Gouguely, Timothée
-Source:  [Boutet et al. 2018],
-         [Boutet et al. 2019]
+Source: [Boutet et al. 2018], [Boutet et al. 2019]
 Graphemes: ?
 
 * https://www.typannot.com/

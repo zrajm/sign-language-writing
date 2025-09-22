@@ -4,10 +4,7 @@ Latin: ◔ (no Latin characters)
 Language: ASL
 Country: United States
 Creator: Supalla, Samuel (deaf)
-Source: Supalla et al. ([2014][Supalla et al. 2014]),
-        ASL Font ([2021][ASL Font 2021]),
-        Cardoso ([2023][Cardoso 2023]: 89--80),
-        Mendes ([2020][Mendes 2020]: 39, Figura 18)
+Source: [Supalla et al. 2014], [ASL Font 2021], [Cardoso 2023]: 89--80, [Mendes 2020]: 39, Figura 18
 Graphemes: 32
 Parent: 1987-signfont
 Use: Children's education

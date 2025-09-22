@@ -4,7 +4,7 @@ Latin: ○
 Language: ASL
 Country: United States
 Creator: Clark, Adrean (deaf); Dameron, Julia (deaf)
-Source: Clark ([2012][Clark 2012])
+Source: [Clark 2012]
 Graphemes: 105
 Use: Everyday
 Parent: 2003-early-si5s

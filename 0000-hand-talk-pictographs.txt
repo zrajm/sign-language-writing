@@ -4,8 +4,7 @@ Latin: ○ (no Latin characters)
 Language: PST(?)
 Country: United States
 Creator: --
-Source: Graber ([2018][Graber 2018])
-        Farnell ([1995][Farnell 1995]: 244--247)
+Source: [Graber 2018], [Farnell 1995]: 244--247
 Graphemes: N/A
 
 I have on several occasions encountered mentions of a pictograph style of sign

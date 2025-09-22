@@ -4,8 +4,7 @@ Latin: ● (only Latin characters)
 Language: LSF
 Country: France
 Creator: Tilkin, Gérald (hearing)
-Source: Bergeron ([2004][Bergeron 2004]: 157--172),
-        Bergeron ([2006][Bergeron 2006]: 7)
+Source: [Bergeron 2004]: 157--172, [Bergeron 2006]: 7
 Graphemes: ?
 
 <div>
