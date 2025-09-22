@@ -9,6 +9,10 @@ Graphemes: 105
 Use: Everyday
 Parent: 2003-early-si5s
 
+**Note:** This is distinct from [early si5s] (which it was developed from), and
+[late si5s] (which took early si5s in a different direction).
+
 * https://en.wikipedia.org/wiki/ASLwrite
+* [http://www.aslwrite.com/](https://web.archive.org/web/20181211092657/http://www.aslwrite.com/) (archived version)
 
 <!--[eof]-->

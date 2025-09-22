@@ -6,7 +6,7 @@ Country: Russia
 Creator: Boyko, Artiom Vyacheslavovich
 Source: [Boyko 2024]
 Graphemes: 95?
-Parent: 2013-symbol-font-for-asl
+Parent: 2013-asl-font
 
 In 2024 [ASL Font] was adapted for RSL, called Шрифт РЖЯ, or RSL Font ([Boyko
 2024]). This adaptation changed the handshape symbol set to match the handshape

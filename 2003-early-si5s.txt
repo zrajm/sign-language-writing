@@ -7,6 +7,10 @@ Creator: Arnold Augustus, Robert (deaf)
 Source: [Arnold 2007]
 Graphemes: ~80
 
+**Note:** This is distinct from [late si5s] (a later development by Arnold),
+and [ASLwrite] (an offshoot developed in a different direction by Clark and
+many others).
+
 <figure class=si5s>
   <style>figure.si5s img { vertical-align: middle; display: inline }</style>
   ![](pic/si5s-1.png)
