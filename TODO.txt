@@ -20,7 +20,7 @@
   CLOSED: [2025-08-14 Thu 17:25]
   pdf/barros-2006-scripsig_escrita_quirografica_das_linguas_de_sinais.pdf
   First page is correct, but all other pages need to be rotated 90°.
-* [3/21] Add notations & info from my 'Teckenskrift' page
+* [21/21] Add notations & info from my 'Teckenskrift' page
   https://zrajm.org/teckenskrift/skriftsystem.html
 ** DONE 2016 Signotation
    CLOSED: [2025-09-04 Thu 15:03]
@@ -28,24 +28,42 @@
    CLOSED: [2025-09-04 11:31:20 +0200]
 ** DONE 2013 ASLFont
    CLOSED: [2025-09-04 Thu 16:22]
-** TODO 2012 ASLwrite
-** TODO 2010 SignScript
-** TODO 2010 Plena Signuno
-** TODO 2009 ASL Sign Jotting
-** TODO 2005 SLIPA
-** TODO 2003 si5s
-** TODO 1997 ASL Orthography
-** TODO 1997 SMYLE
-** TODO 1996 ELiS
-** TODO 1996 ASL-phabet
-** TODO 1993 ASCII version of Stokoe Notation
-** TODO 1987 SignFont
-** TODO 1985 HamNoSys
-** TODO 1977 STS Transcription
-** TODO 1974 SignWriting
-** TODO 1965 Stokoe Notation
-** TODO 1890 Kiowa sign writing
-** TODO 1825 Mimographie
+** DONE 2012 ASLwrite
+   CLOSED: [2025-09-22 Mon 18:15]
+** DONE 2010 SignScript
+   CLOSED: [2025-09-22 Mon 18:16]
+** DONE 2009 ASL Sign Jotting
+   CLOSED: [2025-09-22 Mon 18:18]
+** DONE 2005 SLIPA
+   CLOSED: [2025-09-22 Mon 18:18]
+** DONE 2003 si5s
+   CLOSED: [2025-09-23 Tue 13:55]
+** DONE 1997 ASL Orthography
+   CLOSED: [2025-09-23 Tue 13:56]
+** DONE 1997 SMYLE
+   CLOSED: [2025-09-23 Tue 14:16]
+** DONE 1996 ELiS
+   CLOSED: [2025-09-23 Tue 16:23]
+** DONE 2010 Plena Signuno
+   CLOSED: [2025-09-23 Tue 17:35]
+** DONE 1996 ASL-phabet
+   CLOSED: [2025-09-23 Tue 17:37]
+** DONE 1993 ASCII version of Stokoe Notation
+   CLOSED: [2025-09-23 Tue 17:41]
+** DONE 1987 SignFont
+   CLOSED: [2025-09-23 Tue 17:43]
+** DONE 1985 HamNoSys
+   CLOSED: [2025-09-23 Tue 18:00]
+** DONE 1977 STS Transcription
+   CLOSED: [2025-09-23 Tue 18:36]
+** DONE 1974 SignWriting
+   CLOSED: [2025-09-23 Tue 18:37]
+** DONE 1965 Stokoe Notation
+   CLOSED: [2025-09-23 Tue 18:37]
+** DONE 1890 Kiowa sign writing
+   CLOSED: [2025-09-23 Tue 18:41]
+** DONE 1825 Mimographie
+   CLOSED: [2025-09-23 Tue 18:41]
 * DONE 1998 Dimskis notation
   CLOSED: [2025-09-16 Tue 01:44]
 
@@ -74,6 +92,17 @@
 * DONE `index.pl` should update `index.html` in place
   CLOSED: [2025-09-19 Fri 08:05]
   With backup file.
+* TODO Use 'glyph' and 'grapheme' in text
+  Avoid usage of words 'character', 'symbol' etc, and instead use:
+
+  Glyph: Individual mark, representing the smallest level of differentiation in
+  the system in question. (Sometimes referred to as a "mark" or "radical".)
+
+  Grapheme: A whole unit, including all constituent glyphs (this is what you
+  would normally think of as one character).
+* TODO Add Gestuno notation
+  https://dedalvs.com/slipa.html
+  'Glossing System for International Gesture (Gestuno):'
 * TODO Add thanks to Iconic Logography-person
 * TODO Add thanks to AusWrit person
 * TODO Add PDF of Dimskis' book

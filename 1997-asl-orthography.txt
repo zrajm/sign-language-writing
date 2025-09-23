@@ -16,12 +16,13 @@ Parent: ?
 </figcaption>
 </figure>
 
-Low is a hearing student of ASL who created ASL Orthography for everyday
-language use
-([http\://www.dawnstar.org/travis/deaf/](https://web.archive.org/web/20030126153916/http://www.dawnstar.org/travis/deaf/)).
-Aspect is not well represented in the system, and facial features/adverbs are
-not included at all
-([http\://www.dawnstar.org/travis/deaf/asl/](https://web.archive.org/web/20030519222224/http://www.dawnstar.org/travis/deaf/asl/)).
+Low, a hearing student of ASL, created ASL Orthography for everyday language
+use
+([http\://www.dawnstar.org/travis/deaf](https://web.archive.org/web/20170430184314/http\://www.dawnstar.org/travis/deaf),
+latest archived April 2017). Aspect is not well represented in the system, and
+facial features/adverbs are not included at all
+([http\://www.dawnstar.org/travis/deaf/asl](https://web.archive.org/web/20161023065658/http\://www.dawnstar.org/travis/deaf/asl),
+latest archived October 2016).
 
 <div class=hanging>
 

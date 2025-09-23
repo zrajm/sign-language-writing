@@ -25,7 +25,8 @@ SignFont are described in McIntire et al. ([1987][McIntire et al 1987]:
 211-213), this however this article does not seem to present a complete system,
 and only lists the symbols without giving full examples of their use.
 
-* [http\://members.home.net/dnewkirk/signfont/orthog.htm](https://web.archive.org/web/20010222184041/http://members.home.net/dnewkirk/signfont/orthog.htm)
+* [http\://members.home.net/dnewkirk/signfont/orthog.htm](https://web.archive.org/web/20010222184041/http\://members.home.net/dnewkirk/signfont/orthog.htm)
+  (earliest archived February 2001)
 * https://de.wikipedia.org/wiki/SignFont
 * https://scriptsource.org/scr/Qaao
 

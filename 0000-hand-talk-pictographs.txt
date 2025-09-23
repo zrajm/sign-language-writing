@@ -25,9 +25,7 @@ the symbols directly to the corresponding signs in PST.
 > four brothers, but only three. One had recently died and been buried.
 >
 > <figure>
->
-> ![](pic/graber-2018.jpg)
->
+>   ![](pic/graber-2018.jpg)
 > <figcaption>
 >   Symbols relating the death and burial of Cozad’s brother. Used by
 >   permission from Dickinson Research Center, National Cowboy & Western
@@ -38,9 +36,7 @@ the symbols directly to the corresponding signs in PST.
 > ([Graber 2018])
 
 > <figure>
->
-> ![](pic/farnell-1995.png)
->
+>   ![](pic/farnell-1995.png)
 > <figcaption>
 >   Figure 7.1. Graphic depictions of Plains Sign Talk by American Indians. Top
 >   part of illustration from Tomkins [1926][Tomkins 1926]:85. Used with

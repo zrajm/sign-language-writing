@@ -9,4 +9,7 @@ Graphemes: ?
 
 Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
 
+* [http\://signographie.fr](https://web.archive.org/web/20181226120527/http\://signographie.fr/)
+  (archived December 2018, requires Flash)
+
 <!--[eof]-->

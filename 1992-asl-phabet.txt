@@ -1,4 +1,4 @@
-Year: 1992
+Year: 1992?
 Title: ASL-phabet
 Latin: ◔ (no Latin characters)
 Language: ASL
@@ -24,6 +24,7 @@ consists of only 32 graphemes: 22 handshapes, 5 locations, and 5 movements
 
 * https://www.glossinstitute.com/video/asl-phabet-signing-out/
 * https://en.wikipedia.org/wiki/ASL-phabet
-* https://web.archive.org/*/http://www.asl-phabet.com/ (now defunct)
+* [http\://www.asl-phabet.com](https://web.archive.org/web/20180830033527/http\://www.asl-phabet.com)
+  (archived August 2018, requires Flash)
 
 <!--[eof]-->

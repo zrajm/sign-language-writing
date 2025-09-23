@@ -1,4 +1,4 @@
-Year: 1993
+Year: 1993 ([Mandel 1993] published)
 Title: ASCII-Stokoe Notation
 Latin: ● (uses only ASCII characters)
 Language: ASL
@@ -6,5 +6,10 @@ Country: United States
 Creator: Mandel, Mark A. (hearing)
 Source: [Mandel 1993], [Renard 2004]: 166, [Miller 2001]
 Graphemes: ?
+
+* [http\://www.world.std.com/~MAM/ASCII-Stokoe.html](https://web.archive.org/web/20041026052838/http\://www.world.std.com/~MAM/ASCII-Stokoe.html)
+  (archived October 2004)
+* [https\://theworld.com/~mam/ASCII-Stokoe.txt](https://web.archive.org/web/20030523230152/http\://theworld.com/~mam/ASCII-Stokoe.txt)
+  (archived May 2003)
 
 <!--[eof]-->

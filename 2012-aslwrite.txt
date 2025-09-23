@@ -13,6 +13,8 @@ Parent: 2003-early-si5s
 [late si5s] (which took early si5s in a different direction).
 
 * https://en.wikipedia.org/wiki/ASLwrite
-* [http://www.aslwrite.com/](https://web.archive.org/web/20181211092657/http://www.aslwrite.com/) (archived version)
+* [http\://www.aslwrite.com](https://web.archive.org/web/20190113052606/http\://www.aslwrite.com)
+  (archived January 2019---the original site have been showing "New Updates On
+  The Way!" for more than five years now)
 
 <!--[eof]-->

@@ -22,7 +22,7 @@ Parent: 2003-early-si5s
 </figure>
 
 * https://en.wikipedia.org/wiki/Si5s
-* https://web.archive.org/web/20160313074858/http://www.si5s.org/
+* [http\://www.si5s.org](https://web.archive.org/web/20160816144113/http\://www.si5s.org) (archived August 2016)
 
 <!--[eof]-->
 
