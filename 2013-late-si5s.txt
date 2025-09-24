@@ -6,7 +6,7 @@ Country: United States
 Creator: Arnold Augustus, Robert (deaf)
 Source: [Arnold 2013]
 Graphemes: 80
-Parent: 2003-early-si5s
+Parent: [Early si5s]
 
 **Note:** This is distinct from [early si5s] (which it was developed from), and
 [ASLwrite] (a different offshoot from early si5s).

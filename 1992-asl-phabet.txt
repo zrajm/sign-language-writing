@@ -6,7 +6,7 @@ Country: United States
 Creator: Supalla, Samuel (deaf)
 Source: [Supalla et al. 2014], [ASL Font 2021], [Cardoso 2023]: 89--80, [Mendes 2020]: 39, Figura 18
 Graphemes: 32
-Parent: 1987-signfont
+Parent: [SignFont]
 Use: Children's education
 
 Supalla created ASL-phabet in order to teach deaf kids the alphabetic principle

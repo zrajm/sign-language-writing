@@ -7,7 +7,7 @@ Creator: Clark, Adrean (deaf); Dameron, Julia (deaf)
 Source: [Clark 2012]
 Graphemes: 105
 Use: Everyday
-Parent: 2003-early-si5s
+Parent: [Early si5s]
 
 **Note:** This is distinct from [early si5s] (which it was developed from), and
 [late si5s] (which took early si5s in a different direction).
