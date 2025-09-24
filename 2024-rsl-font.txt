@@ -3,7 +3,7 @@ Title: RSL Font (Шрифт РЖЯ)
 Latin: ◔ (no Latin characters)
 Language: RSL
 Country: Russia
-Creator: Boyko, Artiom Vyacheslavovich
+Creator: Boyko, Artiom Vyacheslavovich (hearing)
 Source: [Boyko 2024]
 Graphemes: 95?
 Parent: [ASL Font]
