@@ -9,6 +9,7 @@ Graphemes: ?
 
 A logographic writing system intended for BANZSL group of sign languages (BSL,
 Auslan and NZSL), based on the fact that these languages share a majority of
-signs and many/most iconic signs.
+signs and many/most iconic signs. The system is still under development (as of
+August 2025).
 
 <!--[eof]-->
