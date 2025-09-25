@@ -1,4 +1,4 @@
-Year: 2004? (Date given in of earliest version of [La vortaro de Signuno 2004] on archive.org)
+Year: 2004? (Found in earliest archived version of [La vortaro de Signuno 2004] on archive.org)
 Title: Signuno Notation
 Latin: ● (only ASCII characters)
 Language: Signuno (Signed Esperanto)
@@ -26,9 +26,14 @@ Use: ?
     </tr>
   </table>
 <figcaption>
-  Start of table from *La vortaro de Signuno* ([2004][La vortaro de Signuno 2004]).
+  Start of dictionary table from *La vortaro de Signuno* ([2004][La vortaro de Signuno 2004]).
 </figcaption>
 </figure>
+
+Signuno notation is a pure Latin-based notation, with no custom symbols. (Apart
+from transcriptions, the dictionary also illustrate each sign with a small
+diagram, but these, complete with little pictures of each handshape, cannot
+reasonably be considered writing.)
 
 > An Esperanto manual alphabet is included as part of the Signuno [eo] project
 > for manually coded Esperanto. Signuno is based on the signs of International
