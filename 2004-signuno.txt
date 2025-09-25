@@ -1,0 +1,47 @@
+Year: 2004? (Date given in of earliest version of [La vortaro de Signuno 2004] on archive.org)
+Title: Signuno Notation
+Latin: ● (only ASCII characters)
+Language: Signuno (Signed Esperanto)
+Country: ?
+Creator: ?
+Source: [Plena Signuno 2007], [La vortaro de Signuno 2004]
+Graphemes: ?
+Parent: ?
+Use: ?
+
+<figure class=signuno>
+  <style>.signuno { line-height: 1; td { vertical-align: top; padding-top: .5rem } img { display: inline; margin: .5rem 0 } }</style>
+  <table>
+    <tr>
+      <td><b>abdik</b> W@34<br><img src="pic/signuno/w2-et.png"><br><img src="pic/signuno/34.png"></td>
+      <td><b>abel</b> P@09<br><img src="pic/signuno/p2-et.png"><br><img src="pic/signuno/09.png"></td>
+      <td><b>abĥaz<sup>8</sup></b> ab@00<br><img src="pic/signuno/a1-et.png"><img src="pic/signuno/b1-et.png"><br><img src="pic/signuno/00.png"></td>
+      <td><b>abolici</b> u@39<br><img src="pic/signuno/u1-et.png"><br><img src="pic/signuno/39.png"></td>
+    </tr>
+    <tr>
+      <td><b>abon</b> f@19<br><img src="pic/signuno/f1-et.png"><br><img src="pic/signuno/19.png"></td>
+      <td><b>abrupt</b> at@35<br><img src="pic/signuno/a1-et.png"><img src="pic/signuno/t1-et.png"><br><img src="pic/signuno/35.png"></td>
+      <td><b>absolut</b> a@24<br><img src="pic/signuno/a1-et.png"><br><img src="pic/signuno/24.png"></td>
+      <td><b>absorb</b> Y@34<br><img src="pic/signuno/y2-et.png"><br><img src="pic/signuno/34.png"></td>
+    </tr>
+  </table>
+<figcaption>
+  Start of table from *La vortaro de Signuno* ([2004][La vortaro de Signuno 2004]).
+</figcaption>
+</figure>
+
+> An Esperanto manual alphabet is included as part of the Signuno [eo] project
+> for manually coded Esperanto. Signuno is based on the signs of International
+> Sign, but adapted to the grammatical system of Esperanto.
+> (https://en.wikipedia.org/wiki/Esperanto_manual_alphabet)
+
+> This alphabetical transcription system was designed for Plena Signuno (a sign
+> language version of Esperanto) and is not meant for use with other sign
+> languages. ([Peterson 2003])
+
+**On "year" above:** The creation year above reflects the date given on the
+oldest archived version of any page making use of Signuno notation, 2004,
+October 8 (see
+[archive.org](https://web.archive.org/web/20040915081348/http\://www.geocities.com/signuno/vortaro.html)).
+
+<!--[eof]-->

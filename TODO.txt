@@ -92,6 +92,10 @@
 * DONE `index.pl` should update `index.html` in place
   CLOSED: [2025-09-19 Fri 08:05]
   With backup file.
+* DONE Add thanks to Iconic Logography-person
+  CLOSED: [2025-09-25 Thu 09:01]
+* DONE Add thanks to AusWrit person
+  CLOSED: [2025-09-25 Thu 09:01]
 * TODO Use 'glyph' and 'grapheme' in text
   Avoid usage of words 'character', 'symbol' etc, and instead use:
 
@@ -103,9 +107,8 @@
 * TODO Add Gestuno notation
   https://dedalvs.com/slipa.html
   'Glossing System for International Gesture (Gestuno):'
-* TODO Add thanks to Iconic Logography-person
-* TODO Add thanks to AusWrit person
 * TODO Add PDF of Dimskis' book
+* TODO Find better author info for Signuno notation
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?
   https://www.facebook.com/photo/?fbid=10232397780589216&set=p.10232397780589216
