@@ -2,11 +2,22 @@ Year: 2020
 Title: AusWrit
 Latin: ○
 Language: Auslan
-Country: Australia(?)
-Creator: LinguaPhiliax (hearing)
-Source: ?
+Country: Australia
+Creator: Cameron, Robin Andrew (hearing)
+Source: [Cameron 2020a], [Cameron 2020b], [Cameron 2020c]
 Graphemes: ?
 
 <div class=note>Not to be confused with [AusWrite].</div>
+
+<figure>
+  ![](pic/auswrit.png)
+<figcaption>
+  "AusWrit" written in AusWrit ([Cameron 2020a]).
+</figcaption>
+</figure>
+
+This is a personal note-taking system for Auslan created by the Australian
+Youtuber and linguist Robin Cameron (LinguaPhiliax). Each character consist of
+a set of simpler "radicals" which combine to portray more detailed information.
 
 <!--[eof]-->
