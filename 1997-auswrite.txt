@@ -7,6 +7,8 @@ Creator: David Rose
 Source: [Bergermann 2001]?, [Stiedl 2011]
 Graphemes: ?
 
+<div class=note>Not to be confused with [AusWrit].</div>
+
 > David Rose followed in 1997 with "AusWrite" (Auslan Writing System) for
 > *Australian Sign Language*. ([German Wikipedia: Geschichte der Gebärdensprachen])
 

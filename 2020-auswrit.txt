@@ -7,4 +7,6 @@ Creator: LinguaPhiliax (hearing)
 Source: ?
 Graphemes: ?
 
+<div class=note>Not to be confused with [AusWrite].</div>
+
 <!--[eof]-->

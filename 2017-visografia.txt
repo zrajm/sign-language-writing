@@ -8,9 +8,7 @@ Source: [Benassi 2017], [Benassi 2019]
 Graphemes: 37?
 Parent: [SignWriting], [ELiS]
 
-**Note:** This is distinct from [Visagrafía], an earlier system.
-
-<div></div>
+<div class=note>Not to be confused with [Visagrafía], an earlier system.</div>
 
 This system was created by professor Benassi in response to a classroom need.
 While teaching, he had found that [SignWriting] (with its more than 900

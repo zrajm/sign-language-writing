@@ -10,7 +10,7 @@ Creator: Gutiérrez, Jaime Hernández (hearing?);
 Source: [Gutiérrez 2007]?, [Colorado & Ruíz 2010], [Mendes 2020]: 43--44, 58, [Cardoso 2023]: 109--111, 124
 Graphemes: ?
 
-**Note:** This is distinct from [VisoGrafia], a later system.
+<div class=note>Not to be confused with [VisoGrafia], a later system.</div>
 
 <figure>
   ![Example of Visagrafía writing](pic/visagrafia.png)

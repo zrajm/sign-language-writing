@@ -9,8 +9,8 @@ Graphemes: 105
 Use: Everyday
 Parent: [Early si5s]
 
-**Note:** This is distinct from [early si5s] (which it was developed from), and
-[late si5s] (which took early si5s in a different direction).
+<div class=note>Not to be confused with [early si5s] (which it was developed
+from), or [late si5s] (which took early si5s in a different direction).</div>
 
 * https://en.wikipedia.org/wiki/ASLwrite
 * [http\://www.aslwrite.com](https://web.archive.org/web/20190113052606/http\://www.aslwrite.com)
