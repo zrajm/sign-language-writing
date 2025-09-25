@@ -109,6 +109,29 @@
   'Glossing System for International Gesture (Gestuno):'
 * TODO Add PDF of Dimskis' book
 * TODO Find better author info for Signuno notation
+  The original Signuno pages do not contain any author info. There's a contact
+  page, which mentions the word 'email' (or, well, 'retletero' since the page
+  is in Esperanto), but it contains no actual email address.
+
+  Contact page:
+  https://web.archive.org/web/20031227035959/http://www.geocities.com/signuno/kontakto.html
+
+  The easily available websites for Siguno are (old geocities.com archive):
+  https://geocities.ws/signuno/plensignuno.html
+  https://geocities.ws/signuno/vortaro.html
+
+  archive.org also has:
+  https://web.archive.org/web/20040915081348/http://www.geocities.com/signuno/vortaro.html
+  https://web.archive.org/web/20070730005404/http://geocities.com/signuno/plensignuno.html
+
+  A Yahoo group also existed at some point, but I have not been able to locate
+  an archive thereof: http://groups.yahoo.com/group/signuno/ (archive.org have
+  a archived a buncha Yahoo groups *metadata*, but not the actually messages
+  sent).
+
+  At some point it was also accessible through this address (though archive.org
+  only have a bunch of 'Welcome to nginx!' greetings, and no actual website
+  archived): http://signuno.tk/
 * TODO Write a text comparing Stokoe-derived notations to each other
 * TODO Maybe add this picture for Visagrafía?
   https://www.facebook.com/photo/?fbid=10232397780589216&set=p.10232397780589216
@@ -134,7 +157,7 @@
 * TODO `pdf/west-1960-sign_language.pdf` is to large for Github!        :BUG:
   Files larger than 100MB can be listed with: `ls **/*(.Lm+100)`
 * TODO Add stuff from German Wikipedia
-From: https://de.wikipedia.org/wiki/Gebärdenschrift
+  From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription
    A system is considered a script or functional writing system if it is
    intended for general usage. Notations, on the other hand, are primarily
