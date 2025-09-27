@@ -6,10 +6,10 @@ Country: Netherlands
 Creator: Schermer
 Source: [Renard 2004]: 168, [Miller 2001]
 Graphemes: ?
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
-from the Berkeley group (in turned derived from DASL) according to Miller
-([2001][Miller 2001]).
+Derived from the Berkeley group (in turned derived from DASL) according to
+Miller ([2001][Miller 2001]).
 
 <div class=hanging>
 

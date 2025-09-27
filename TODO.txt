@@ -164,6 +164,8 @@
   + Distinction 'writing system' / 'notation/transcription system'. See also:
     [[Difference between writing and notation/transcription]] (in [[Add stuff from
     German Wikipedia]])
+* TODO Add missing [Corazza 1985] reference!
+  Is referenced in '1980: Corazza Notation'.
 * TODO Add stuff from German Wikipedia
   From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription

@@ -6,10 +6,7 @@ Country: Sweden
 Creator: Bergman, Brita (hearing)
 Source: [Bergman 1977], [Hedberg 1989]: 62, [Wallin 1994], [Renard 2004]: 168
 Graphemes: ~140 ([Zrajm 2017])
-
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
-
-<div></div>
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 *Bergman notation* was first described in Bergman ([1977][Bergman 1977]), but
 has later been significantly updated and revised. Hedberg added a symbols for

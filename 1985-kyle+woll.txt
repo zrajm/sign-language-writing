@@ -6,7 +6,6 @@ Country: Great Britain
 Creator: Kyle, James G.; Woll, Bencie
 Source: [Kyle & Woll 1985], [Miller 2006], [Renard 2004]: 168
 Graphemes: ?
-
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]: 168).
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 <!--[eof]-->

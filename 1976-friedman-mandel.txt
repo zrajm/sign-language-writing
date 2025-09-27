@@ -6,10 +6,7 @@ Country: United States
 Creator: Friedman--Mandel(?)
 Source: [Renard 2004]: 168
 Graphemes: ?
-
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
-
-<div></div>
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 I have only seen this notation in Renard (2004), and it's only mentioned in a
 list of notation systems, without further details.---Verify that it actually

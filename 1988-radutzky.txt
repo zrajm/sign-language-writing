@@ -6,12 +6,12 @@ Country: Italy
 Creator: Radutzky, Elena (hearing)
 Source: [Radutzky 1988], [Radutzky 1989], [Renard 2004]: 168, [Miller 2001], [Radutzky 2024]
 Graphemes: ?
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 * FIXME: Which Radutzky source is correct, if any? Investigate!
 
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]). Derived
-from the Berkeley group (in turned derived from DASL), together with [Corazza
-notation] according to Miller ([2001][Miller 2001]).
+Derived from the Berkeley group (in turned derived from DASL), together with
+[Corazza notation] according to Miller ([2001][Miller 2001]).
 
 Renard ([2004][Renard 2004]) misspells the name as "Raclutzky".
 

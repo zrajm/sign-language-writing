@@ -6,7 +6,6 @@ Country: Australia
 Creator: Johnston
 Source: [Renard 2004]: 168
 Graphemes: ?
-
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 <!--[eof]-->

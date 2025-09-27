@@ -6,8 +6,7 @@ Country: Great Britain
 Creator: ?
 Source: [Renard 2004]: 168, [Miller 2001]
 Graphemes: ?
-
-Derived from Stokoe notation according to Renard ([2004][Renard 2004]).
+Parent: [Stokoe notation] (according to [Renard 2004]: 168)
 
 Renard ([2004][Renard 2004]) refers to this as "Edinburgh--Durham", while
 Miller ([2001][Miller 2001]) refers to it as "Edinburgh/Durham (BSL Dictionary)
