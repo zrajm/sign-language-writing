@@ -425,6 +425,10 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
   Sociology of Language, 2008*(192), 75--89. DOI 10.1515/IJSL.2008.036
 
 </div>
+
+* TODO Find Suttons reference (from Hopkins 2008)
+  On the SignWriting online forum, Sutton mentions 50–100 different systems. See
+  http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0503A&L=SW-L&P=R12135&D=1&H=0&I=-3&O=T&T=1 (accessed 8 January 2007)
 * TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system

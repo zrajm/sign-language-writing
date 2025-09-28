@@ -21,6 +21,9 @@ and others).</div>
 </figcaption>
 </figure>
 
+Shigeru Tanada ([2012][Tanada 2012]) created a variant for [JSL] (seemingly in
+direct consultation with the creator of si5s, Robert Arnold).
+
 <figure class=fixme>
   <figcaption>FIXME: Verify this AI-generated summary</figcaption>
 
