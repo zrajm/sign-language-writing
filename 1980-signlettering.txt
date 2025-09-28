@@ -1,0 +1,68 @@
+Year: 1980?
+Title: SignLettering
+Latin: ●? (only Latin characters)
+Language: any(?)
+Country: United States (Germany?)
+Creator: Teuber, Hartmut (deaf)
+Source: ?
+Graphemes: ?
+
+<div class=note>This notation *probably exists,* but has not been made public
+beyond conference presentations.</div>
+
+Teuber describes SignLettering (across several postings on Quora, see below) as
+a phonetic system which uses Roman letters (in upper and lower case), numerals
+and diacritics. He furthers gives the impression (though this is less certain)
+that the system can be used for any language, but that by adapting it to a
+specific language the spelling for that language can be simplified.
+
+<div></div>
+
+SignLettering is referenced in multiple places on the internet (though not so
+much in the English-speaking part), most prominently on German Wikipedia:
+
+> Ferner erschien in der Tradition des Stokoe-Systems an der Universität
+> Hamburg das wissenschaftlich orientierte HamNoSys (Hamburger
+> Notations-System)^[11]^ für die Deutsche Gebärdensprache und ein
+> phonetisch/phonemisches System <mark>SignLettering</mark>^[12]^ von dem
+> Pädagogen Hartmut Teuber (USA).
+> (https://de.wikipedia.org/wiki/Gebärdenschrift)
+
+In ChatGPT's translation:
+
+> Furthermore, in the tradition of the Stokoe system, the scientifically
+> oriented HamNoSys (Hamburg Notation System)^[11]^ for German Sign Language
+> and a phonetic/phonemic system called <mark>SignLettering</mark>^[12]^ by the
+> educator Hartmut Teuber (USA) were developed at the University of Hamburg.
+
+However, the source given by Wikipedia ([Teuber et al. 1980]), does not mention
+SignLettering at all! (It is about how to encode Stokoe notation for database
+use.)---But, the article co-author Hertmut Tebuer (credited as the creator of
+SignLettering by Wikipedia), has mentioned being the creator of SignLettering,
+and a rough description of the system in a series of Quora (https://quora.com)
+answers:
+
+> I developed one that is called SignLettering, using letters and numerals to
+> denote the phonetic components in signs, which can be simplfied [sic] to
+> become a working writing system after determining the phonemics of a
+> particular sign language. (Teuber 2022, [Quora: "How do you say 'read' in
+> sign language?"](https://quora.com/How-do-you-say-read-in-sign-language))
+
+> I have developed a phonetic/phonemic writing system for any signed langguage
+> [sic]. I called it SignLettering, because I use the Roman letters in lower
+> and upper cases. It is an "Escalatorsystem" whereby several phonetic codes to
+> single phonemes crystallize. I haven't advertised or tried to market it aside
+> of presenting it at conferences. (Teuber 2023, [Quora: "Is there a standard
+> writing system for sign
+> language?"](https://quora.com/Is-there-a-standard-writing-system-for-sign-language))
+
+> Myself have created a different system, using letters, numerals, and
+> diacritics, called SignLettering. (Teuber 2024, [Quora: "What is the process
+> for transcribing sign language into written words for a deaf
+> person?"](https://quora.com/What-is-the-process-for-transcribing-sign-language-into-written-words-for-a-deaf-person))
+
+Sadly, Quora sucks as a source. The dates given above are very approximate (as
+the site only says '2 years ago' etc., with no further granularity) and to
+access some of the pages directly a Quora+ subscription is needed. :(
+
+<!--[eof]-->

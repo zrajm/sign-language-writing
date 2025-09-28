@@ -96,6 +96,145 @@
   CLOSED: [2025-09-25 Thu 09:01]
 * DONE Add thanks to AusWrit person
   CLOSED: [2025-09-25 Thu 09:01]
+* DONE Add SignLettering (from German Wikipedia: "Gebärdenschrift")
+  CLOSED: [2025-09-28 Sun 14:55]
+  Original text (from wikipedia):
+
+  > Ferner erschien in der Tradition des Stokoe-Systems an der Universität
+  > Hamburg das wissenschaftlich orientierte HamNoSys (Hamburger
+  > Notations-System)[11] für die Deutsche Gebärdensprache und ein
+  > phonetisch/phonemisches System SignLettering[12] von dem Pädagogen Hartmut
+  > Teuber (USA). (https://de.wikipedia.org/wiki/Gebärdenschrift)
+
+  In ChatGPT's translation:
+
+  > Furthermore, in the tradition of the Stokoe system, the scientifically
+  > oriented HamNoSys (Hamburg Notation System)[11] for German Sign Language
+  > and a phonetic/phonemic system called SignLettering[12] by the educator
+  > Hartmut Teuber (USA) were developed at the University of Hamburg.
+  > (https://de.wikipedia.org/wiki/Gebärdenschrift)
+
+  Where the references are:
+
+  + [11] [Uni Hamburg, HamNoSys, abgerufen am 10. Juli
+    2017](https://web.archive.org/web/20170104033928/http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/hamnosys.html)
+  + [12] Teuber, Hartmut; Battison, Robbin; Lane, Harlan; Heck, Joe; Stungis,
+    Jim. (1980, winter). A computerized lexicon of American Sign Language: The
+    DASL 1965 in Fortran. *Sign Language Studies, 29* , S. 349--369 (21
+    Seiten) - https://ida.gallaudet.edu/sls/29/
+
+  The main reference ('[12]' above) does not even mention 'SignLettering'.
+  However, one of the article's authors Hartmut Teuber have an account on Quora
+  (https://quora.com) and have posted multiple answers there in which me
+  mentions his 'SignLettering' system.
+
+  Quora does not allow archiving of their content, and do not show timestamps
+  for their questions and answers. Eventually I was able to access all of
+  Teuber's postings by going to his profile page
+  https://quora.com/profile/Hartmut-Teuber and scroll down for a long enough
+  time to see all of his answers, and use find-in-page to locate the relevant
+  bits. (Already knowing which pages I was looking for, by means of having
+  googled them helped.)
+
+  ----------------------------------------------------------------------
+  https://www.quora.com/How-do-you-say-read-in-sign-language
+  # Date: 2022? (visited date 2025-09-28, minus '3y').
+
+  > [Profile photo for Hartmut Teuber]
+  > Hartmut Teuber
+  > M.A. in Linguistics, Brandeis University (Graduated 1985) · Author has 894
+  > answers and 209K answer views · 3y
+  >
+  > > How do you say "read" in sign language?
+  >
+  > That is the question you should address to the writer who used this
+  > expression.
+  >
+  > There are several transcription and notation systems to write signs down on
+  > paper. For a novice, it requires a steep learning curve. I developed one
+  > that is called SignLettering, using letters and numerals to denote the
+  > phonetic components in signs, which can be simplfied to become a working
+  > writing system after determining the phonemics of a particular sign
+  > language.
+  >
+  > Right now, signers would resort to use English word...
+  >
+  > Upvote ·. 9
+  ----------------------------------------------------------------------
+  https://www.quora.com/Is-there-a-standard-writing-system-for-sign-language
+  # Date: 2023? (visited date 2025-09-28, minus '2y').
+
+  > [Profile photo for Hartmut Teuber]
+  > Hartmut Teuber
+  >
+  > M.A. in Linguistics, Brandeis University (Graduated 1985) · Author has 894
+  > answers and 208.9K answer views · 2y
+  >
+  > > Is there a standard writing system for sign language?
+  >
+  > I have developed a phonetic/phonemic writing system for any signed
+  > langguage. I called it SignLettering, because I use the Roman letters in
+  > lower and upper cases. It is an "Escalatorsystem" whereby several phonetic
+  > codes to single phonemes crystallize. I haven't advertised or tried to
+  > market it aside of presenting it at conferences.
+  >
+  > 24 views
+  ----------------------------------------------------------------------
+  https://www.quora.com/What-is-the-equivalent-of-ASL-for-written-languages-Can-a-person-read-and-write-without-being-able-to-speak
+  # Date: 2023? (visited date 2025-09-28, minus '2y').
+
+  > [Profile photo for Hartmut Teuber]
+  > Hartmut Teuber
+  > M.A. in Linguistics, Brandeis University (Graduated 1985) · Author has 894
+  > answers and 208.9K answer views · 2y
+  >
+  > > What is the equivalent of ASL for written languages? Can a person read
+  > > and write without being able to speak?
+  >
+  > There are different writing systems for ASL, inkluding my "SignLettering"
+  > system. Some are phoneti, some are phonemi, some are pitographi.
+  >
+  > 26 views
+  ----------------------------------------------------------------------
+  https://www.quora.com/What-is-the-process-for-transcribing-sign-language-into-written-words-for-a-deaf-person
+  # Date: 2024? (visited date 2025-09-28, minus '1y').
+  #
+  # This post was reconstructed by copying the first part from the Quora page,
+  # then for the latter part (because that is only available directly from for
+  # subscribers) by doing repeated Google searches and puzzling together text
+  # pieces from Google search result snippets.
+
+  > [Profile photo for Hartmut Teuber]
+  > Hartmut Teuber
+  > M.A. in Linguistics, Brandeis University (Graduated 1985) · Author has 894
+  > answers and 207.6K answer views · 1y
+  >
+  > > What is the process for transcribing sign language into written words
+  > > for a deaf person?
+  >
+  > One can do that, but only crudely. That is using English (or other
+  > languages) words that are used to "label" individual signs. This is what is
+  > known as "glossing". They often do not include morphological alterations on
+  > signs in the transcription. They are often written in caps. A Deaf person
+  > fluent in ASL will reproduce signs from the glosses and add appropriate
+  > inflectional forms not represented in the glosses based on his knowledge of
+  > the "grammar" of ASL. At a more advanced level, researchers will suffix the
+  > them with appropriate pronouns and/or adverbs. For example, a sign with a
+  > directional movement, like GIVE, showing two persons involved, such as from
+  > 'him' to 'her', can be written with GIVE-him to her, or genderless from
+  > "index 1" to "index 2", in short "ix1" and "ix2″. Of course, ix1 and ix2
+  > are pronominal. The predicate with GIVE can be written GIVE-ix1 to ix2. If
+  > an adverb is used on the sign GIVE, like "hesitantly". Altogether, the
+  > transcription of this predicate will look like GIVE-hesitantly-ix1-ix2.
+  > Glossing with pronouns and adverbs is not the only way to write, but it is
+  > more common. There are several different notation systems, using letters
+  > and numerals or own graphic symbols, like used by W.C. Stokoe (Dictionary
+  > of ASL) or Valerie Sutton (SignWriting). In other countries, they have
+  > their own notation systems. Myself have created a different system, using
+  > letters, numerals, and diacritics, called SignLettering.
+  >
+  > Upvote ·. 91.
+  ----------------------------------------------------------------------
 * TODO Table column alignment
   `./index.pl` should right align numbers, left align longer text, center
   shorter text.
@@ -166,6 +305,10 @@
     German Wikipedia]])
 * TODO Add missing [Corazza 1985] reference!
   Is referenced in '1980: Corazza Notation'.
+* TODO Cleanup 'Parent:' field
+  The notations that have a comment along the lines of "Derived from the
+  Berkeley group" ... "according to Miller (2001)" should have this comment
+  incorporated into the 'Parent:' field.
 * TODO Add stuff from German Wikipedia
   From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription
@@ -218,15 +361,6 @@
      Convention of American Instructors of the Deaf and Dumb Washington D.C.:
      Hartford: Brown & Parsons.
      http://archive.org/details/americanannalsof1921amer FIXME
-** TODO Add SignLettering
-   "A phonetic/phonemic system called **SignLettering** (Teuber et al. 1980)
-   was created by educator **Hartmut Teuber** (USA)."
-
-   Author=Teuber, Hartmut; Battison, Robbin; Lane, Harlan; Heck, Joe; Stungis, Jim |
-   URL=https://www-jstor-org.wikipedialibrary.idm.oclc.org/stable/26203583?searchText=A+COMPUTERIZED+LEXICON+OF+AMERICAN+SIGN+LANGUAGE+THE+DASL+1965+IN+FORTRAN&searchUri=%2Faction%2FdoBasicSearch%3FQuery%3DA%2BCOMPUTERIZED%2BLEXICON%2BOF%2BAMERICAN%2BSIGN%2BLANGUAGE%253A%2BTHE%2BDASL%2B1965%2BIN%2BFORTRAN%26so%3Drel&ab_segments=0%2Fbasic_search_gsv2%2Fcontrol&refreqid=fastly-default%3A0a8d940d18ee2e90b91b23c64269bdec&seq=21 |
-   Title=A Computerized Lexicon of American Sign Language: The DASL 1965 in FORTRAN |
-   Published in=Sign Language Studies, No. 29 (Winter 1980) |
-   Pages=349--369 (21 pages) - p.21 |Accessed=2024-07-07 FIXME
 ** TODO Add Intersys
    "In the German-speaking world, systems like **Intersys** (intermediary
    system, one symbol = one pictogram) ([Bentele 2002: 76--90][Bentele 2002],
