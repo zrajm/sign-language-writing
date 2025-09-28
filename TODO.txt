@@ -157,7 +157,12 @@
   > writing system after determining the phonemics of a particular sign
   > language.
   >
-  > Right now, signers would resort to use English word...
+  > Right now, signers would resort to use English words as glosses or labels
+  > to identify signs. This method is HIGHLY crude. This method often does not
+  > transcribe the many, many meaningful inflections in signs. Many glosses are
+  > ambiguous and can refer to two or more signs.
+  >
+  > ...?
   >
   > Upvote ·. 9
   ----------------------------------------------------------------------
