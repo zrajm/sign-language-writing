@@ -240,6 +240,10 @@
   >
   > Upvote ·. 91.
   ----------------------------------------------------------------------
+** DONE Add link ASLSJ site
+   CLOSED: [2025-09-28 Sun 17:10]
+   Stone, Thomas. (2009). *American Sign Language -- Sign Jotting.*
+     http://aslsj.com/
 * TODO Table column alignment
   `./index.pl` should right align numbers, left align longer text, center
   shorter text.
@@ -404,9 +408,6 @@ Perlmutter, David M. (1992). "Sonority and Syllable Structure in American Sign
 
 Rosenberg, Amy. (1999). *Amy Rosenberg Thesis University Kansas.*
   http://www.signwriting.org/forums/research/rese010.html
-
-Stone, Thomas. (2009). *American Sign Language -- Sign Jotting.*
-  http://aslsj.com/
 
 Sutton, Valerie. (2004). *DanceWriting: Read and Write Dance.*
   http://www.dancewriting.org/
