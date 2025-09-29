@@ -232,8 +232,9 @@ my %macro = (
     },
     creator => sub {
         local $_ = join '; ', map {
+            s#\Q(?)#?#g;
             s#\h*\(.*?\)##g;
-            s#,.*##;
+            s#,[^?]*(\??).*# $1 ? '?' : '' #e;
             $_;
         } split(/;\h*/, shift);
         s#;.*;.*# et al.#;

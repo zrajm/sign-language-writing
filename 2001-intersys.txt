@@ -1,0 +1,42 @@
+Year: 2001?
+Title: InterSys
+Latin: ?
+Language: DGS(?)
+Country: Germany(?)
+Creator: Baier, Thomas-Gert(?)
+Source: [Baier 2001]?, [Bentele 2002]?
+Graphemes: ?
+Parent: ?
+
+<div class=note>So far, I have not been able get hold of the text of the
+primary sources for this system, so this information is incomplete.</div>
+
+A few references to InterSys can be found on the internet (though not many in
+the English-speaking corners thereof). The system is mentioned on German
+Wikipedia, and [Gamal & Roth 2021].
+
+> Im deutschsprachigen Raum wurden auch noch die Systeme Intersys
+> (Intermediärsystem, ein Zeichen = ein Piktem)^[18][19]^ und SOSO (Sign
+> Orientated [sic] Semantic Orthography)^[20]^ entwickelt. ([German Wikipedia:
+> "Gebärdenschrift"](https://de.wikipedia.org/wiki/Gebärdenschrift), accessed
+> 29 September 2025)
+
+In ChatGPT's translation:
+
+> In German-speaking countries, the systems Intersys (intermediate system, one
+> sign = one pictogram)^[18][19]^ and SOSO (Sign-Oriented Semantic Orthography)
+> ^[20]^ were also developed.
+
+The above source references correspond to:
+
+<div class=hanging>
+
+^[18]^ Bentele ([2002][Bentele 2002]): 76--90
+
+^[19]^ Baier ([2001][Baier 2001])
+
+^[20]^ Bentele ([2002][Bentele 2002]): 91--102
+
+</div>
+
+<!--[eof]-->

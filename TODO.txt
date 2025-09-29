@@ -240,10 +240,16 @@
   >
   > Upvote ·. 91.
   ----------------------------------------------------------------------
-** DONE Add link ASLSJ site
-   CLOSED: [2025-09-28 Sun 17:10]
-   Stone, Thomas. (2009). *American Sign Language -- Sign Jotting.*
-     http://aslsj.com/
+* DONE Add link ASLSJ site
+  CLOSED: [2025-09-28 Sun 17:10]
+  Stone, Thomas. (2009). *American Sign Language -- Sign Jotting.*
+    http://aslsj.com/
+* DONE Add InterSys (from German Wikipedia: "Gebärdenschrift")
+  CLOSED: [2025-09-29 Mon 03:59]
+* TODO Get/verify reference Bentele (2002)
+  Is this reference really a Master's thesis? This page (which does not give
+  the title), but only lists Bentele (2002) and the Hamburg University seem to
+  indicate that this is the case:  https://slls.eu/theses/
 * TODO Table column alignment
   `./index.pl` should right align numbers, left align longer text, center
   shorter text.
@@ -318,7 +324,7 @@
   The notations that have a comment along the lines of "Derived from the
   Berkeley group" ... "according to Miller (2001)" should have this comment
   incorporated into the 'Parent:' field.
-* TODO Add stuff from German Wikipedia
+* [0/4] Add stuff from German Wikipedia
   From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription
    A system is considered a script or functional writing system if it is
@@ -370,21 +376,6 @@
      Convention of American Instructors of the Deaf and Dumb Washington D.C.:
      Hartford: Brown & Parsons.
      http://archive.org/details/americanannalsof1921amer FIXME
-** TODO Add Intersys
-   "In the German-speaking world, systems like **Intersys** (intermediary
-   system, one symbol = one pictogram) ([Bentele 2002: 76--90][Bentele 2002],
-   [Baier 2001: 430--440][Baier 2001]) [...] have also been developed."
-
-   [Baier 2001]: #baier-2001
-   [#baier-2001] Baier, Thomas-Gert. (2001). InterSys: Eine Gebrauchsschrift
-     für Gebärdensprachen [InterSys: A Functional Writing System for Sign
-     Languages] (in German). *Das Zeichen* 15*(57), 430--440. Hamburg: Signum
-     Verlag.
-
-   [Bentele 2002]: #bentele-2002
-   [#bentele-2002] Bentele, Susanne. (2002). Zu Leistungen und Grenzen von
-     Gebärdenschriftsystemen [On the Capabilities and Limits of Sign Language
-     Writing Systems] (in German). Hamburg.
 ** TODO Add SOSO
    "In the German-speaking world, systems like [...] **SOSO** (Sign Oriented
    Semantic Orthography) ([Bentele 2002: 91--102][Bentele 2002]) have also been
@@ -429,6 +420,50 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
 * TODO Find Suttons reference (from Hopkins 2008)
   On the SignWriting online forum, Sutton mentions 50–100 different systems. See
   http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0503A&L=SW-L&P=R12135&D=1&H=0&I=-3&O=T&T=1 (accessed 8 January 2007)
+* [0/9] Add La Mont West's references? (*Sign Language,* p. 85)
+  4.2.3 The writer [i.e. La Mont West] has encountered several references to
+  systems of notation devised by one or another student of gesture. Most of
+  these have been unavailable for examination and will be simply listed here as
+  cited by various authors:
+** TODO 1943: R.A.S. Paget
+   R.A.S. Paget, *Nature* 151: 80, Jan 16, 1943: Eric Gill, a sculptor and
+   scholar of scripts, was attempting to develop a script for the sign language
+   during the late 1930's, but died before completion.
+** TODO 1893: Louis F. Hadley
+   Louis F. Hadley, 1893: Hadley claimed that he had a "letter-like" notation
+   system for signs that consumed no more space than verbal language
+   transcription, but was not yet perfect enough for publication. No examples
+   of this have so far been discovered, and Hadley's dictionaries of American
+   Indian Signs effect the descriptions by line drawings end very brief
+   rhetorical hints.
+** TODO 1940: Lifar, Serge
+   Lifar, Serge *Annotation of Movement Kinetography*, 1940, Moscow, Art
+   Publishing House.
+** TODO 1909: Reuschert, E.
+   *Die Gebärdensprache der Taubstummen und die Ausdrucksbewegungen der
+   Vollsinnigen*, 1909, Leipzig, H. Dude. Reuschert devised a written form of
+   deaf-mute sign language, baaed on the signs used at Berlin and Vienna
+   deaf-mute institutions.
+** TODO 1886: Ross
+   Ross "Notations of Gesture" in *Voice, Culture end Elocution*, 1886, N. Y.,
+   Baker and Taylor Co.: Pgs. 18-20: A notation system similar to Gilbert
+   Austin's.
+** TODO 1915: Scott, J. R.
+   Scott, J. R. *Technic of the Speaking Voice* 1915, Columbia, Missouri: A
+   code of gesture notation essentially the same as Austin's, though not a
+   duplicate of it.
+** TODO 1893: Starr, R.
+   Starr, R. "Sign Language in Print" *Science*: 21: 286, May 26, 1893.
+** TODO 1868: Frobisher, J. E.
+   Frobisher, J. E. *Voice and Action*, 1868, N. Y. Ivison, Phinney, Blakeman &
+   Co.: A very rudimentary and partial notation system - actually abbreviations
+   of full terms.
+** TODO 1930: Laban, Rudolph von
+   Laban, Rudolph von *Script Dancing, La Dance Écrite*, Part I, 1930, Wien
+   Universal Edition: 14: "Pantomimic actions can be written outn. Laban's
+   choreographic dance notation covers some gestures, but is not primarily
+   designed for notation of hand movements and so these are more awkwardly
+   handled in the system than foot and body actions.
 * TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system
