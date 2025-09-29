@@ -4,7 +4,7 @@ Latin: ●
 Language: ASL
 Country: United States
 Creator: Stone, Thomas (hearing)
-Source: ?
+Source: [Stone 2009]
 Graphemes: ?
 
 <figure>
@@ -14,8 +14,5 @@ Graphemes: ?
   webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#ASLSJ)
 </figcaption>
 </figure>
-
-* [http\://aslsj.com/](https://web.archive.org/web/20210107090727/http\://www.aslsj.com/)
-  (archived January 2021)
 
 <!--[eof]-->
