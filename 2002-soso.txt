@@ -1,18 +1,18 @@
-Year: 2001?
-Title: InterSys
+Year: 2002?
+Title: SOSO (Sign Oriented Semantic Orthography)
 Latin: ?
 Language: DGS(?)
 Country: Germany(?)
-Creator: Baier, Thomas-Gert(?)
-Source: [Baier 2001]?, [Bentele 2002a]?
+Creator: Bentele, Susanne(?)
+Source: [Bentele 2002a]?
 Graphemes: ?
 Parent: ?
 
 <div class=note>So far, I have not been able get hold of the text of the
 primary sources for this system, so this information is incomplete.</div>
 
-A few references to InterSys can be found on the internet (though not many in
-the English-speaking corners thereof). The system is mentioned in Gamal & Roth
+A few references to SOSO can be found on the internet (though not many in the
+English-speaking corners thereof). The system is mentioned in Gamal & Roth
 ([2021][Gamal & Roth 2021]), in an email written by Bentele to the *SignWriting
 Discussion list* ([2002b][Bentele 2002b]), and finally the following paragraph
 on German Wikipedia:

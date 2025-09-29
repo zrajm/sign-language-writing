@@ -246,6 +246,8 @@
     http://aslsj.com/
 * DONE Add InterSys (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 03:59]
+* DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
+  CLOSED: [2025-09-29 Mon 04:42]
 * TODO Get/verify reference Bentele (2002)
   Is this reference really a Master's thesis? This page (which does not give
   the title), but only lists Bentele (2002) and the Hamburg University seem to
@@ -324,7 +326,7 @@
   The notations that have a comment along the lines of "Derived from the
   Berkeley group" ... "according to Miller (2001)" should have this comment
   incorporated into the 'Parent:' field.
-* [0/4] Add stuff from German Wikipedia
+* [0/3] Add stuff from German Wikipedia
   From: https://de.wikipedia.org/wiki/Gebärdenschrift
 ** TODO Difference between writing and notation/transcription
    A system is considered a script or functional writing system if it is
@@ -376,15 +378,6 @@
      Convention of American Instructors of the Deaf and Dumb Washington D.C.:
      Hartford: Brown & Parsons.
      http://archive.org/details/americanannalsof1921amer FIXME
-** TODO Add SOSO
-   "In the German-speaking world, systems like [...] **SOSO** (Sign Oriented
-   Semantic Orthography) ([Bentele 2002: 91--102][Bentele 2002]) have also been
-   developed."
-
-   [Bentele 2002]: #bentele-2002
-   [#bentele-2002] Bentele, Susanne. (2002). Zu Leistungen und Grenzen von
-     Gebärdenschriftsystemen [On the Capabilities and Limits of Sign Language
-     Writing Systems] (in German). Hamburg.
 ** x
 <div class=hanging>
 
@@ -420,6 +413,9 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
 * TODO Find Suttons reference (from Hopkins 2008)
   On the SignWriting online forum, Sutton mentions 50–100 different systems. See
   http://listserv.linguistlist.org/cgi-bin/wa?A2=ind0503A&L=SW-L&P=R12135&D=1&H=0&I=-3&O=T&T=1 (accessed 8 January 2007)
+
+  Found this reference that work (2025-09-29).
+  https://listserv.linguistlist.org/pipermail/sw-l/2002-July/032260.html
 * [0/9] Add La Mont West's references? (*Sign Language,* p. 85)
   4.2.3 The writer [i.e. La Mont West] has encountered several references to
   systems of notation devised by one or another student of gesture. Most of
