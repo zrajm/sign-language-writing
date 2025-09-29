@@ -4,7 +4,7 @@ Latin: ◔
 Language: ASL
 Country: United States
 Creator: Grushkin, Donald A. (deaf)
-Source: ?
+Source: [Grushkin 2005]?
 Graphemes: 130
 
 <figure>
@@ -26,14 +26,5 @@ marks the creation of SignScript.
 | Language | Developed for ASL. It uses a unique set of symbols to represent handshape, orientation, location, movement, and non-manual morphemes. It is an alphabetic-based system with a limited number of characters, arranged horizontally like English. It has 130 characters
 
 </figure>
-
-<div class=hanging>
-
-[Grushkin 2005]: #grushkin-2005
-[#grushkin-2005] Grushkin, Donald A. (2005, February 19). "SignScript:
-  Implications for ASL Instruction and Deaf Education". Orlando, FL: Florida
-  ASL Teacher's Association Convention.
-
-</div>
 
 <!--[eof]-->
