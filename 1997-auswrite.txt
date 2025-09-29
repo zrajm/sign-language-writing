@@ -7,18 +7,30 @@ Creator: David Rose
 Source: [Bergermann 2001]?, [Stiedl 2011]
 Graphemes: ?
 
-<div class=note>Not to be confused with [AusWrit].</div>
+<div class=note>Not to be confused with [AusWrit]. So far, I have not been able
+get hold of the text of the primary sources for this system, so this
+information is incomplete.</div>
 
-> David Rose followed in 1997 with "AusWrite" (Auslan Writing System) for
-> *Australian Sign Language*. ([German Wikipedia: Geschichte der Gebärdensprachen])
+> 1983 bzw. 1990 veröffentlichte Paul Jouison das „D'Sign" als Notationssystem
+> für die französische Gebärdensprache. David Rose zog 1997 mit „AusWrite"
+> (Auslan Writing System) für die australische Gebärdensprache nach. ([German
+> Wikipedia: "Geschichte der
+> Gebärdensprachen"](https://de.wikipedia.org/wiki/Geschichte_der_Gebärdensprachen),
+> accessed 29 September 2025)
+
+In ChatGPT's translation:
+
+> In 1983 and 1990, Paul Jouison published D'Sign as a notation system for
+> French Sign Language. In 1997, David Rose followed with AusWrite (Auslan
+> Writing System) for Australian Sign Language.
+
+Stiedl also mentions the system:
 
 > As a French example, the unfinished project "D'Sign" by Paul Jouison (cf.
-> Konrad 1992 / Bergermann 2001) may be mentioned here; as an Australian
+> Konrad 1992 / [Bergermann 2001]) may be mentioned here; as an Australian
 > example, the project "AusWrite Auslan Writing System" by David Rose (cf.
-> Bergermann 2001); and as an American example, "SignFont" by Newkirk et al.
+> [Bergermann 2001]); and as an American example, "SignFont" by Newkirk et al.
 > (cf. ibid), none of which will be discussed in greater detail in the context
-> of this work. ([Stiedl 2011])
-
-[German Wikipedia: Geschichte der Gebärdensprachen]: https://de.wikipedia.org/wiki/Geschichte_der_Gebärdensprachen
+> of this work. ([Stiedl 2011]: 90, translated with ChatGPT)
 
 <!--[eof]-->
