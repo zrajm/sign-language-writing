@@ -3,7 +3,7 @@ Title: ASCII-Stokoe Notation
 Latin: ● (uses only ASCII characters)
 Language: ASL
 Country: United States
-Creator: Mandel, Mark A. (hearing)
+Creator: Mandel, Mark Alan (hearing)
 Source: [Mandel 1993], [Renard 2004]: 166, [Miller 2001]
 Graphemes: ?
 
