@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1997 ([Barros 1997] published)
 Title: ELiS (Escrita das Línguas de Sinais)
 Latin: ◔ (no Latin characters)

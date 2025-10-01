@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1980
 Title: Corazza Notation
 Latin: ◕ (mostly alphabetical, some funny diacritics)

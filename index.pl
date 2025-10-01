@@ -13,8 +13,8 @@ use charnames qw(:full :short);  # unneeded in v5.16
 use File::Spec;
 
 our $AUTHOR='zrajm <zrajm@zrajm.org>';
-our $VERSION='0.0.4';                          # https://semver.org/
-our $VERSION_DATE='19 September 2025';
+our $VERSION='0.0.5';                          # https://semver.org/
+our $VERSION_DATE='1 October 2025';
 our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
@@ -188,8 +188,10 @@ sub generate_body {
         for ($body) {
             # Strip trailing '<--[eof]-->' any trailing 'pdf/*' lines.
             s{ ^ \n* (.*?) \n\n }{
-                (my $a = $1) =~ s#^(\w+):#\n**$1:**#gm;
-                "<details class=\"hanging summary\"><summary>\n$a\n\n</summary></details>\n\n";
+                local $_ = $1;
+                s#^:.*\n##gm;           # 'comments' (=header without name)
+                s#^(\w+):#\n**$1:**#gm; # boldify header names
+                "<details class=\"hanging summary\"><summary>\n$_\n\n</summary></details>\n\n";
             }sex;
             # Strip trailing '<--[eof]-->' any trailing 'pdf/*' lines.
             s#\n*\Q<!--[eof]-->\E\n*((?:pdf/.*)\n+)*\z##;

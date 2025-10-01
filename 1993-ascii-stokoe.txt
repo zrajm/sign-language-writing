@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1993 ([Mandel 1993] published)
 Title: ASCII-Stokoe Notation
 Latin: ● (uses only ASCII characters)

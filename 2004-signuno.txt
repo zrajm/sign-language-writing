@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2004? (Found in earliest archived version of [La vortaro de Signuno 2004] on archive.org)
 Title: Signuno Notation
 Latin: ● (only ASCII characters)

@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: --
 Title: Gloss
 Latin: ● (only Latin characters)

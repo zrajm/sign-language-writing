@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2009
 Title: SEL (Sistema de Escrita de Língua de Sinais)
 Latin: ?

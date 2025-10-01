@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1985
 Title: Kyle & Woll Notation
 Latin: ?

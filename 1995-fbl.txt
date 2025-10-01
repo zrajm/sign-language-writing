@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1995?
 Title: FBL Notation (Ferreira-Brito-Langevin Notation, Notação de Ferreira-Brito-Langevin)
 Latin: ●?

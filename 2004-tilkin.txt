@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2004 ([Bergeron 2004] published, originally created 2002)
 Title: Tilkin Notation
 Latin: ● (only Latin characters)

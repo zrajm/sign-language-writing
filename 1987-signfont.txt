@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1987
 Title: SignFont
 Latin: ◔

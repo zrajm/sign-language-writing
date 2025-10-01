@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: ?
 Title: Hand Talk Pictographs
 Latin: ○ (no Latin characters)

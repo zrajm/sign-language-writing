@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2013
 Title: ASL Font
 Latin: ◔ (no Latin characters)

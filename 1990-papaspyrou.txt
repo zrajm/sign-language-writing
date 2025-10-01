@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1990
 Title: Papaspyrou Notation
 Latin: ?

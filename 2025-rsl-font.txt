@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2025 ([Boyko 2025] published)
 Title: RSL Font (Шрифт РЖЯ)
 Latin: ◔ (no Latin characters)

@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1997
 Title: ASL Orthography
 Latin: ● (uses only ASCII characters)

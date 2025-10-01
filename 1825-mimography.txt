@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1825
 Title: Mimography (original French: Mimographie, Portugese: Mimografia)
 Latin: ○ (no Latin characters)

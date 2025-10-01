@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1960 ([West 1960] published)
 Title: Kinemics (West Notation)
 Latin: ◑

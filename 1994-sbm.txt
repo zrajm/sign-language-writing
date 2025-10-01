@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1994
 Title: SBM Notation (Boyer-Haouam Signography; Signographie Boyer-Haouam)
 Latin: ?

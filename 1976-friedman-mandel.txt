@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1976
 Title: Friedman--Mandel Notation (?)
 Latin: ?

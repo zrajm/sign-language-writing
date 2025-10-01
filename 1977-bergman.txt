@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1977 ([Bergman 1977] published)
 Title: Bergman Notation
 Latin: ◑ (alphabetical symbols for handshapes, many novel symbols & diacritics)

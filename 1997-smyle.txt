@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1997
 Title: SMYLE (Signographie Manuscrite YaelLE)
 Latin: ?

@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1984?
 Title: HamNoSys (Hamburg Notation System)
 Latin: ◔

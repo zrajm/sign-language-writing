@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1992?
 Title: ASL-phabet
 Latin: ◔ (no Latin characters)

@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1998?
 Title: Dimskis Notation
 Latin: ◔ (two Cyrillic letters, otherwise custom symbols)

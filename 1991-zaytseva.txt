@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1991?
 Title: Zaytseva notation
 Latin: ◕ (Cyrillic and Latin with arrows and some quirky symbols)

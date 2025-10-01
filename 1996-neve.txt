@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 1996
 Title: Nève Notation (or *Gesteme Notation,* *Notation des Gestèmes*)
 Latin: ◕

@@ -1,3 +1,4 @@
+: -*- web -*-
 Year: 2001?
 Title: InterSys
 Latin: ?
