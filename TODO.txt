@@ -463,6 +463,30 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
 * TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system
+* TODO References to add?
+  In Erika Hoffmann-Dilloway's "Feeling what we write, writing what we feel:
+  Written sign language literacy and intersomaticity in a German classroom"
+  [https://listserv.linguistlist.org/pipermail/sw-l/attachments/20200826/26585951/attachment.pdf]
+
+  > SignWriting is only one of a range of written sign language literacy and/or
+  > notation systems created over the years, including but not limited to Stokoe
+  > Notation, Hamnosys, Si5s, and ASLWrite (see Czubek 2006; Kato 2008; Snoddon
+  > 2010; and van der Hulst and Channon 2010 for discussions and comparisons of
+  > such systems, as well as for discussions of sign language literacies not
+  > dependent on writing).
+
+  Czubek, Todd. 2006. Blue Listerine, Parochialism, and ASL Literacy. *Journal
+    of Deaf Studies and Deaf Education* 11(3): 373--381.
+
+  Kato, Mihoko. 2008. "A study of notation and sign writing systems for the
+    deaf". *Intercultural Communication Studies* 17(4): 97--114.
+
+  Snoddon, Kristin. 2010. "Technology as a learning tool for ASL literacy".
+    *Sign Language Studies, 10*(2), 197--213.
+
+  van der Hulst, Harry and Rachel Channon. 2010. "Notation systems". In
+    Brentari (Ed.), *Sign Languages.* Cambridge University Press, Cambridge,
+    pp. 151--172.
 * [0/7] Articles/texts to fetch
 ** TODO Find Schermer (1990) dissertation
    (referenced in `1990-schermer.txt`)
