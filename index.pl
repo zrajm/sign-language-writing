@@ -19,7 +19,7 @@ our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
 Usage: $PROGRAM [OPTION]
-Build Markdown scented HTML 'index.html' from part-sources.
+Rebuild Markdown-scented HTML file 'index.html' from part-sources.
 
 Will replace everything between HTML comments '<!--START-TABLE-->' and
 '<!--END-TABLE-->' with a generated markdown table, and everything between
