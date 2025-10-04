@@ -1,19 +1,38 @@
 : -*- web -*-
 Year: 2009
 Title: ASLSJ (ASL Sign Jotting)
-Latin: ●
+Latin: ● (only Latin characters)
 Language: ASL
 Country: United States
 Creator: Stone, Thomas (hearing)
 Source: [Stone 2009]
-Graphemes: ?
+Graphemes: 44?
 
-<figure>
-  ![](pic/aslsj.png)
-<figcaption>
-  Picture from [*Symbol Font for ASL*
-  webpage](https\://aslfont.github.io/Symbol-Font-For-ASL/ways-to-write.html#ASLSJ)
-</figcaption>
-</figure>
+ASLSJ (SJ for "sign jotting") is a personal writing system designed by Thomas
+Stone to transcribe ASL stories into a plain text. It uses the following 44
+Latin characters:
+
+```
+A B C D E       J K L M     P   R S   U   W   Y
+    c     f h i j   l m n o p q r   t u v   x y z
+2 3 4 ) - < > \ ^ ~
+```
+
+Each sign is written as one or two words (depending on the number of hands) in
+the order: Handshape, (non-dominant handshape), (location), (palm orientation),
+(touch or distance), movement, ending handshape or palm orientation,
+(repetition), finger spelling, non-manual signals & movement speed. Longer
+texts combine the ASLSJ with the usual punctuation marks, and fingerspelling is
+usually indicated with a leading pound sign (**#**).
+
+For example: **rf4CiUqDz** *food* (**rf4** O-handshape [non-dominant hand not
+used], **C** chin height, **iU** palm oriented towards body, **qD** move hand
+onto body [mouth], **z** repeat action [come back and move again])
+
+On the original ASLSJ website ([Stone 2009]) there are several longer texts
+written with the system, as well as an ASL dictionary. Since 2019 Thomas Stone
+has also written about ASLSJ on medium.com, though these posts mostly to seem
+feature a version of ASLSJ where the alphabetic characters have been replaced
+with iconic hand-drawn glyphs ([Stone 2019]).
 
 <!--[eof]-->

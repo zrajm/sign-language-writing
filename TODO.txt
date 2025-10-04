@@ -264,8 +264,20 @@
   Grapheme: A whole unit, including all constituent glyphs (this is what you
   would normally think of as one character).
 * TODO Add Gestuno notation
-  https://dedalvs.com/slipa.html
-  'Glossing System for International Gesture (Gestuno):'
+  Described like this by Peterson (https://dedalvs.com/slipa.html):
+
+  > IIE: Glossing System for International Gesture (Gestuno):
+  >
+  > Upon googling Gestuno, the international sign language developed by the
+  > World Federation for the Deaf (WFD) in 1973, I came upon a site that had a
+  > dictionary of Gestuno signs. Rather than having video clips and images,
+  > though, the author, David Bar-Tzur, created his own transcription system
+  > that bears a striking resemblance to SLIPA! Take a look at the dictionary
+  > itself here, and the explanation of the glossing system here. I had no
+  > knowledge of this system until after this page was essentially done. Upon
+  > e-mailing the author, I learned only that he and another had created the
+  > system. There's no further explanation on the web as to how exactly to use
+  > it, it seems.
 * TODO Add PDF of Dimskis' book
 * TODO Find better author info for Signuno notation
   The original Signuno pages do not contain any author info. There's a contact
@@ -525,6 +537,9 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
      Gebärdensprachen* [A Picture of a Language: Concepts of Image and Writing
      and the Hamburg Notation System for Sign Languages]. München: Wilhelm Fink
      Verlag. ISBN 978-3-7705-3598-9.
+* TODO Link to video using si5s(?)
+  "Tzasang: The spoken sign language [HOW??] | Cursed Conlang Circus 4 / CCC4 #ccc4"
+  https://www.youtube.com/watch?v=eIKYp6_uRkM
 * TODO Citation plugin
   Source references like "Farnell (1995)", "(Farnell 1995)", "Farnell (1995:
   34)" and "Farnell (1995: 34--64)" should automatically turn into links.
