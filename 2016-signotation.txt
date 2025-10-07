@@ -5,23 +5,35 @@ Latin: ?
 Language: ASL
 Country: United States
 Creator: Hansen, Shelly (hearing)
-Source: [Hansen 2016], [Hansen 2017]
+Source: [Hansen 2016], [Hansen 2017a]
 Graphemes: ?
 
-Signotation is similar to musical notation, and is written on a staff, with
-simultaneous components written vertically on the staff, and consecutive parts
-written from right to left.
+<figure class="signotation">
+  ![](pic/hansen-2017a-p127.png)
+  "MY NAME IS DAVE."
+  <figcaption>[Hansen 2017a]: 127</figcaption>
+</figure>
 
-Hansen is a certified ASL interpreter. She has produced published a blog, a
-series of Youtube videos and written two books on her system: *Signotation: The
-Musical Architecture of Signed Languages* ([Hansen 2016]) and *Signotation: ASL
-Writer's Guide* ([Hansen 2017]). (Though the relationship between the books is
+<figure class="signotation">
+  ![](pic/hansen-2017a-p128.png)
+  "YOUR MOM, WHERE?"
+  <figcaption>[Hansen 2017a]: 128</figcaption>
+</figure>
+
+Signotation is looks somewhat akin to musical notation, and is written on a
+staff, with simultaneous components written vertically on the staff, and
+consecutive parts written from left to right.
+
+It was created by Shelly Hansen, a certified ASL interpreter from Seattle. She
+wrote a blog ([Hansen 2016--2017]), created a series of Youtube videos ([Hansen
+2017b]) and published two books abouth the system: *Signotation: The Musical
+Architecture of Signed Languages* ([Hansen 2016]) and *Signotation: ASL
+Writer's Guide* ([Hansen 2017a]).---The relationship between the two books is
 not clear to this author. Is the latter an updated version of the first? Or is
 the first ([Hansen 2016]) a technical description while the latter ([Hansen
-2017]) is an introduction for beginners?)
+2017a]) is an introduction for beginners?
 
-* https://signotation.com/ (blog)
-* https://www.youtube.com/playlist?list=PLRJyX-4nIXo_wnplcEXcFu-om7QgjTe9K
-  ("Write ASL Signotation", Youtube playlist, 26 videos)
+Early on Hansen seemed to favor the spelling "SIGNotation" but later on she
+came to spell it "Signotation".
 
 <!--[eof]-->
