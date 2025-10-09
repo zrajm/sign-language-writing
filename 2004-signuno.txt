@@ -45,6 +45,9 @@ reasonably be considered writing.)
 > language version of Esperanto) and is not meant for use with other sign
 > languages. ([Peterson 2003])
 
+* [https\://signuno.webs.com/](https://web.archive.org/web/20230819144154/https\://signuno.webs.com/)
+  (archived August 2023)
+
 **On "year" above:** The creation year above reflects the date given on the
 oldest archived version of any page making use of Signuno notation, 2004,
 October 8 (see
