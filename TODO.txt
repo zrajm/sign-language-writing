@@ -248,6 +248,9 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
+* TODO Laban--Benesh notation
+  Laban--Benesh notation is mentioned here:
+  https://www.britannica.com/art/dance-notation/Twentieth-century-developments
 * TODO Get/verify reference Bentele (2002)
   Is this reference really a Master's thesis? This page (which does not give
   the title), but only lists Bentele (2002) and the Hamburg University seem to

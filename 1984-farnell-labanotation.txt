@@ -1,0 +1,53 @@
+: -*- web -*-
+Year: 1984 ([Farnell 1984a] published)
+Title: Farnell Labanotation
+Latin: ○ (non-alphabetical)
+Language: PST, ASL
+Country: United States
+Creator: Farnell, Brenda (hearing)
+Source: [Farnell 1984a] (?), [Farnell 1995], [Renard 2004]: 168
+Graphemes: ?
+
+<figure class=farnell>
+ <style>.farnell {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+   gap: 8px;
+   & img { display: inline; margin: 4px; vertical-align: middle }
+ }</style>
+ <div>![](pic/farnell-1995-p252-a1.png)![](pic/farnell-1995-p252-a2.png)</div>
+ <div>![](pic/farnell-1995-p252-b1.png)![](pic/farnell-1995-p252-b2.png)</div>
+ <div>![](pic/farnell-1995-p252-c1.png)![](pic/farnell-1995-p252-c2.png)</div>
+ <div>![](pic/farnell-1995-p252-d1.png)![](pic/farnell-1995-p252-d2.png)</div>
+ <figcaption style="width:100%">
+   ASL signs written in Labanotation ([Farnell 1995]: 252).
+ </figcaption>
+</figure>
+
+Farnell built on the already existing [Labanotation][Wikipedia:
+"Labanotation"], adapting it for sign language transcription in her master's
+thesis ([Farnell 1984a], [Farnell 1984b]). She has continued using it do
+transcribe both ASL and PST ([Farnell 1985], [Farnell 1995]).
+
+The original Labanotation system was created by Rudolf von Laban in the 1920s
+for writing dance movements ([von Laban 1928--1931]). Drid Williams later used
+the system in her anthropological studies of movement and dance (FIXME:
+reference), and she introduced the system to her student, Brenda Farnell.
+
+<div>
+
+**On "year" above:** The year given above indicates when it became possible to
+use Labanotation for writing sign languages, not the year it was originally
+created.
+
+Renard ([2004][Renard 2004]) also lists a notation called *Laban--Benesh
+Labanotation* (1969) -- But I think this notation (like the original
+Labanotation) is meant for choreography, not sign language transcription.
+(FIXME: verify this)
+
+</div>
+
+[Wikipedia: "Labanotation"]: https://en.wikipedia.org/wiki/Labanotation
+
+<!--[eof]-->

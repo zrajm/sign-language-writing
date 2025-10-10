@@ -36,13 +36,13 @@ the symbols directly to the corresponding signs in PST.
 > ([Graber 2018])
 
 > <figure>
->   ![](pic/farnell-1995.png)
-> <figcaption>
+>   ![](pic/farnell-1995-p245.png)
+>  <figcaption>
 >   Figure 7.1. Graphic depictions of Plains Sign Talk by American Indians. Top
->   part of illustration from [Tomkins 1926]:85. Used with permission.
+>   part of illustration from [Tomkins 1926]:85. ([Farnell 1995]: 245)
 > </figcaption>
 > </figure>
->
+
 > Some caution is indeed necessary when dealing with Tomkins' treatment of
 > pictographs. While inscriptions on rock, birch bark, and hides were
 > widespread in indigenous North America and served many communicative and
