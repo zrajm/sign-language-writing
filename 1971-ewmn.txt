@@ -1,0 +1,82 @@
+: -*- web -*-
+Year: 1971 ([Eshkol 1971] published)
+Title: EWMN (Eshkol-Wachman Movement Notation)
+Latin: ◑ (numbers, and text labels for rows, also custom symbols)
+Language: ISL
+Country: United States
+Creator: Eshkol, Noa; Wachman, Avraham
+Source: [Eshkol 1971] (?), [Cohen, Namir & Schlesinger 1977] (?), [Renard 2004]: 168
+Graphemes: ?
+
+<figure class="ewmn2">
+  <style>.ewmn2 {
+    --gap: calc(var(--leading) * .5rem);
+    --small-height: 300px;
+    flex-flow: row wrap;
+    &, & > div {
+      display: flex;
+      gap: var(--gap);
+      justify-content: center;
+    }
+    & img {
+      margin: 0;
+      height: calc(var(--small-height) + var(--small-height) + var(--gap));
+    }
+    & div {
+      flex-flow: column;
+      & img { height: var(--small-height) }
+    }
+  }</style>
+  <div>
+    ![](pic/eshkol-young-2.png?darkmode=no)
+    ![](pic/eshkol-young-3.png?darkmode=no)
+  </div>
+  ![](pic/eshkol-young-1.png?darkmode=no)
+<figcaption style="width:100%">
+    The sign "young" in ISL, written in Eshkol-Wachman Movement Notation.
+    <br>(Picture from https://noaeshkol.org/gallery/hands)
+  </figcaption>
+</figure>
+
+<figure class=ewmn>
+  <style>.ewmn {
+    width: 100%;
+    text-align: center;
+    & img { display: inline; margin: 0 }
+  }</style>
+  ![](pic/eshkol-1971-p001.png)
+  <figcaption>
+    Row labels for sign language. ([Eshkol 1971]: 1)
+    <br>(Picture from https://noaeshkol.org/gallery/hands)
+  </figcaption>
+</figure>
+
+In 1971 Noa Eshkols published "The Hand Book" in which she extends the
+Eshkol--Wachman Movement Notation, so that it can be used write the handshapes
+needed for the transcription of Israeli sing language ([Eshkols 1971]). This
+system would later be used in *A new dictionary of sign language* ([Cohen,
+Namir & Schlesinger 1977]).
+
+Eshkol--Wachman Movement Notation was originally published in 1958 by the dance
+composer Noa Eshkol (נועה אשכול), in collaboration with the architect Avraham
+Wachman (אברהם וכמן). They continued to work together to refine and develop the
+system further for over twenty years.
+
+The system consists of a table of rows (one for each joint one wish to
+transcribe) and columns (indicating the progress of times). Symbols and joint
+angles are written into this table in chronological order from left to right.
+([Eshkol & Wachman 1958]).
+
+The notation was invented to describe body movements, particularly for writing
+down dance scores. The system has also been used in many fields, including
+dance, physical therapy, animal behavior and early autism diagnosis.
+(https://scriptsource.org/scr/Qaah)
+
+> [...], the system is highly complex and if care is not taken such wealth of
+> detail could confuse rather than clarify. ([Brennan 2004]: 26)
+
+* https://noaeshkol.org/about-eshkol-wachman-movement-notation
+* https://noaeshkol.org/gallery/hands
+* [http\://ewmncenter.com/133376/Movement-Notation-1-1-1](https://web.archive.org/web/20131030035325/http\://ewmncenter.com/133376/Movement-Notation-1-1-1) (archived October 2013)
+
+<!--[eof]-->

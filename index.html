@@ -3,7 +3,7 @@
 
 Author: Zrajm
 Created: 2025-08-03T11:49+02:00
-Updated: 2025-10-10T11:30+02:00
+Updated: 2025-10-11T10:39+02:00
 License: CC BY-NC-SA (text), GPLv2 (code).
 Favicon: pic/favicon.svg
 
@@ -33,10 +33,10 @@ Favicon: pic/favicon.svg
 | 1960  | [Kinemics]                       | ◑        | ?            | PST         | 🇺🇸         | West                         | hearing         |
 | 1960  | [Stokoe Notation]                | ◑        | 55           | ASL         | 🇺🇸         | Stokoe                       | hearing         |
 | 1965  | [DASL Notation]                  | ◑        | ?            | ASL         | 🇺🇸         | Stokoe et al.                | hearing & deaf  |
+| 1971  | [EWMN]                           | ◑        | ?            | ISL         | 🇺🇸         | Eshkol; Wachman              | ?               |
 | 1974  | [SignWriting]                    | ○        | >670         | Any         | 🇩🇰? 🇺🇸     | Sutton                       | hearing         |
 | 1976  | [Friedman--Mandel Notation] (?)  | ?        | ?            | ASL?        | 🇺🇸         | Friedman--Mandel?            | ?               |
 | 1977  | [Bergman Notation]               | ◑        | ~140         | STS         | 🇸🇪         | Bergman                      | hearing         |
-| 1977  | [Eshkol-Wachman Notation]        | ?        | ?            | ASL?        | 🇺🇸         | Cohen et al.                 | ?               |
 | 1980  | [Corazza Notation]               | ◕        | ?            | LIS         | 🇮🇹         | Corazza                      | deaf            |
 | 1980  | [IVT Notation]                   | ?        | ?            | LSF         | 🇫🇷         | International Visual Théâtre | ?               |
 | 1980? | [SignLettering]                  | ●?       | ?            | any?        | 🇺🇸         | Teuber                       | deaf            |
@@ -458,6 +458,101 @@ section, while this section should be removed. This section remains here until
 that is verified, however.
 
 
+[EWMN]: #ewmn
+## [#ewmn] 1971: EWMN
+
+<details class="hanging summary"><summary>
+
+**Year:** 1971 ([Eshkol 1971] published)
+
+**Title:** EWMN (Eshkol-Wachman Movement Notation)
+
+**Latin:** ◑ (numbers, and text labels for rows, also custom symbols)
+
+**Language:** ISL
+
+**Country:** United States
+
+**Creator:** Eshkol, Noa; Wachman, Avraham
+
+**Source:** [Eshkol 1971] (?), [Cohen, Namir & Schlesinger 1977] (?), [Renard 2004]: 168
+
+**Graphemes:** ?
+
+</summary></details>
+
+<figure class="ewmn2">
+  <style>.ewmn2 {
+    --gap: calc(var(--leading) * .5rem);
+    --small-height: 300px;
+    flex-flow: row wrap;
+    &, & > div {
+      display: flex;
+      gap: var(--gap);
+      justify-content: center;
+    }
+    & img {
+      margin: 0;
+      height: calc(var(--small-height) + var(--small-height) + var(--gap));
+    }
+    & div {
+      flex-flow: column;
+      & img { height: var(--small-height) }
+    }
+  }</style>
+  <div>
+    ![](pic/eshkol-young-2.png?darkmode=no)
+    ![](pic/eshkol-young-3.png?darkmode=no)
+  </div>
+  ![](pic/eshkol-young-1.png?darkmode=no)
+<figcaption style="width:100%">
+    The sign "young" in ISL, written in Eshkol-Wachman Movement Notation.
+    <br>(Picture from https://noaeshkol.org/gallery/hands)
+  </figcaption>
+</figure>
+
+<figure class=ewmn>
+  <style>.ewmn {
+    width: 100%;
+    text-align: center;
+    & img { display: inline; margin: 0 }
+  }</style>
+  ![](pic/eshkol-1971-p001.png)
+  <figcaption>
+    Row labels for sign language. ([Eshkol 1971]: 1)
+    <br>(Picture from https://noaeshkol.org/gallery/hands)
+  </figcaption>
+</figure>
+
+In 1971 Noa Eshkols published "The Hand Book" in which she extends the
+Eshkol--Wachman Movement Notation, so that it can be used write the handshapes
+needed for the transcription of Israeli sing language ([Eshkols 1971]). This
+system would later be used in *A new dictionary of sign language* ([Cohen,
+Namir & Schlesinger 1977]).
+
+Eshkol--Wachman Movement Notation was originally published in 1958 by the dance
+composer Noa Eshkol (נועה אשכול), in collaboration with the architect Avraham
+Wachman (אברהם וכמן). They continued to work together to refine and develop the
+system further for over twenty years.
+
+The system consists of a table of rows (one for each joint one wish to
+transcribe) and columns (indicating the progress of times). Symbols and joint
+angles are written into this table in chronological order from left to right.
+([Eshkol & Wachman 1958]).
+
+The notation was invented to describe body movements, particularly for writing
+down dance scores. The system has also been used in many fields, including
+dance, physical therapy, animal behavior and early autism diagnosis.
+(https://scriptsource.org/scr/Qaah)
+
+> [...], the system is highly complex and if care is not taken such wealth of
+> detail could confuse rather than clarify. ([Brennan 2004]: 26)
+
+* https://noaeshkol.org/about-eshkol-wachman-movement-notation
+* https://noaeshkol.org/gallery/hands
+* [http\://ewmncenter.com/133376/Movement-Notation-1-1-1](https://web.archive.org/web/20131030035325/http\://ewmncenter.com/133376/Movement-Notation-1-1-1) (archived October 2013)
+
+
 [SignWriting]: #signwriting
 ## [#signwriting] 1974: SignWriting
 
@@ -590,47 +685,6 @@ writing. ([Zrajm 2017]).
 Bergman notation borrows from Stokoe notation, but deviates is many ways, among
 other things it uses Swedish fingerspelling alphabet for the handshape symbols,
 and features a more detailed attitude description ([Bergman 1977]: 90--92).
-
-
-[Eshkol-Wachman Notation]: #eshkol-wachman
-## [#eshkol-wachman] 1977: Eshkol-Wachman Notation
-
-<details class="hanging summary"><summary>
-
-**Year:** 1977
-
-**Title:** Eshkol-Wachman Notation
-
-**Latin:** ?
-
-**Language:** ASL(?)
-
-**Country:** United States
-
-**Creator:** Cohen; Schlesinger; Namir
-
-**Source:** [Renard 2004]: 168
-
-**Graphemes:** ?
-
-</summary></details>
-
-Not derived from Stokoe notation according to Renard ([2004][Renard 2004]).
-
-According to [German Wikipedia:
-"Gebärdenschrift"](https://de.wikipedia.org/wiki/Gebärdenschrift)
-Eshkol-Wachmann created the Eshkol-Wachmann Movement Notation System for
-Israeli Sign Language.
-
-> One system which takes account of both manual and non-manual gesture is the
-> Eshkol-Wachmann Movement Notation System which is used in *A New Dictionary
-> of Sign Language* by Cohen, Namir and Schlesinger. The authors claim that
-> with this system it is possible to provide a faithful reproduction and
-> analysis of any sign and any bodily movement. As the system is primarily
-> kinetic in that it is concerned with the physical properties of signing, it
-> could be used as the basis for developing a linguistic description. However,
-> the system is highly complex and if care is not taken such wealth of detail
-> could confuse rather than clarify. ([Brennan 2004]: 26)
 
 
 [Corazza Notation]: #corazza
@@ -2726,6 +2780,9 @@ system ([Boyko 2025]).
 [DGS]: #dgs
 [#dgs] **DGS**---German Sign Language (*Deutsche Gebärdensprache* in German).
 
+[ISL]: #isl
+[#il] **ISL**---*Israeli Sign Language.*
+
 [JSL]: #jsl
 [#jsl] **JSL**---*Japanese Sign Language* (*nihon shuwa*, or 日本手話 in
   Japanese).
@@ -3032,6 +3089,12 @@ Many thanks to:
   Language][clark-2012]*. Burnsville: ASLwrite. ISBN 978-0-9858768-1-4.
   http://www.aslwrite.com/free/22HWASLebookfree.pdf
 
+[Cohen, Namir & Schlesinger 1977]: #cohen+namir+schlesinger-1977
+[#cohen+namir+schlesinger-1977] Cohen, Enya; Namir, Lila & Schlesinger, I.M.
+  (1977). *A new dictionary of sign language: Employing the Eschkol-Wachmann
+  movement notation system.* De Gruyter Mouton, The Hague. 455 pages.
+  ISBN 9027933340.
+
 [Colorado & Ruíz 2010]: #colorado+ruiz-2010
 [colorado+ruiz-2010]: pdf/colorado+ruiz-2010-la_ensenanza_y_el_aprendizaje_de_la_visagrafia.pdf
 [#colorado+ruiz-2010] Colorado, Lina María Mejía & Ruíz, Sandra Milena Suárez.
@@ -3055,8 +3118,12 @@ Many thanks to:
   язык][dimskis-2002]* [Learning sign language] (in Russian). Moscow: Academia.
   128 pages. ISBN 5-7695-0855-8.
 
+[Eshkol & Wachman 1958]: #eshkol+wachman-1958
+[#eshkol+wachman-1958] Eshkol, Noa & Wachman, Avraham. (1958). *Movement
+  Notation.* Weidenfeld and Nicolson, London.
+
 [Eshkol 1971]: #eshkol-1971
-[#eshkol-1971] Eshkol, Noa. (1971). *The Hand Book: The detailed notation of
+[#eshkol-1971] Eshkol, Noa. (1971). *The hand book: The detailed notation of
   hand and finger movements and forms.* Movement Notation Society, Tel Aviv.
   135 pages.
 

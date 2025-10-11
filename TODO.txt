@@ -251,6 +251,16 @@
 * TODO Laban--Benesh notation
   Laban--Benesh notation is mentioned here:
   https://www.britannica.com/art/dance-notation/Twentieth-century-developments
+* TODO Add comment on Kendon's adaption of Stokoe notation
+  From: https://jashm.press.uillinois.edu/19.2/farnell.html
+
+  Figure 6 shows a script for American Sign Language (ASL) invented by William
+  Stokoe (1960) and adapted for the notation of Australian Aboriginal sign
+  languages by Adam Kendon (1989). La Mont West Jr. (1960) also invented a
+  notation system for Plains Indian sign language.
+
+  Kendon, Adam. (1989). *Sign Languages of Aboriginal Australia.* Cambridge:
+    Cambridge University Press.
 * TODO Get/verify reference Bentele (2002)
   Is this reference really a Master's thesis? This page (which does not give
   the title), but only lists Bentele (2002) and the Hamburg University seem to
