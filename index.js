@@ -20,6 +20,17 @@ function parseHtml(html) {
   return wrapper.childNodes
 }
 
+// Listener for toggling table columns.
+function toggleColumn(evt) {
+  const { currentTarget: form, target: { value: colName, checked } } = evt
+  const $table   = $(form).closest('figure.table-gui').find('table')
+  const colNames = $table.find('th').map(th => th.innerText)
+  const colNum   = colNames.indexOf(colName) + 1
+  if (!colNum) { return }
+  $table.find(`tr > :nth-child(${colNum})`)
+    .forEach(cell => cell.toggleAttribute('hidden', checked))
+}
+
 /*****************************************************************************/
 
 // Complete country list here:
@@ -52,6 +63,8 @@ const flagRegex = RegExp(
   Object.keys({...flags, ...harveyBalls}).join('|'), 'gu')
 
 document.addEventListener("scent:done", () => {
+
+  // Add hover text to Unicode flags and Harvey balls.
   modifyTextNodes(node => {
     let modified = false
     const html = (node.data ?? '').replace(flagRegex, x => {
@@ -63,6 +76,16 @@ document.addEventListener("scent:done", () => {
     })
     if (modified) { node.replaceWith(...parseHtml(html)) }
   })
+
+  // Add column selector for table.
+  $('figure.table-gui').prepend($([
+    `<form><b>Columns:</b>`,
+    ...$('.sign-language-table th').map(th => {
+      const x = th.innerText
+      return `<label><input type=checkbox value="${x}"> ${x}</label>  `
+    })
+  ].join('\n')).on('change', toggleColumn))
+
 })
 
 //[eof]
