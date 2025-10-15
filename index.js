@@ -82,7 +82,7 @@ document.addEventListener("scent:done", () => {
     `<form><b>Columns:</b>`,
     ...$('.sign-language-table th').map(th => {
       const x = th.innerText
-      return `<label><input type=checkbox value="${x}"> ${x}</label>  `
+      return `<label><input type=checkbox value="${x}"> ${x}</label>`
     })
   ].join('\n')).on('change', toggleColumn))
 
