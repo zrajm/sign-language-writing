@@ -3662,17 +3662,11 @@ details.summary {
   border: var(--line-width) solid var(--linefg);
   label { white-space: nowrap; margin-left: .5rem }
 }
-
-input[type="checkbox"] {
-  &, &:before, &:after { all: revert }
-  cursor: pointer
-}
 input[type="checkbox"].sort {
-  &:before, &:after { all: unset }
-  &:after         { content: '(↓)'; letter-spacing: -2px }
-  &:checked:after { content: '(↑)' }
   appearance: none;
-  font-size: inherit;
+  letter-spacing: -2px;
+  &:after         { content: '(↓)' }
+  &:checked:after { content: '(↑)' }
 }
 </style>
 <!--[eof]-->
