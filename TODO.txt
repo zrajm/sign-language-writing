@@ -248,6 +248,11 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
+* [1/3] Make table sortable by columns
+** DONE Toggle columns
+   CLOSED: [2025-10-15 Wed 09:17]
+** TODO Sort columns
+** TODO Cleanup code & CSS
 * TODO Laban--Benesh notation
   Laban--Benesh notation is mentioned here:
   https://www.britannica.com/art/dance-notation/Twentieth-century-developments
@@ -485,7 +490,6 @@ Sutton, Valerie. (2004). *SignWriting: Read, Write Sign Languages.*
    choreographic dance notation covers some gestures, but is not primarily
    designed for notation of hand movements and so these are more awkwardly
    handled in the system than foot and body actions.
-* TODO Make table sortable by columns
 * TODO Table should scroll sideways
 * TODO Add data table with basic info for each writing system
 * TODO References to add?

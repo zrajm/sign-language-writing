@@ -21,14 +21,34 @@ function parseHtml(html) {
 }
 
 // Listener for toggling table columns.
+function sortColumn(evt) {
+  const { currentTarget: form, target: { value: colName, checked } } = evt
+  const $table = $(form).closest('figure.table-gui').find('table') // find table
+  const colNum = $table.find('th').map(th => th.innerText).indexOf(colName) + 1
+  if (!colNum) { return }
+  function xtract(colNum, tr) {
+    return tr
+      .querySelector(`td:nth-child(${colNum})`) // 1st occurrence only
+      .innerText ?? ''
+  }
+  // Uses vars <checked> and <colNum>.
+  function byColumn(tr1, tr2) {
+    let [v1, v2] = [xtract(colNum, tr1), xtract(colNum, tr2)]
+    if (checked) { [v1, v2] = [v2, v1] } // FIXME right order?
+    return v1.localeCompare(v2, 'en', { numeric: true })
+  }
+  const $tbody = $table.find('& > tbody')
+  const $trs   = $tbody.find('& > tr')
+  $tbody.append($trs.sort(byColumn)) // replace with sorted <tr>s
+}
+
 function toggleColumn(evt) {
   const { currentTarget: form, target: { value: colName, checked } } = evt
-  const $table   = $(form).closest('figure.table-gui').find('table')
-  const colNames = $table.find('th').map(th => th.innerText)
-  const colNum   = colNames.indexOf(colName) + 1
+  const $table   = $(form).closest('figure.table-gui').find('table') // find table
+  const colNum = $table.find('th').map(th => th.innerText).indexOf(colName) + 1
   if (!colNum) { return }
   $table.find(`tr > :nth-child(${colNum})`)
-    .forEach(cell => cell.toggleAttribute('hidden', checked))
+    .forEach(cell => cell.toggleAttribute('hidden', !checked))
 }
 
 /*****************************************************************************/
@@ -78,13 +98,18 @@ document.addEventListener("scent:done", () => {
   })
 
   // Add column selector for table.
-  $('figure.table-gui').prepend($([
+  $('figure.table-gui').prepend(
+    $([
     `<form><b>Columns:</b>`,
     ...$('.sign-language-table th').map(th => {
       const x = th.innerText
-      return `<label><input type=checkbox value="${x}"> ${x}</label>`
+      return `<label><input type=checkbox checked class=toggle value="${x}"> ${x}</label>`
+        + ` <input type=checkbox class=sort value="${x}">`
     })
-  ].join('\n')).on('change', toggleColumn))
+    ].join('\n'))
+      .on('change', '.toggle', toggleColumn)
+      .on('change', '.sort',   sortColumn)
+  )
 
 })
 
