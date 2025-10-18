@@ -20,10 +20,11 @@ function parseHtml(html) {
   return wrapper.childNodes
 }
 
-// Listener for toggling table columns.
-function sortColumn(evt) {
-  const { currentTarget: form, target: { value: colName, checked } } = evt
-  const $table = $(form).closest('figure.table-gui').find('table') // find table
+function sortListener({  // listener for resorting table
+  currentTarget: form,
+  target: { value: colName, checked: backward },
+}) {
+  const $table = $(form).closest('figure').find('table')
   const colNum = $table.find('th').map(th => th.innerText).indexOf(colName) + 1
   if (!colNum) { return }
   function xtract(colNum, tr) {
@@ -31,10 +32,10 @@ function sortColumn(evt) {
       .querySelector(`td:nth-child(${colNum})`) // 1st occurrence only
       .innerText ?? ''
   }
-  // Uses vars <checked> and <colNum>.
+  // Uses vars <backward> and <colNum>.
   function byColumn(tr1, tr2) {
     let [v1, v2] = [xtract(colNum, tr1), xtract(colNum, tr2)]
-    if (checked) { [v1, v2] = [v2, v1] } // FIXME right order?
+    if (backward) { [v1, v2] = [v2, v1] } // FIXME right order?
     return v1.localeCompare(v2, 'en', { numeric: true })
   }
   const $tbody = $table.find('& > tbody')
@@ -42,13 +43,15 @@ function sortColumn(evt) {
   $tbody.append($trs.sort(byColumn)) // replace with sorted <tr>s
 }
 
-function toggleColumn(evt) {
-  const { currentTarget: form, target: { value: colName, checked } } = evt
-  const $table   = $(form).closest('figure.table-gui').find('table') // find table
+function toggleListener({  // listener to show/hide table columns
+  currentTarget: form,
+  target: { value: colName, checked: shown },
+}) {
+  const $table = $(form).closest('figure').find('table')
   const colNum = $table.find('th').map(th => th.innerText).indexOf(colName) + 1
   if (!colNum) { return }
   $table.find(`tr > :nth-child(${colNum})`)
-    .forEach(cell => cell.toggleAttribute('hidden', !checked))
+    .forEach(cell => cell.toggleAttribute('hidden', !shown))
 }
 
 /*****************************************************************************/
@@ -107,9 +110,8 @@ document.addEventListener("scent:done", () => {
         + ` <input type=checkbox class=sort value="${x}">`
     })
     ].join('\n'))
-      .on('change', '.toggle', toggleColumn)
-      .on('change', '.sort',   sortColumn)
-  )
+      .on('change', '.toggle', toggleListener)
+      .on('change', '.sort',   sortListener))
 
 })
 

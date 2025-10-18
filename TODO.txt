@@ -248,12 +248,21 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
-* [2/3] Make table sortable by columns
+* [3/7] Make table sortable by columns
 ** DONE Toggle columns
    CLOSED: [2025-10-15 Wed 09:17]
 ** DONE Sort columns
    CLOSED: [2025-10-17 Fri 13:38]
-** TODO Cleanup code & CSS
+** DONE Cleanup & refactor code
+   CLOSED: [2025-10-18 Sat 02:26]
+** TODO Add sort caching (for looking up table cell values)
+** TODO Fix Harvey balls sort order
+** TODO Sorting countries should use country names
+   The table cell value caching should grab `<span title="...">` in these
+   cases. (Maybe it's enough to just sort by `.innerHTML` instead of
+   `.innerText`?)
+** TODO Ignore prefixes when sorting numbers
+   <, > and ~ moar?
 * TODO Laban--Benesh notation
   Laban--Benesh notation is mentioned here:
   https://www.britannica.com/art/dance-notation/Twentieth-century-developments
