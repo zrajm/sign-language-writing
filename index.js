@@ -20,27 +20,36 @@ function parseHtml(html) {
   return wrapper.childNodes
 }
 
+function strCmp(a, b) {
+  return (a ?? '').localeCompare(b ?? '', 'en', { numeric: true })
+}
+
+// Returns a function for comparing two <tr>s.
+function byColumn(colNum, cache, backward) {
+  return (tr1, tr2) => {
+    const a = cache.get(tr1)[colNum]
+    const b = cache.get(tr2)[colNum]
+    return backward ? strCmp(b, a) : strCmp(a, b)
+  }
+}
+
+function sortTable($table, colNum = 0, backward = false) {
+  // Cache in `sortTable.<var>`.
+  const $tbody = sortTable.$tbody ??= $table.find('& > tbody')
+  const $trs   = sortTable.$trs   ??= $tbody.find('& > tr')
+  const cache  = sortTable.cache  ??= new Map($trs.map(
+    tr => [tr, $(tr).find('& > td').map(td => td.innerText)]
+  ))
+  $tbody.append($trs.sort(byColumn(colNum, cache, backward)))
+}
+
 function sortListener({  // listener for resorting table
   currentTarget: form,
   target: { value: colName, checked: backward },
 }) {
   const $table = $(form).closest('figure').find('table')
-  const colNum = $table.find('th').map(th => th.innerText).indexOf(colName) + 1
-  if (!colNum) { return }
-  function xtract(colNum, tr) {
-    return tr
-      .querySelector(`td:nth-child(${colNum})`) // 1st occurrence only
-      .innerText ?? ''
-  }
-  // Uses vars <backward> and <colNum>.
-  function byColumn(tr1, tr2) {
-    let [v1, v2] = [xtract(colNum, tr1), xtract(colNum, tr2)]
-    if (backward) { [v1, v2] = [v2, v1] } // FIXME right order?
-    return v1.localeCompare(v2, 'en', { numeric: true })
-  }
-  const $tbody = $table.find('& > tbody')
-  const $trs   = $tbody.find('& > tr')
-  $tbody.append($trs.sort(byColumn)) // replace with sorted <tr>s
+  const colNum = $table.find('th').map(th => th.innerText).indexOf(colName)
+  sortTable($table, colNum, backward)
 }
 
 function toggleListener({  // listener to show/hide table columns
