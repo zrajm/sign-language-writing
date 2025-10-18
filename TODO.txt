@@ -248,7 +248,7 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
-* [4/8] Make table sortable by columns
+* [5/9] Make table sortable by columns
 ** DONE Toggle columns
    CLOSED: [2025-10-15 Wed 09:17]
 ** DONE Sort columns
@@ -257,6 +257,8 @@
    CLOSED: [2025-10-18 Sat 02:26]
 ** DONE Add sort caching (for looking up table cell values)
    CLOSED: [2025-10-18 Sat 02:46]
+** DONE Redesign table filter interface
+   CLOSED: [2025-10-18 Sat 06:43]
 ** TODO Fix Harvey balls sort order
 ** TODO Sorting countries should use country names
    The table cell value caching should grab `<span title="...">` in these

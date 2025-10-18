@@ -115,13 +115,14 @@ document.addEventListener("scent:done", () => {
       `<form>`,
       ...$('.sign-language-table th').map(th => {
         const x = th.innerText
-        return `<label><input type=checkbox checked class=toggle value="${x}"> ${x}</label>`
-          + ` <input type=checkbox class=sort value="${x}">`
+        return `<span>`
+          + `<input title="Show/hide column" type=checkbox checked class=toggle value="${x}"> `
+          + `<label title="Resort column">${x} <input type=checkbox class=sort value="${x}"></label>`
+          + `</span>`
       })
     ].join('\n'))
       .on('change', '.toggle', toggleListener)
       .on('change', '.sort',   sortListener))
-
 })
 
 //[eof]
