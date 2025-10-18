@@ -103,12 +103,12 @@ document.addEventListener("scent:done", () => {
   // Add column selector for table.
   $('figure.table-gui').prepend(
     $([
-    `<form><b>Columns:</b>`,
-    ...$('.sign-language-table th').map(th => {
-      const x = th.innerText
-      return `<label><input type=checkbox checked class=toggle value="${x}"> ${x}</label>`
-        + ` <input type=checkbox class=sort value="${x}">`
-    })
+      `<form>`,
+      ...$('.sign-language-table th').map(th => {
+        const x = th.innerText
+        return `<label><input type=checkbox checked class=toggle value="${x}"> ${x}</label>`
+          + ` <input type=checkbox class=sort value="${x}">`
+      })
     ].join('\n'))
       .on('change', '.toggle', toggleListener)
       .on('change', '.sort',   sortListener))

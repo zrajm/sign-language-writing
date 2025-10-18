@@ -248,7 +248,7 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
-* [3/7] Make table sortable by columns
+* [3/8] Make table sortable by columns
 ** DONE Toggle columns
    CLOSED: [2025-10-15 Wed 09:17]
 ** DONE Sort columns
@@ -263,6 +263,13 @@
    `.innerText`?)
 ** TODO Ignore prefixes when sorting numbers
    <, > and ~ moar?
+** TODO Interface to allow reorganizing of table columns
+* TODO Set table background color
+  So that any :target shine aura doesn't show through the table itself.
+* TODO :target aura for parts of table protruding from body?
+  table get an :target aura, which doesn't show up at the top/bottom, but only
+  on the protruding parts of the table? Maybe a :before element could be put
+  *behind* the body, to achieve this? Or clipping by the shadow somehow?
 * TODO Laban--Benesh notation
   Laban--Benesh notation is mentioned here:
   https://www.britannica.com/art/dance-notation/Twentieth-century-developments
