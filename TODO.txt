@@ -248,7 +248,7 @@
   CLOSED: [2025-09-29 Mon 03:59]
 * DONE Add SOSO (from German Wikipedia: "Gebärdenschrift")
   CLOSED: [2025-09-29 Mon 04:42]
-* [5/9] Make table sortable by columns
+* [5/5] Make table sortable by columns
 ** DONE Toggle columns
    CLOSED: [2025-10-15 Wed 09:17]
 ** DONE Sort columns
@@ -259,6 +259,12 @@
    CLOSED: [2025-10-18 Sat 02:46]
 ** DONE Redesign table filter interface
    CLOSED: [2025-10-18 Sat 06:43]
+* DONE Fix SignScript font errors
+  CLOSED: [2025-10-20 Mon 13:43]
+  Just loaded the Truetype into Fontforge and saving it again as a WOFF2 file
+  removed all the errors that outputted on the console on pageload was when the
+  WOFF2 file was created by using `woff2_compress signscript.ttf`.
+* [0/4] Improve table column sort
 ** TODO Fix Harvey balls sort order
 ** TODO Sorting countries should use country names
    The table cell value caching should grab `<span title="...">` in these
