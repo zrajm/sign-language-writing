@@ -1,10 +1,10 @@
 : -*- web -*-
 Year: 1971 ([Eshkol 1971] published)
-Title: EWMN (Eshkol-Wachman Movement Notation)
+Title: EWMN (Eshkol--Wachman Movement Notation)
 Latin: ◑ (numbers, and text labels for rows, also many custom symbols)
 Language: ISL
 Country: United States
-Creator: Eshkol, Noa; Wachman, Avraham
+Creator: Eshkol, Noa (hearing?); Wachman, Avraham (hearing?)
 Source: [Eshkol 1971] (?), [Cohen, Namir & Schlesinger 1977] (?), [Renard 2004]: 168
 Graphemes: ?
 
@@ -33,7 +33,7 @@ Graphemes: ?
   </div>
   ![](pic/eshkol-young-1.png?darkmode=no)
 <figcaption style="width:100%">
-    The sign "young" in ISL, written in Eshkol-Wachman Movement Notation.
+    The sign "young" in ISL, written in Eshkol--Wachman Movement Notation.
     <br>(Pictures from https://noaeshkol.org/gallery/hands)
   </figcaption>
 </figure>
