@@ -1,5 +1,5 @@
 : -*- web -*-
-Year: 1965
+Year: 1965 ([Stokoe, Casterline & Croneberg 1965] published)
 Title: DASL Notation (Dictionary of ASL Notation)
 Latin: ◑
 Language: ASL
@@ -7,7 +7,7 @@ Country: United States
 Creator: Stokoe, William C. (hearing);
          Casterline, Dorothy C. (deaf);
          Croneberg, Carl G. (deaf)
-Source: [Renard 2004]: 168
+Source: [Stokoe, Casterline & Croneberg 1965], [Renard 2004]: 168
 Graphemes: ?
 
 FIXME: Renard classifies the Stokoe notation and DASL notation as two different

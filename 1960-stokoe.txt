@@ -1,11 +1,11 @@
 : -*- web -*-
-Year: 1960
+Year: 1960 ([Stokoe 1960] published)
 Title: Stokoe Notation (also 'Stokoe system', French: 'notation Stokoe')
 Latin: ◑
 Language: ASL
 Country: United States
 Creator: Stokoe, William C. (hearing)
-Source: [Renard 2004]: 59--64, 166, 168
+Source: [Stokoe 1960], [Renard 2004]: 59--64, 166, 168
 Graphemes: 55 (https://scriptsource.org/entry/vwtyy3tjrf)
 
 <figure>
