@@ -77,6 +77,7 @@ const flags = {
   '🇫🇷': 'France',
   '🇩🇪': 'Germany',
   '🇬🇧': 'Great Britain',
+  '🇭🇰': 'Hong Kong',
   '🇮🇹': 'Italy',
   '🇳🇱': 'Netherlands',
   '🇷🇺': 'Russia',

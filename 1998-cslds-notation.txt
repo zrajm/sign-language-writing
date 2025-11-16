@@ -1,0 +1,39 @@
+: -*- web -*-
+Year: 1998?
+Title: CSLDS notation
+Latin: ◑
+Language: HKSL(?)
+Country: Hong Kong
+Creator: ?
+Source: https://www.cslds.org/v4/resources.php?id=1
+Graphemes: ?
+Parent: [Stokoe notation] (?)
+
+<div class=note>This a notation was recently brought to my attention (15
+November 2025) by the awesome people at the *Signed Conlangs* Discord server.
+This entry is mostly a placeholder until I can put something better here.</div>
+
+<figure class=i9ms819>
+<style>.i9ms819 { img { margin: 0 } td:first-child { white-space: nowrap } }</style>
+
+| Font Name                                  | Sample                                             | Year  |
+|--------------------------------------------|----------------------------------------------------|-------|
+| [`handshape.ttf`](pic/cslds-handshape.ttf) | ![handshape](pic/cslds-handshape.jpg?darkmode=yes) | 2002? |
+| [`handkey.ttf`](pic/cslds-handkey.ttf)     | ![handkeys](pic/cslds-handkeys.jpg?darkmode=yes)   | 2002  |
+| [`location.ttf`](pic/cslds-location.ttf)   | ![location](pic/cslds-location.jpg?darkmode=yes)   | 1998  |
+| [`movement.ttf`](pic/cslds-movement.ttf)   | ![movement](pic/cslds-movement.jpg?darkmode=yes)   | 1998  |
+
+<figcaption>
+    Fonts by *The Centre for Sign Linguistics and Deaf Studies* at The Chinese
+    University of Hong Kong (https://www.cslds.org/v4/resources.php?id=1).
+</figcaption>
+</figure>
+
+Table above lists include the metadata copyright year for each of the font.
+
+The font `handshape.tty` does not list a copyright year, but is *named*
+'handshape2002-Regular' in the metadata, and thus I've used '2002' below.---Of
+the fonts, this is clearly the least interesting of the four, since it is just
+pictures of hands, and not really part any notation.
+
+<!--[eof]-->

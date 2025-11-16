@@ -107,6 +107,7 @@ sub flag {
         'France'        => '🇫🇷',
         'Germany'       => '🇩🇪',
         'Great Britain' => '🇬🇧',
+        'Hong Kong'     => '🇭🇰',
         'Italy'         => '🇮🇹',
         'Netherlands'   => '🇳🇱',
         'Russia'        => '🇷🇺',
