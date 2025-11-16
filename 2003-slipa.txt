@@ -1,5 +1,5 @@
 : -*- web -*-
-Year: 2003(?) ([Peterson 2003] published)
+Year: 2003? ([Peterson 2003] published)
 Title: SLIPA (Sign Language IPA)
 Latin: ● (uses only ASCII characters, optionally with Unicode diacritics)
 Language: any

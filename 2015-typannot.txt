@@ -1,5 +1,5 @@
 : -*- web -*-
-Year: 2015(?)
+Year: 2015?
 Title: Typannot
 Latin: ◔ (no Latin characters)
 Language: LSF/any
