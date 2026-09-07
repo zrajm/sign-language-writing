@@ -13,8 +13,8 @@ use charnames qw(:full :short);  # unneeded in v5.16
 use File::Spec;
 
 our $AUTHOR='zrajm <zrajm@zrajm.org>';
-our $VERSION='0.0.5';                          # https://semver.org/
-our $VERSION_DATE='1 October 2025';
+our $VERSION='0.0.6';                          # https://semver.org/
+our $VERSION_DATE='7 September 2026';
 our $CREATED_DATE='10 August 2025'; # never change this!
 our $PROGRAM = (File::Spec->splitpath(decode(__FILE__)))[2];
 our $USAGE = <<"USAGE_END";
@@ -566,7 +566,7 @@ for ($text) {
 }
 
 if ($text ne $org_text) {
-    $text =~ s{(^Updated:)\s+(.*)\n}{ "$1 " . `date --iso=minutes` }me;
+    $text =~ s{(^Updated:)\s+(.*)\n}{ "$1 " . `date --rfc-3339=seconds` }me;
 
     # Atomic file update. Write to tempfile, then rename to overwrite original.
     # (Also save original as '.bak' file.)
